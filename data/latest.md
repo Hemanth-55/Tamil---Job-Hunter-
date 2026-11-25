@@ -1,6 +1,6 @@
 # Job Hunter · 25 Nov 2026
 
-**23** open roles fit · **23** new today · 2,002 postings read from 40 employer boards
+**23** open roles fit · **23** new today · 2,020 postings read from 40 employer boards
 
 | Fit | Role | Company | Location | Posted |
 |:-:|---|---|---|---|
@@ -8,8 +8,8 @@
 | 90 | [Campaign Analytics, Data Analyst](https://www.fanduel.careers/open-positions?gh_jid=8055746) | FanDuel | New York City | 2026-10-23 |
 | 80 | [Analytics Engineer](https://www.fanduel.careers/open-positions?gh_jid=8357302) | FanDuel | New York City | 2026-11-12 |
 | 80 | [Data Scientist, Risk](https://www.fanduel.careers/open-positions?gh_jid=8303304) | FanDuel | Jersey City, New Jersey, United States | 2026-10-30 |
-| 79 | [Product Analyst](https://www.fanduel.careers/open-positions?gh_jid=8325673) | FanDuel | New York City | 2026-11-05 |
 | 79 | [Product Analyst](https://www.fanduel.careers/open-positions?gh_jid=8337243) | FanDuel | Atlanta, Georgia, United States | 2026-11-05 |
+| 79 | [Product Analyst](https://www.fanduel.careers/open-positions?gh_jid=8325673) | FanDuel | New York City | 2026-11-05 |
 | 78 | [Analytics Engineer](https://www.fanduel.careers/open-positions?gh_jid=8368191) | FanDuel | New York City | 2026-11-24 |
 | 76 | [Analytics Engineer](https://www.fanduel.careers/open-positions?gh_jid=8093107) | FanDuel | Jersey City, New Jersey, United States | 2026-10-27 |
 | 74 | [Quantitative Software Engineer](https://www.fanduel.careers/open-positions?gh_jid=8348296) | FanDuel | Jersey City, New Jersey, United States | 2026-11-24 |
