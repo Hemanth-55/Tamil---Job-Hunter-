@@ -52,6 +52,7 @@ ashby:
 
 smartrecruiters:
   - {slug: sportradar, name: Sportradar, group: sports data}
+  - {slug: RedBull, name: Red Bull (incl. Red Bull New York), group: team}
 
 workday:
   - {tenant: draftkings, wd: 1, site: DraftKings, name: DraftKings, group: betting & fantasy}

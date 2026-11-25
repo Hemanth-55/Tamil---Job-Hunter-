@@ -11,7 +11,8 @@ roles:
                baseball analytics, football analytics, hockey analytics, soccer analytics, research & development,
                quantitative analyst, data scientist, data analyst, machine learning, computer vision, analytics, sports analyst, data science,
                baseball operations, basketball operations, hockey operations, football operations, scouting,
-               quantitative, research scientist, hitting analyst, pitching analyst]
+               quantitative, research scientist, hitting analyst, pitching analyst, academy scout, video analysis,
+               team analysis, performance analysis, match analysis, video analyst]
   adjacent:   [business intelligence, bi analyst, insights, decision science, strategy & analytics, fan analytics,
                consumer analytics, marketing analytics, pricing, trading analyst, product analyst, data engineer,
                ai engineer, applied scientist, research analyst, business analyst, ai/ml, ml engineer, data products,
@@ -31,7 +32,7 @@ locations:
 exclude_titles: [retail, store, sales associate, stock associate, warehouse, distribution associate, driver, cashier,
                  seasonal, part-time, part time, nurse, physician, attorney, counsel, paralegal, recruiter, chef,
                  security officer, technician, mechanic, forklift, bartender, box office, payroll, tax, hris, grc,
-                 compliance, cyber, clinical]
+                 compliance, cyber, clinical, musketeer, territory manager]
 
 min_score: 45        # 0–100; below this a posting is dropped
 max_age_days: 45     # ignore postings older than this when the board gives a date

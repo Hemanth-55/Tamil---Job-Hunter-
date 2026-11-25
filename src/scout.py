@@ -230,6 +230,8 @@ def non_us(loc: str) -> bool:
     parts = [p.strip() for p in re.split(r"[;|/]", loc) if p.strip()]
     def outside(p):
         m = re.search(r",\s*([a-z]{2})$", p)               # SmartRecruiters style 'Vienna, at'
+        if m and p.count(",") >= 2:                          # 'city, region, country': last part is the country
+            return m.group(1) != "us"
         if m and m.group(1) not in ("us", "ma", "ny", "nj", "ca", "tx", "fl", "ga", "il", "wa", "co", "pa", "nc",
                                      "dc", "va", "md", "oh", "mi", "az", "or", "mn", "tn", "ne", "mo", "ky", "ut",
                                      "nv", "wi", "in", "ct", "ri", "nh", "la", "sc", "al", "ok", "ia", "ks"):
