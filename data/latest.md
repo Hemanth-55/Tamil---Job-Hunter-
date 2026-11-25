@@ -1,6 +1,6 @@
 # Job Hunter · 25 Nov 2026
 
-**35** open roles fit · **35** new today · 3,217 postings read from 47 employer boards
+**135** open roles fit · **135** new today · 3,389 postings read from 47 employer boards
 
 | Fit | Role | Company | Location | Posted |
 |:-:|---|---|---|---|
@@ -15,29 +15,34 @@
 | 82 | [Buying & Merchandising AI Analyst](https://boards.greenhouse.io/aloyoga/jobs/6241245004?gh_jid=6241245004) | Alo | Beverly Hills, California, United States | 2026-11-20 |
 | 79 | [Game Operations - Trading Analyst](http://prizepicks.com/position?gh_jid=7981471003) | PrizePicks | Atlanta, GA preferred, Remote | 2026-10-29 |
 | 78 | [Financial Analyst](https://jobs.smartrecruiters.com/RedBull/744000155831829) | Red Bull (incl. Red Bull New York) | Santa Monica, CA, us | 2026-10-15 |
-| 70 | [Minor League Complex Hitting Analyst and Rehab Coach](https://jobs.lever.co/redsox/7cafc474-cda7-49af-acfd-40dd2b804d14) | Boston Red Sox | Fort Myers, FL, United States | 2026-10-30 |
-| 68 | [Analyst, Category Insights](https://jobs.smartrecruiters.com/RedBull/744000162604510) | Red Bull (incl. Red Bull New York) | Santa Monica, CA, us | 2026-11-19 |
-| 67 | [2027 Internship, Spring - RBII Team Analysis](https://jobs.smartrecruiters.com/RedBull/744000163139439) | Red Bull (incl. Red Bull New York) | Morristown, NJ, us | 2026-11-23 |
-| 67 | [2027 Internship, Spring - Academy Scout](https://jobs.smartrecruiters.com/RedBull/744000163139079) | Red Bull (incl. Red Bull New York) | Morristown, NJ, us | 2026-11-23 |
-| 66 | [Analytics Engineer](https://www.fanduel.careers/open-positions?gh_jid=8368191) | FanDuel | New York City | 2026-11-24 |
-| 66 | [Analytics Engineer](https://www.fanduel.careers/open-positions?gh_jid=8357302) | FanDuel | New York City | 2026-11-12 |
-| 65 | [FinOps Analyst](https://job-boards.greenhouse.io/hudl/jobs/8189302) | Hudl | Lincoln, NE, United States; Omaha, NE, United States | 2026-11-18 |
-| 60 | [Analytics Engineer](https://www.fanduel.careers/open-positions?gh_jid=8093107) | FanDuel | Jersey City, New Jersey, United States | 2026-10-27 |
-| 59 | [WMS Business Systems Analyst](https://boards.greenhouse.io/aloyoga/jobs/6253632004?gh_jid=6253632004) | Alo | Beverly Hills LAND, Beverly Hills, CA (HQ-L); San Ramon, California, United States | 2026-11-20 |
-| 57 | [Data Scientist, Risk](https://www.fanduel.careers/open-positions?gh_jid=8303304) | FanDuel | Jersey City, New Jersey, United States | 2026-10-30 |
-| 57 | [Paid Search Specialist](https://job-boards.greenhouse.io/prophet/jobs/4756908005) | Prophet | Atlanta, Austin, Chicago, San Francisco, New York City | 2026-11-19 |
-| 57 | [Apparel & Accessories Inventory Planner](https://jobs.ashbyhq.com/whoop/fa31c080-9bc5-432c-b6e1-5577fcce97e7) | WHOOP | Boston, MA | 2026-10-28 |
-| 56 | [Sustainability Data Analyst](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Sustainability-Data-Analyst_202640425) | DICK'S Sporting Goods | Customer Support Center | 2026-10-26 |
-| 56 | [Analyst – Floor Planning](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Analyst---Floor-Planning_202640488) | DICK'S Sporting Goods | Customer Support Center | 2026-10-26 |
-| 56 | [FW Product Testing Analyst II, Korea](https://nike.wd1.myworkdayjobs.com/nke/job/Busan-Korea/FW-Product-Testing-Analyst-II--Korea_R-96973) | Nike | Busan, Korea | 2026-11-06 |
-| 56 | [Supply Chain Analyst](https://nike.wd1.myworkdayjobs.com/nke/job/Laakdal-Belgium/Supply-Chain-Analyst_R-95762) | Nike | Laakdal, Belgium | 2026-10-26 |
-| 56 | [Software Engineer - New Grad](https://seatgeek.com/jobs/8227548?gh_jid=8227548) | SeatGeek | New York, New York | 2026-10-28 |
-| 55 | [SEO Marketing Associate](https://www.fanduel.careers/open-positions?gh_jid=8333930) | FanDuel | New York City | 2026-11-09 |
-| 53 | [Go-To-Market Associate, Campaigns](https://www.fanduel.careers/open-positions?gh_jid=8349867) | FanDuel | New York City | 2026-11-06 |
-| 53 | [Media Coordinator](https://www.fanduel.careers/open-positions?gh_jid=8372490) | FanDuel | New York City | 2026-11-23 |
-| 51 | [Change Management Consultant (Contract)](https://jobs.ashbyhq.com/tonal/9f0a92fb-ebd2-4c8b-9735-b2f852924509) | Tonal | US, Remote | 2026-11-25 |
-| 49 | [2027 Internship, Spring - Data Science](https://jobs.smartrecruiters.com/RedBull/744000163139699) | Red Bull (incl. Red Bull New York) | Morristown, NJ, us | 2026-11-23 |
-| 48 | [Lifecycle Marketing Specialist](http://prizepicks.com/position?gh_jid=8003570003) | PrizePicks | Atlanta, GA preferred, Remote; New York, NY, USA | 2026-11-12 |
-| 48 | [Software Engineer - Internship](https://seatgeek.com/jobs/8227553?gh_jid=8227553) | SeatGeek | New York, New York | 2026-10-28 |
+| 70 | [Business Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bratislava/Business-Analyst_R00361539) | Accenture | — | 2026-11-17 |
+| 70 | [Junior AI Business Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bratislava/Junior-AI-Business-Analyst_R00318188) | Accenture | — | 2026-11-17 |
+| 70 | [IT Business Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Budapest-Millennium-Gardens/IT-Business-Analyst_R00350481) | Accenture | — | 2026-10-26 |
+| 70 | [Business Advisory Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Business-Advisory-Analyst_AIOC-S01630639-1) | Accenture | — | 2026-10-27 |
+| 70 | [Business Advisory Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Business-Advisory-Analyst_AIOC-S01650168-1) | Accenture | — | 2026-10-26 |
+| 70 | [Banking Advisory Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Banking-Advisory-Analyst_AIOC-S01656676-1) | Accenture | — | 2026-10-27 |
+| 70 | [Business Advisory Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01657942-1) | Accenture | — | 2026-11-10 |
+| 70 | [Business Advisory Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01657943-1) | Accenture | — | 2026-11-10 |
+| 70 | [Business Advisory Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Business-Advisory-Analyst_AIOC-S01667208-1) | Accenture | — | 2026-10-27 |
+| 70 | [Banking Advisory Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Banking-Advisory-Analyst_AIOC-S01668525-1) | Accenture | — | 2026-10-27 |
+| 70 | [Business Advisory Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Business-Advisory-Analyst_AIOC-S01669466-1) | Accenture | — | 2026-10-27 |
+| 70 | [Business Advisory Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Advisory-Analyst_AIOC-S01670321-1) | Accenture | — | 2026-10-26 |
+| 70 | [Business Advisory Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Advisory-Analyst_AIOC-S01670546-1) | Accenture | — | 2026-10-26 |
+| 70 | [Business Advisory Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Advisory-Analyst_AIOC-S01670547-1) | Accenture | — | 2026-10-26 |
+| 70 | [Business Advisory Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671459-1) | Accenture | — | 2026-10-26 |
+| 70 | [Business Advisory Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671447-1) | Accenture | — | 2026-10-26 |
+| 70 | [Business Advisory Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671431-1) | Accenture | — | 2026-10-26 |
+| 70 | [Business Advisory Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671457-1) | Accenture | — | 2026-10-26 |
+| 70 | [Business Advisory Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671453-1) | Accenture | — | 2026-10-26 |
+| 70 | [Business Advisory Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671437-1) | Accenture | — | 2026-10-26 |
+| 70 | [Business Advisory Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671432-1) | Accenture | — | 2026-10-26 |
+| 70 | [Business Advisory Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671440-1) | Accenture | — | 2026-10-26 |
+| 70 | [Business Advisory Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671452-1) | Accenture | — | 2026-10-26 |
+| 70 | [Business Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Analyst_ATCI-5385094-S2001521-1) | Accenture | — | 2026-10-26 |
+| 70 | [Business Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bhubaneswar/Business-Analyst_ATCI-5483058-S2003011-1) | Accenture | — | 2026-10-26 |
+| 70 | [Business Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Business-Analyst_ATCI-5481116-S2003026-1) | Accenture | — | 2026-10-26 |
+| 70 | [Business Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Business-Analyst_ATCI-5482850-S2003021-1) | Accenture | — | 2026-10-26 |
+| 70 | [Business Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Analyst_ATCI-5068841-S2007030-1) | Accenture | — | 2026-10-26 |
+| 70 | [Business Analyst](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Analyst_ATCI-5530011-S2016861-1) | Accenture | — | 2026-10-26 |
 
 <sub>Every link goes to the employer's own job board. Résumés are tailored in a Claude session: say "Tamil, hunt".</sub>

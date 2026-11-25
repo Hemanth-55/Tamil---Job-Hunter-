@@ -1,6 +1,6 @@
 {
  "updated": "2026-11-25",
- "count": 35,
+ "count": 135,
  "jobs": [
   {
    "id": "greenhouse:8325673",
@@ -211,6 +211,1338 @@
    "first_seen": "2026-11-25"
   },
   {
+   "id": "workday:accenture/job/Bratislava/Business-Analyst_R00361539",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bratislava/Business-Analyst_R00361539",
+   "posted": "2026-11-17",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Bratislava/Junior-AI-Business-Analyst_R00318188",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Junior AI Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bratislava/Junior-AI-Business-Analyst_R00318188",
+   "posted": "2026-11-17",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Budapest-Millennium-Gardens/IT-Business-Analyst_R00350481",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "IT Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Budapest-Millennium-Gardens/IT-Business-Analyst_R00350481",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Chennai/Business-Advisory-Analyst_AIOC-S01630639-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Advisory Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Business-Advisory-Analyst_AIOC-S01630639-1",
+   "posted": "2026-10-27",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: advisory analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Navi-Mumbai/Business-Advisory-Analyst_AIOC-S01650168-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Advisory Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Business-Advisory-Analyst_AIOC-S01650168-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: advisory analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Chennai/Banking-Advisory-Analyst_AIOC-S01656676-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Banking Advisory Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Banking-Advisory-Analyst_AIOC-S01656676-1",
+   "posted": "2026-10-27",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: advisory analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01657942-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Advisory Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01657942-1",
+   "posted": "2026-11-10",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: advisory analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01657943-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Advisory Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01657943-1",
+   "posted": "2026-11-10",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: advisory analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Gurugram/Business-Advisory-Analyst_AIOC-S01667208-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Advisory Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Business-Advisory-Analyst_AIOC-S01667208-1",
+   "posted": "2026-10-27",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: advisory analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Bengaluru/Banking-Advisory-Analyst_AIOC-S01668525-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Banking Advisory Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Banking-Advisory-Analyst_AIOC-S01668525-1",
+   "posted": "2026-10-27",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: advisory analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Gurugram/Business-Advisory-Analyst_AIOC-S01669466-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Advisory Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Business-Advisory-Analyst_AIOC-S01669466-1",
+   "posted": "2026-10-27",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: advisory analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Bengaluru/Business-Advisory-Analyst_AIOC-S01670321-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Advisory Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Advisory-Analyst_AIOC-S01670321-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: advisory analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Bengaluru/Business-Advisory-Analyst_AIOC-S01670546-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Advisory Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Advisory-Analyst_AIOC-S01670546-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: advisory analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Bengaluru/Business-Advisory-Analyst_AIOC-S01670547-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Advisory Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Advisory-Analyst_AIOC-S01670547-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: advisory analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671459-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Advisory Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671459-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: advisory analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671447-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Advisory Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671447-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: advisory analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671431-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Advisory Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671431-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: advisory analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671457-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Advisory Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671457-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: advisory analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671453-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Advisory Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671453-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: advisory analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671437-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Advisory Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671437-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: advisory analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671432-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Advisory Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671432-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: advisory analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671440-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Advisory Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671440-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: advisory analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671452-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Advisory Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst_AIOC-S01671452-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: advisory analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Hyderabad/Business-Analyst_ATCI-5385094-S2001521-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Analyst_ATCI-5385094-S2001521-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Bhubaneswar/Business-Analyst_ATCI-5483058-S2003011-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bhubaneswar/Business-Analyst_ATCI-5483058-S2003011-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Gurugram/Business-Analyst_ATCI-5481116-S2003026-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Business-Analyst_ATCI-5481116-S2003026-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Gurugram/Business-Analyst_ATCI-5482850-S2003021-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Business-Analyst_ATCI-5482850-S2003021-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Bengaluru/Business-Analyst_ATCI-5068841-S2007030-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Analyst_ATCI-5068841-S2007030-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Bengaluru/Business-Analyst_ATCI-5530011-S2016861-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Analyst_ATCI-5530011-S2016861-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Bengaluru/Business-Analyst_ATCI-5534857-S2020290-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Analyst_ATCI-5534857-S2020290-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Gurugram/Business-Analyst_ATCI-5510642-S2020766-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Business-Analyst_ATCI-5510642-S2020766-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Hyderabad/Business-Analyst_ATCI-5510603-S2020768-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Analyst_ATCI-5510603-S2020768-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Chennai/Business-Analyst_ATCI-5548020-S2021594-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Business-Analyst_ATCI-5548020-S2021594-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Chennai/Business-Analyst_ATCI-5548019-S2021595-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Business-Analyst_ATCI-5548019-S2021595-1",
+   "posted": "2026-11-20",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Pune/Business-Analyst_ATCI-5541979-S2025308-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Business-Analyst_ATCI-5541979-S2025308-1",
+   "posted": "2026-11-16",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Pune/Business-Analyst_ATCI-5528977-S2025300-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Business-Analyst_ATCI-5528977-S2025300-1",
+   "posted": "2026-11-16",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Pune/Business-Analyst_ATCI-5541980-S2025309-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Business-Analyst_ATCI-5541980-S2025309-1",
+   "posted": "2026-11-16",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Bengaluru/Business-Analyst_ATCI-5558547-S2025311-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Analyst_ATCI-5558547-S2025311-1",
+   "posted": "2026-11-03",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Bengaluru/Business-Analyst_ATCI-5558548-S2025312-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Analyst_ATCI-5558548-S2025312-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Bengaluru/Business-Analyst_ATCI-5567405-S2025790-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Analyst_ATCI-5567405-S2025790-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Bengaluru/Business-Analyst_ATCI-5612955-S2027435-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Analyst_ATCI-5612955-S2027435-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Singapore/Strategy-Analyst_R00356361",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Strategy Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/Strategy-Analyst_R00356361",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: strategy analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Mexico-City/Strategy---Analyst_R00370325",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Strategy - Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mexico-City/Strategy---Analyst_R00370325",
+   "posted": "2026-11-09",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: strategy",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Bangkok/Strategy-ATIOS-Strategy-Analyst_R00332066",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Strategy Analyst (Commodity Markets)",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bangkok/Strategy-ATIOS-Strategy-Analyst_R00332066",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: strategy analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Brussels/Data---AI-Value-Strategy-Analyst_R00345430-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Data & AI Strategy Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Data---AI-Value-Strategy-Analyst_R00345430-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: strategy analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Vienna/AI---Data-Strategy-Analyst--all-genders-_R00326541",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "AI & Data Strategy Analyst (all genders)",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Vienna/AI---Data-Strategy-Analyst--all-genders-_R00326541",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: strategy analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Bengaluru-BDC9A/Del-Center-Strategy---Ops-Analyst_AIOC-S01622956",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Del Center Strategy & Ops Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/Del-Center-Strategy---Ops-Analyst_AIOC-S01622956",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: strategy",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Bengaluru/XMLNAME--ACN-Industry-Strategy--Banking--Analyst_R00288080",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "#ACN Industry Strategy_ Banking_ Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/XMLNAME--ACN-Industry-Strategy--Banking--Analyst_R00288080",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: strategy",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Singapore/Accenture-Strategy-Summer-Analyst---May-to-Aug-2027_R00362198",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Accenture Strategy Summer Analyst - May to Aug 2027",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/Accenture-Strategy-Summer-Analyst---May-to-Aug-2027_R00362198",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: strategy",
+    "internship / fellowship",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Bengaluru/XMLNAME--ACN-S-C--GN-Strategy---CVS---Analyst_R00289698",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "#ACN S&C- GN-Strategy - CVS - Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/XMLNAME--ACN-S-C--GN-Strategy---CVS---Analyst_R00289698",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: strategy",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Vienna/Supply-Chain-Strategy-Consulting-Analyst--all-genders-_R00350041",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Supply Chain Strategy Consulting Analyst (all genders)",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Vienna/Supply-Chain-Strategy-Consulting-Analyst--all-genders-_R00350041",
+   "posted": "2026-11-04",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: consulting analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Dusseldorf-Kaistrasse-Corporate/Supply-Chain---Operations-Strategy--Junior--Consultant_R00315423",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Supply Chain Strategy Consulting Analyst (all genders)",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dusseldorf-Kaistrasse-Corporate/Supply-Chain---Operations-Strategy--Junior--Consultant_R00315423",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: consulting analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Bengaluru-BDC14A/XMLNAME--ACN-S-C-GN-Strategy-Transaction-Advisory---Manager-r_R00289691",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "#ACN S&C-GN-Strategy-Trans. Advisory- Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC14A/XMLNAME--ACN-S-C-GN-Strategy-Transaction-Advisory---Manager-r_R00289691",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: advisory",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Stockholm/Graduate---Junior-Strategy-Professionals---Industry---Process-Strategy_R00358096-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Graduate & Junior Strategy Professionals",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Stockholm/Graduate---Junior-Strategy-Professionals---Industry---Process-Strategy_R00358096-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: strategy",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Taguig/Management-Consulting-Analyst_R00349656",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Management Consulting Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Taguig/Management-Consulting-Analyst_R00349656",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: consulting analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Prague/Management-Consulting-Analyst--Prague--Czech-Republic-_R00294615",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Management Consulting Analyst (Junior+)",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Prague/Management-Consulting-Analyst--Prague--Czech-Republic-_R00294615",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: consulting analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Buenos-Aires/Supply-Chain-Consultant--Capability-Network_R00000887-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Strategy & Consulting | Management Consultant/Analyst - Fulfillment",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Buenos-Aires/Supply-Chain-Consultant--Capability-Network_R00000887-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: consultant",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Taguig/Digital-Marketing-Transformation-Consultant_R00341327-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Digital Marketing Transformation Consulting Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Taguig/Digital-Marketing-Transformation-Consultant_R00341327-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: consulting analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Taguig/Healthcare-Epic-Data-Consulting-Analyst_R00352009",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Healthcare Epic Data Consulting Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Taguig/Healthcare-Epic-Data-Consulting-Analyst_R00352009",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: consulting analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Taguig/Provider-Data-Management-Consulting-Analyst_R00351971",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Provider Data Management Consulting Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Taguig/Provider-Data-Management-Consulting-Analyst_R00351971",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: consulting analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Kuala-Lumpur-Exchange-106/HR-Transformation-Consulting-Analyst---Consultant--Talent---Organization-_R00337116",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "HR Transformation Consulting Analyst / Consultant (Talent & Organization)",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kuala-Lumpur-Exchange-106/HR-Transformation-Consulting-Analyst---Consultant--Talent---Organization-_R00337116",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: consulting analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Prague/Technology-Consulting-Analyst--Prague--Czech-Republic-_R00308327",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Technology Consulting Analyst (Prague, Czech Republic)",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Prague/Technology-Consulting-Analyst--Prague--Czech-Republic-_R00308327",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: consulting analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Kuala-Lumpur-Exchange-106/Management-Consulting-Analyst-Consultant--Talent---Organization---Change-Management-_R00337175",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Management Consulting Analyst/Consultant (Talent & Organization - Change Management)",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kuala-Lumpur-Exchange-106/Management-Consulting-Analyst-Consultant--Talent---Organization---Change-Management-_R00337175",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: consulting analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Warsaw/Automotive-Industry---ERP-Consultant---Analyst--German-speaking-_R00362288",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Automotive Industry - ERP Consultant / Analyst (German speaking)",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Automotive-Industry---ERP-Consultant---Analyst--German-speaking-_R00362288",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: consultant",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Kronberg/Industrial-Consulting-Analyst---Transport---Logistics--all-genders-_R00372995",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Industrial Consulting Analyst - Transport & Logistics (all genders)",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kronberg/Industrial-Consulting-Analyst---Transport---Logistics--all-genders-_R00372995",
+   "posted": "2026-11-24",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: consulting analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Warsaw/Salesforce-Service-Cloud-Consultant---Global-Network-Song_R00298208",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Salesforce Service Cloud Consultant/Analyst - Song (GN)",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Salesforce-Service-Cloud-Consultant---Global-Network-Song_R00298208",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: consultant",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Singapore/Management-Consultant---Business-Analyst_14676535",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Management Consultant - Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/Management-Consultant---Business-Analyst_14676535",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: consultant",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Buenos-Aires/Strategy---Consulting---Patient-Services-Management-Consulting-Analyst-Consultant---Life-Sciences_R00372229",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Strategy & Consulting | Patient Services Management Consulting Analyst/Consultant - Life Sciences",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Buenos-Aires/Strategy---Consulting---Patient-Services-Management-Consulting-Analyst-Consultant---Life-Sciences_R00372229",
+   "posted": "2026-11-13",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: consulting analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Warsaw/Management-Consultant-Analyst-for-Contact-Centers--Song-GN-_R00356944",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Management Consultant/Analyst for Contact Centers (Song GN)",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Management-Consultant-Analyst-for-Contact-Centers--Song-GN-_R00356944",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: consultant",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Warsaw/Data---Analytics-Consultant---Analyst-for-the-Resources-Industry---ICH-Europe_R00307278",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Data & Analytics Consultant / Analyst for the Resources Industry",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Data---Analytics-Consultant---Analyst-for-the-Resources-Industry---ICH-Europe_R00307278",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: consultant",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Warsaw-Sienna-39/Commercial-Consultant-Analyst---Life-Sciences--She-He-They----ICH-Europe_R00315245",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Commercial Consultant/Analyst \u2013 Life Sciences (She/He/They)",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw-Sienna-39/Commercial-Consultant-Analyst---Life-Sciences--She-He-They----ICH-Europe_R00315245",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: consultant",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Milano/Stage-in-area-Consulting_R00279776",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Business Analyst - Intern",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Milano/Stage-in-area-Consulting_R00279776",
+   "posted": "2026-11-05",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "internship / fellowship",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Milano-Via-Gaetano-de-Castillia-23/Intellera---Strategy---Consulting---Public-Service-Intern-Analyst_R00320230",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Intellera Public Service Local - PMO & Business Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Milano-Via-Gaetano-de-Castillia-23/Intellera---Strategy---Consulting---Public-Service-Intern-Analyst_R00320230",
+   "posted": "2026-11-05",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Assago-Via-del-Mulino-11a/Maritime-Internship_R00342490",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Maritime Business Analyst Internship",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Assago-Via-del-Mulino-11a/Maritime-Internship_R00342490",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 70,
+   "why": [
+    "advisory/business: business analyst",
+    "internship / fellowship",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
    "id": "lever:7cafc474-cda7-49af-acfd-40dd2b804d14",
    "company": "Boston Red Sox",
    "group": "team",
@@ -282,26 +1614,6 @@
    "first_seen": "2026-11-25"
   },
   {
-   "id": "greenhouse:8368191",
-   "company": "FanDuel",
-   "group": "betting & fantasy",
-   "source": "greenhouse",
-   "title": "Analytics Engineer",
-   "location": "New York City",
-   "url": "https://www.fanduel.careers/open-positions?gh_jid=8368191",
-   "posted": "2026-11-24",
-   "description": "THE POSITION Our roster has an opening with your name on it FanDuel is looking for an Analytics Engineer who will be responsible for designing, building, maintaining, and improving the data models, datasets and data visualizations which are and will be used by data scientists, analysts and stakeholders to power business performance impacting decisions in Generosity/Promotional Spend. This is a great opportunity for somebody who wants to work in an environment where curiosity is rewarded and people are empowered to make decisions. The ideal candidate will have a passion for continual learning and developing innovative solutions to business problems. In addition to the specific responsibilities outlined above, employees may be required to perform other such duties as assigned by the Company. This ensures operational flexibility and allows the Company to meet evolving business needs. THE GAME PLAN &nbsp; Everyone on our team has a part to play Work with Data Scientists and Data Engineers to optimize data pipelines and feature engineering for reporting, analysis, classification and prediction models Manage data transformation jobs for relevant data, ensure completion on schedule, optimize code, troubleshoot any issues Optimize modeled metric pipelines, streamline execution times and prioritizations, reduce query execution times where possible, remove unnecessary or unused metrics Leverage AI to accelerate and enhance your work, taking care to ensure high integrity, managing AI risk of error, and maintaining excellent understanding of AI output to avoid blind trust. Build a strong understanding of Sportsbook Generosity Distribution strategy, our customers behaviors and preferences, and your stakeholders objectives, to support collaboration, and focus on delivering impactful output and ideation Through idea generation and exploratory analysis, develop new and innovative ways to turn behaviors into features for use in analysis, segmentation and predictive modeling Maintain business rule definitions, and code implementations Design and implement data quality checks and alerts to manage accuracy of underlying data, and ensure modeled metrics are fit for purpose Build strong knowledge in how to optimally use our data platforms, and assist in educating team members in optimal platform usage; Build and maintain strong working relationships with key stakeholders in relevant teams within the Data Engineering and Data Product departments; Build and maintain dashboards, optimize code, troubleshoot issues Identifying potential improvements in underlying ingested data, or new data needs, and working with Data Engineering to prioritize and deliver &nbsp; THE STATS What we\u2019re looking for in our next teammate Minimum 3 years of experience in a similar role Minimum 2 years building, maintaining and optimizing complex data pipelines with real world applications Advanced SQL coding and experience of manipulating large datasets Proficient in at least one programming language (e.g. Python, R, C# etc.) Strong problem solving ability and attention to detail are important Experience building data pipelines using Python and Databricks an advantage Experience working with data visualization tools like Tableau an advantage Undergraduate degree in a coding heavy or technical discipline Interest in Sports an advantage &nbsp; ABOUT FANDUEL FanDuel Group is the premier mobile gaming company in the United States and Canada. FanDuel Group consists of a portfolio of leading brands across mobile wagering including: America\u2019s #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry\u2019s unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product. &nbsp; In addition, FanDuel Group operates FanDuel TV, its broadly distributed linear cable television network and FanDuel TV+, its leading direct-to-consumer OTT platform. FanDuel Group has a presence across all 50 states, Canada, a",
-   "score": 66,
-   "why": [
-    "analytics: analytics",
-    "city: new york city",
-    "Northeast",
-    "pay up to $145,000",
-    "engineering role (more technical than the goal)"
-   ],
-   "first_seen": "2026-11-25"
-  },
-  {
    "id": "greenhouse:8357302",
    "company": "FanDuel",
    "group": "betting & fantasy",
@@ -322,6 +1634,26 @@
    "first_seen": "2026-11-25"
   },
   {
+   "id": "greenhouse:8368191",
+   "company": "FanDuel",
+   "group": "betting & fantasy",
+   "source": "greenhouse",
+   "title": "Analytics Engineer",
+   "location": "New York City",
+   "url": "https://www.fanduel.careers/open-positions?gh_jid=8368191",
+   "posted": "2026-11-24",
+   "description": "THE POSITION Our roster has an opening with your name on it FanDuel is looking for an Analytics Engineer who will be responsible for designing, building, maintaining, and improving the data models, datasets and data visualizations which are and will be used by data scientists, analysts and stakeholders to power business performance impacting decisions in Generosity/Promotional Spend. This is a great opportunity for somebody who wants to work in an environment where curiosity is rewarded and people are empowered to make decisions. The ideal candidate will have a passion for continual learning and developing innovative solutions to business problems. In addition to the specific responsibilities outlined above, employees may be required to perform other such duties as assigned by the Company. This ensures operational flexibility and allows the Company to meet evolving business needs. THE GAME PLAN &nbsp; Everyone on our team has a part to play Work with Data Scientists and Data Engineers to optimize data pipelines and feature engineering for reporting, analysis, classification and prediction models Manage data transformation jobs for relevant data, ensure completion on schedule, optimize code, troubleshoot any issues Optimize modeled metric pipelines, streamline execution times and prioritizations, reduce query execution times where possible, remove unnecessary or unused metrics Leverage AI to accelerate and enhance your work, taking care to ensure high integrity, managing AI risk of error, and maintaining excellent understanding of AI output to avoid blind trust. Build a strong understanding of Sportsbook Generosity Distribution strategy, our customers behaviors and preferences, and your stakeholders objectives, to support collaboration, and focus on delivering impactful output and ideation Through idea generation and exploratory analysis, develop new and innovative ways to turn behaviors into features for use in analysis, segmentation and predictive modeling Maintain business rule definitions, and code implementations Design and implement data quality checks and alerts to manage accuracy of underlying data, and ensure modeled metrics are fit for purpose Build strong knowledge in how to optimally use our data platforms, and assist in educating team members in optimal platform usage; Build and maintain strong working relationships with key stakeholders in relevant teams within the Data Engineering and Data Product departments; Build and maintain dashboards, optimize code, troubleshoot issues Identifying potential improvements in underlying ingested data, or new data needs, and working with Data Engineering to prioritize and deliver &nbsp; THE STATS What we\u2019re looking for in our next teammate Minimum 3 years of experience in a similar role Minimum 2 years building, maintaining and optimizing complex data pipelines with real world applications Advanced SQL coding and experience of manipulating large datasets Proficient in at least one programming language (e.g. Python, R, C# etc.) Strong problem solving ability and attention to detail are important Experience building data pipelines using Python and Databricks an advantage Experience working with data visualization tools like Tableau an advantage Undergraduate degree in a coding heavy or technical discipline Interest in Sports an advantage &nbsp; ABOUT FANDUEL FanDuel Group is the premier mobile gaming company in the United States and Canada. FanDuel Group consists of a portfolio of leading brands across mobile wagering including: America\u2019s #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry\u2019s unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product. &nbsp; In addition, FanDuel Group operates FanDuel TV, its broadly distributed linear cable television network and FanDuel TV+, its leading direct-to-consumer OTT platform. FanDuel Group has a presence across all 50 states, Canada, a",
+   "score": 66,
+   "why": [
+    "analytics: analytics",
+    "city: new york city",
+    "Northeast",
+    "pay up to $145,000",
+    "engineering role (more technical than the goal)"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
    "id": "greenhouse:8189302",
    "company": "Hudl",
    "group": "sports tech",
@@ -337,6 +1669,402 @@
     "entry level",
     "pay up to $106,000",
     "asks for heavy experience"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Singapore/Graduate-Technology-Analyst---Talent-Advancement-Program-2025_R00235221",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Graduate Analyst - Talent Advancement Program",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/Graduate-Technology-Analyst---Talent-Advancement-Program-2025_R00235221",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 60,
+   "why": [
+    "analytics: analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Munich-Balan-Campus-Building-17/Enterprise-Operating-Model-Analyst--all-genders-_R00347258",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Enterprise Operating Model Analyst (all genders)",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Munich-Balan-Campus-Building-17/Enterprise-Operating-Model-Analyst--all-genders-_R00347258",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 60,
+   "why": [
+    "analytics: analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Vienna/Enterprise-Operating-Model-Analyst--all-genders-_R00347271",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Enterprise Operating Model Analyst (all genders)",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Vienna/Enterprise-Operating-Model-Analyst--all-genders-_R00347271",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 60,
+   "why": [
+    "analytics: analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Mumbai/Supply-Chain-Plan-Analyt-Senior-Analyst_AIOC-S01659742-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Supply Chain Planning & Analytics Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Supply-Chain-Plan-Analyt-Senior-Analyst_AIOC-S01659742-1",
+   "posted": "2026-11-19",
+   "description": "",
+   "score": 60,
+   "why": [
+    "analytics: analytics analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Gurugram-DDC1A/XMLNAME--ACN-I-P--GN---Talent---T-W----Custom-Analytics---Analyst_R00287381",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "#ACN I&P- GN - Talent - T&W -  Custom Analytics - Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram-DDC1A/XMLNAME--ACN-I-P--GN---Talent---T-W----Custom-Analytics---Analyst_R00287381",
+   "posted": "2026-10-30",
+   "description": "",
+   "score": 60,
+   "why": [
+    "analytics: analytics",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Gurugram/Analytics-and-Modeling-Analyst_AIOC-S01672428-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Analytics and Modeling Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Analytics-and-Modeling-Analyst_AIOC-S01672428-1",
+   "posted": "2026-10-28",
+   "description": "",
+   "score": 60,
+   "why": [
+    "analytics: analytics",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Gurugram/Analytics-and-Modeling-Analyst_AIOC-S01672424-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Analytics and Modeling Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Analytics-and-Modeling-Analyst_AIOC-S01672424-1",
+   "posted": "2026-10-28",
+   "description": "",
+   "score": 60,
+   "why": [
+    "analytics: analytics",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Gurugram/Analytics-and-Modeling-Analyst_AIOC-S01672437-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Analytics and Modeling Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Analytics-and-Modeling-Analyst_AIOC-S01672437-1",
+   "posted": "2026-10-28",
+   "description": "",
+   "score": 60,
+   "why": [
+    "analytics: analytics",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Gurugram/Analytics-and-Modeling-Analyst_AIOC-S01672422-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Analytics and Modeling Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Analytics-and-Modeling-Analyst_AIOC-S01672422-1",
+   "posted": "2026-10-28",
+   "description": "",
+   "score": 60,
+   "why": [
+    "analytics: analytics",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Gurugram/Analytics-and-Modeling-Analyst_AIOC-S01672425-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Analytics and Modeling Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Analytics-and-Modeling-Analyst_AIOC-S01672425-1",
+   "posted": "2026-10-28",
+   "description": "",
+   "score": 60,
+   "why": [
+    "analytics: analytics",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Gurugram/Analytics-and-Modeling-Analyst_AIOC-S01672434-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Analytics and Modeling Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Analytics-and-Modeling-Analyst_AIOC-S01672434-1",
+   "posted": "2026-10-28",
+   "description": "",
+   "score": 60,
+   "why": [
+    "analytics: analytics",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Gurugram/Analytics-and-Modeling-Analyst_AIOC-S01672436-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Analytics and Modeling Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Analytics-and-Modeling-Analyst_AIOC-S01672436-1",
+   "posted": "2026-10-28",
+   "description": "",
+   "score": 60,
+   "why": [
+    "analytics: analytics",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Gurugram/Analytics-and-Modeling-Analyst_AIOC-S01672432-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Analytics and Modeling Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Analytics-and-Modeling-Analyst_AIOC-S01672432-1",
+   "posted": "2026-10-28",
+   "description": "",
+   "score": 60,
+   "why": [
+    "analytics: analytics",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Assago-Via-del-Mulino-11a/Talent-Transformation-Analyst---Intern_R00356463",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Talent Transformation Analyst - Intern",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Assago-Via-del-Mulino-11a/Talent-Transformation-Analyst---Intern_R00356463",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 60,
+   "why": [
+    "analytics: analyst",
+    "internship / fellowship",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Assago-Via-del-Mulino-11a/Finance-Transformation-Analyst---Intern_R00356849",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Finance Transformation Analyst - Intern",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Assago-Via-del-Mulino-11a/Finance-Transformation-Analyst---Intern_R00356849",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 60,
+   "why": [
+    "analytics: analyst",
+    "internship / fellowship",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Milano/Finance-Transformation-Analyst---Intern_R00369378",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Finance Transformation Analyst - Intern",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Milano/Finance-Transformation-Analyst---Intern_R00369378",
+   "posted": "2026-11-10",
+   "description": "",
+   "score": 60,
+   "why": [
+    "analytics: analyst",
+    "internship / fellowship",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Milano/Talent---Organization-Analyst---Intern_R00370248",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Talent & Organization Analyst - Intern",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Milano/Talent---Organization-Analyst---Intern_R00370248",
+   "posted": "2026-11-10",
+   "description": "",
+   "score": 60,
+   "why": [
+    "analytics: analyst",
+    "internship / fellowship",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Bengaluru/Internal-Audit-Analyst_R00373723",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Internal Audit Analyst",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Internal-Audit-Analyst_R00373723",
+   "posted": "2026-11-25",
+   "description": "",
+   "score": 60,
+   "why": [
+    "analytics: analyst",
+    "entry level",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Milano/Stage-Digital-Finance-Transformation---Intelligent-Consulting-Hub_R00279819",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Enterprise Performance Management Analyst - Intern",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Milano/Stage-Digital-Finance-Transformation---Intelligent-Consulting-Hub_R00279819",
+   "posted": "2026-11-11",
+   "description": "",
+   "score": 60,
+   "why": [
+    "analytics: analyst",
+    "internship / fellowship",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Roma/Salesforce-Academy_R00292740",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Salesforce Analyst - Internship",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Roma/Salesforce-Academy_R00292740",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 60,
+   "why": [
+    "analytics: analyst",
+    "internship / fellowship",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Milano/Industry-X---Innovation-Analyst-Internship_13727121-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Innovation Analyst Internship",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Milano/Industry-X---Innovation-Analyst-Internship_13727121-1",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 60,
+   "why": [
+    "analytics: analyst",
+    "internship / fellowship",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Assago-Via-del-Mulino-11a/Junior-SAP-Analyst---Internship_R00279839",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Junior SAP Analyst - Internship",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Assago-Via-del-Mulino-11a/Junior-SAP-Analyst---Internship_R00279839",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 60,
+   "why": [
+    "analytics: analyst",
+    "internship / fellowship",
+    "city: unspecified"
    ],
    "first_seen": "2026-11-25"
   },
@@ -375,6 +2103,40 @@
     "entry level",
     "pay up to $160,000",
     "asks for heavy experience"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Oslo/Finance-Reinvention-SAP-Consultant---Manager_R00363055",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "SAP FI/CO Consultant",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Oslo/Finance-Reinvention-SAP-Consultant---Manager_R00363055",
+   "posted": "2026-11-17",
+   "description": "",
+   "score": 58,
+   "why": [
+    "advisory/business: consultant",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Kuala-Lumpur-Exchange-106/Global-S-C-GN-T-O-Intelligence---Insights-Manager_R00308037",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Talent & Organization \u2013 Intelligence & Insights COE Custom Analytics Consultant (HR Analytics/PowerBI)",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kuala-Lumpur-Exchange-106/Global-S-C-GN-T-O-Intelligence---Insights-Manager_R00308037",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 58,
+   "why": [
+    "advisory/business: consultant",
+    "city: unspecified"
    ],
    "first_seen": "2026-11-25"
   },
@@ -614,6 +2376,40 @@
     "technical: data science",
     "internship / fellowship",
     "Northeast"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Copenhagen-Kronprinsensgade-7/Join-Halfspace-s-AI---Advanced-Analytics-Team---Shaping-the-Future-with-AI_R00294499",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Join Halfspace\u2019s AI & Advanced Analytics Team - Shaping the Future with AI",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Copenhagen-Kronprinsensgade-7/Join-Halfspace-s-AI---Advanced-Analytics-Team---Shaping-the-Future-with-AI_R00294499",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 48,
+   "why": [
+    "analytics: analytics",
+    "city: unspecified"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:accenture/job/Bengaluru/Analytics-Practitioner_ATCI-5629453-S2057420-1",
+   "company": "Accenture",
+   "group": "consulting",
+   "source": "workday",
+   "title": "Analytics Practitioner",
+   "location": "",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Analytics-Practitioner_ATCI-5629453-S2057420-1",
+   "posted": "2026-10-28",
+   "description": "",
+   "score": 48,
+   "why": [
+    "analytics: analytics",
+    "city: unspecified"
    ],
    "first_seen": "2026-11-25"
   },
