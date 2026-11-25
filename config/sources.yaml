@@ -22,6 +22,10 @@ greenhouse:
   - {slug: monumentalsports, name: Monumental Sports & Entertainment, group: team}
   - {slug: fsg, name: Fenway Sports Group, group: team}
   - {slug: seatgeek, name: SeatGeek, group: ticketing}
+  # consulting & advisory (checked 2026-11-25)
+  - {slug: prophet, name: Prophet, group: consulting}
+  - {slug: activate, name: Activate Consulting, group: consulting}
+  - {slug: sphereentertainment, name: Sphere Entertainment, group: sports & entertainment}
   # media
   - {slug: fubotv, name: Fubo, group: sports media}
   - {slug: barstoolsports, name: Barstool Sports, group: sports media}
@@ -37,6 +41,8 @@ greenhouse:
   - {slug: zwift, name: Zwift, group: fitness tech}
 
 lever:
+  - {slug: oliverwyman, name: Oliver Wyman, group: consulting}
+  - {slug: raine, name: The Raine Group, group: sports finance}
   - {slug: redsox, name: Boston Red Sox, group: team}
   - {slug: theathletic, name: The Athletic, group: sports media}
   - {slug: teamsnap, name: TeamSnap, group: sports tech}
@@ -55,6 +61,8 @@ smartrecruiters:
   - {slug: RedBull, name: Red Bull (incl. Red Bull New York), group: team}
 
 workday:
+  - {tenant: accenture, wd: 103, site: AccentureCareers, name: Accenture, group: consulting,
+     queries: [analyst sports, advisory analyst, business analyst, strategy analyst, consulting analyst, analytics analyst, intern analyst]}
   - {tenant: draftkings, wd: 1, site: DraftKings, name: DraftKings, group: betting & fantasy}
   - {tenant: nike, wd: 1, site: nke, name: Nike, group: brand}
   - {tenant: dickssportinggoods, wd: 1, site: DSG, name: "DICK'S Sporting Goods", group: brand}
@@ -71,3 +79,13 @@ manual:
   - {name: New Balance, url: "https://jobs.newbalance.com", why: "Boston HQ"}
   - {name: Under Armour, url: "https://careers.underarmour.com", why: "Brand analytics roles"}
   - {name: adidas, url: "https://careers.adidas-group.com", why: "Consumer and performance analytics"}
+  - {name: Deloitte, url: "https://apply.deloitte.com", why: "Consulting; sports & media practice"}
+  - {name: PwC, url: "https://jobs.us.pwc.com", why: "Advisory; sports & entertainment"}
+  - {name: EY, url: "https://careers.ey.com", why: "Consulting / strategy; EY-Parthenon"}
+  - {name: KPMG, url: "https://www.kpmguscareers.com", why: "Advisory"}
+  - {name: Guidehouse, url: "https://guidehouse.com/careers", why: "Advisory"}
+  - {name: Huron, url: "https://www.huronconsultinggroup.com/careers", why: "Consulting"}
+  - {name: Elevate, url: "https://elevate.co/careers", why: "Sports & entertainment consulting"}
+  - {name: Two Circles, url: "https://twocircles.com/careers", why: "Sports marketing & data agency"}
+  - {name: Wasserman, url: "https://www.teamwass.com/careers", why: "Sports agency: strategy & analytics"}
+  - {name: Oak View Group, url: "https://www.oakviewgroup.com/careers", why: "Venues & sports business"}

@@ -1,0 +1,23 @@
+target:
+  company: Advisory Analyst (base)
+  role: Advisory / Business Analyst, sports and general consulting
+  url: "base-version"
+  why_fit: "Base résumé for advisory, consulting and business analyst roles. Tailor per posting from here."
+style: advisory
+summary:
+  - "Business analyst who starts from the decision, uses data to test the options, and makes a clear recommendation people can follow; MS Business Analytics candidate graduating 05/2027."
+  - "Professional cricketer bringing an insider's view of how teams, players and fans make decisions to analytics and advisory work in the sports industry."
+  - "Explains the logic behind a recommendation in plain language, from teaching SAP S/4HANA business processes to presenting model results to non-technical audiences."
+  - "AI-enabled analyst skilled in SQL, Excel, Tableau, Python and predictive modelling; uses Claude to research, build and draft faster, and checks every output before it reaches a client or a page."
+experience:
+  - id: ta
+  - id: cricket
+  - id: cheers
+  - id: mit
+projects:
+  - id: market-value
+  - id: soccer
+  - id: rivalry
+  - id: tamil
+    bullets:
+      - "Designed an AI assistant on Claude that triages email, drafts replies and sets reminders across Gmail and Google Calendar, with 3 custom skills and 2 scheduled daily briefs; every email waits for human approval."

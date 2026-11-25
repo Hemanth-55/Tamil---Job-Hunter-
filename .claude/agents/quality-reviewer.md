@@ -12,6 +12,7 @@ Review the given work and return:
 3. **Quick wins:** small polish items
 
 Rules:
+- Consultant test first: can a business reader find the decision, the logic and the recommendation in 30 seconds? If not, that's issue #1.
 - Be direct and specific. No flattery.
 - Writing should speak to tech people. No gimmicks, and no "stance"/handedness or sport-target lines on GitHub.
 - Never describe his projects as done at BU.

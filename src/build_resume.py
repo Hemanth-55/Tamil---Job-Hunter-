@@ -114,6 +114,13 @@ def entry(doc, title, org, location, dates):
     run(p, "\t" + dates)
 
 
+def pick(item: dict, tailored: dict) -> list[str]:
+    """style: advisory → consultant-voice bullets (question → data → logic → recommendation → result)."""
+    if tailored.get("style") == "advisory" and item.get("advisory_bullets"):
+        return item["advisory_bullets"]
+    return item["bullets"]
+
+
 # ------------------------------------------------------------------ build
 def build(tailored: dict, out: Path) -> Path:
     m = master()
@@ -152,7 +159,7 @@ def build(tailored: dict, out: Path) -> Path:
     for x in tailored["experience"]:
         e = exp[x["id"]]
         entry(doc, e["title"], e["org"], e["location"], e["dates"])
-        for b in x.get("bullets") or e["bullets"]:
+        for b in x.get("bullets") or pick(e, tailored):
             bullet(doc, b)
 
     prj = {p_["id"]: p_ for p_ in m["projects"]}
@@ -163,7 +170,7 @@ def build(tailored: dict, out: Path) -> Path:
         run(p, pj["name"], bold=True)
         if pj.get("tag"):
             run(p, f"  ·  {pj['tag']}", italic=True, size=BODY - 0.5)
-        for b in x.get("bullets") or pj["bullets"]:
+        for b in x.get("bullets") or pick(pj, tailored):
             bullet(doc, b)
 
     out.parent.mkdir(parents=True, exist_ok=True)

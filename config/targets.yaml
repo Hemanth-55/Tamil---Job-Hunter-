@@ -1,38 +1,58 @@
-# What a good job looks like for Hemi. The scout scores every posting against this.
-# Edit freely: say "Tamil, add X to my job targets".
+# What a good job looks like for Hemi (re-aimed 2026-11-25, see Tamil-/notes/north-star.md).
+# Goal: advisory / business analyst roles, sports first, on the path to sports-industry consulting.
+# The scout scores every posting 0–100 against this file.
 
 candidate:
   grad_date: 2027-05          # MS Business Analytics, Suffolk University
   home_base: Boston, MA
+  wants: [internship, full-time]
 
-# Role families, strongest first. A title or description hit adds points.
+# Role families. Advisory and business roles score highest; technical roles still count, lower.
 roles:
-  core:       [sports analytics, sports science, performance analytics, player analytics, basketball analytics,
-               baseball analytics, football analytics, hockey analytics, soccer analytics, research & development,
-               quantitative analyst, data scientist, data analyst, machine learning, computer vision, analytics, sports analyst, data science,
-               baseball operations, basketball operations, hockey operations, football operations, scouting,
-               quantitative, research scientist, hitting analyst, pitching analyst, academy scout, video analysis,
-               team analysis, performance analysis, match analysis, video analyst]
-  adjacent:   [business intelligence, bi analyst, insights, decision science, strategy & analytics, fan analytics,
-               consumer analytics, marketing analytics, pricing, trading analyst, product analyst, data engineer,
-               ai engineer, applied scientist, research analyst, business analyst, ai/ml, ml engineer, data products,
-               ux researcher, revenue analyst, operations analyst]
+  advisory:   [advisory analyst, advisory, consulting analyst, consultant, business analyst, strategy analyst, strategy & analytics,
+               strategy and analytics, business strategy, corporate strategy, management consulting, strategy, insights analyst,
+               business intelligence, bi analyst, decision science, business development analyst, partnership analyst,
+               partnerships analyst, sponsorship analyst, revenue analyst, revenue strategy, ticketing analyst, pricing analyst,
+               fan insights, consumer insights, market research, operations analyst, finance analyst, financial analyst, fp&a,
+               investment analyst, deal analyst, valuation, research analyst, product analyst, marketing analyst, crm analyst,
+               analyst program, rotational, associate consultant, sports analyst, sports business]
+  analytics:  [data analyst, analytics analyst, analytics, data & analytics, reporting analyst, insights, analyst,
+               baseball operations, basketball operations, hockey operations, football operations, scouting, academy scout,
+               video analysis, team analysis, performance analysis, match analysis]
+  technical:  [data scientist, data science, machine learning, ml engineer, ai engineer, applied scientist, data engineer,
+               analytics engineer, computer vision, quantitative, research scientist, software engineer]
 
 levels:
   want:  [intern, internship, co-op, fellow, fellowship, associate, analyst, junior, entry, new grad, graduate,
-          early career, rotational, apprentice, coordinator]
-  avoid: [senior, sr., sr , staff, principal, lead, manager, director, head of, vp, vice president, chief, architect, iii, iv]
+          early career, rotational, apprentice, coordinator, program]
+  avoid: [senior, sr., sr , staff, principal, lead, manager, director, head of, vp, vice president, chief, architect,
+          iii, iv, partner, executive]
 
-# Locations: Boston first, then remote US, then major sports hubs.
+# Locations: major cities first; smaller towns still count; Northeast is a bonus.
 locations:
-  prefer: [boston, massachusetts, " ma", remote, new york, ny, united states, usa, us-remote]
-  ok:     [new jersey, philadelphia, washington, chicago, atlanta, los angeles, san francisco, seattle, denver, austin, dallas, charlotte]
+  major:     [new york, nyc, brooklyn, manhattan, boston, chicago, los angeles, santa monica, san francisco, bay area, san jose,
+              washington, dc, atlanta, dallas, philadelphia, seattle, denver, houston, miami, austin, charlotte, phoenix,
+              minneapolis, detroit, nashville, remote]
+  northeast: [boston, massachusetts, " ma", cambridge, new york, " ny", new jersey, " nj", harrison, morristown, east hanover,
+              connecticut, " ct", stamford, rhode island, providence, philadelphia, pennsylvania, " pa", new hampshire, maine, vermont]
+  us:        [united states, usa, " us", us-remote]
 
-# Hard filters: drop these titles outright.
+# Pay: when a posting shows salary, higher pay scores higher (money matters).
+pay:
+  great_annual: 90000
+  good_annual: 70000
+  good_hourly: 25
+
+# Sports tilt: sports employers get a bonus; consulting firms get it when the posting mentions sports, media or entertainment.
+sports_words: [sport, sports, athlet, league, team, fan, stadium, arena, club, soccer, football, basketball, baseball, hockey,
+               cricket, betting, media, entertainment]
+
 exclude_titles: [retail, store, sales associate, stock associate, warehouse, distribution associate, driver, cashier,
                  seasonal, part-time, part time, nurse, physician, attorney, counsel, paralegal, recruiter, chef,
                  security officer, technician, mechanic, forklift, bartender, box office, payroll, tax, hris, grc,
-                 compliance, cyber, clinical, musketeer, territory manager]
+                 compliance, cyber, clinical, musketeer, territory manager, account executive, sales representative,
+                 inside sales, customer support, help desk, security, privacy, soc analyst, threat, fraud,
+                 implementation consultant, it support, network]
 
 min_score: 45        # 0–100; below this a posting is dropped
 max_age_days: 45     # ignore postings older than this when the board gives a date

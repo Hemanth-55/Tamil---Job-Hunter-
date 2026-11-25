@@ -113,14 +113,14 @@ def smartrecruiters(b):
             break
 
 
-WD_QUERIES = ["analyst", "analytics", "data", "intern", "machine learning", "insights"]
+WD_QUERIES = ["analyst", "business analyst", "strategy", "analytics", "intern", "insights"]
 
 
 def workday(b):
     base = f"https://{b['tenant']}.wd{b['wd']}.myworkdayjobs.com"
     api = f"{base}/wday/cxs/{b['tenant']}/{b['site']}/jobs"
     seen = set()
-    for q in WD_QUERIES:
+    for q in b.get("queries", WD_QUERIES):
         js = fetch(api, {"appliedFacets": {}, "limit": 20, "offset": 0, "searchText": q})
         time.sleep(1.5)
         for j in (js or {}).get("jobPostings", []):
@@ -159,56 +159,78 @@ SKILLS = ["python", "sql", "tableau", "excel", "machine learning", "statistics",
           "a/b test", "experimentation", "causal", "gcp", "google cloud", "sap", "generative ai", "llm", "dashboards"]
 
 
+def pay_points(desc: str, t: dict) -> tuple[int, str | None]:
+    """Money matters: score the top of any salary range the posting shows."""
+    p = t.get("pay", {})
+    annual = [float(a.replace(",", "")) * (1000 if k else 1)
+              for a, k in re.findall(r"\$\s?(\d{2,3}(?:,\d{3})?)(\s?k)?(?!\s*(?:/|per)\s*h)", desc)]
+    annual = [a for a in annual if a >= 20000]
+    hourly = [float(h) for h in re.findall(r"\$\s?(\d{2,3}(?:\.\d{2})?)\s*(?:/\s*h|per hour|an hour|/hr)", desc)]
+    if annual and max(annual) >= p.get("great_annual", 90000):
+        return 12, f"pay up to ${max(annual):,.0f}"
+    if annual and max(annual) >= p.get("good_annual", 70000):
+        return 7, f"pay up to ${max(annual):,.0f}"
+    if hourly and max(hourly) >= p.get("good_hourly", 25):
+        return 6, f"pay ${max(hourly):.0f}/hr"
+    return 0, None
+
+
 def score(j: dict, t: dict) -> tuple[int, list[str]]:
+    """0–100. Advisory/business roles first, sports tilt, big cities, pay, Northeast bonus."""
     title, loc = j["title"].lower(), (j["location"] or "").lower()
     desc = j["description"].lower()
     why = []
     if has(title, t["exclude_titles"]):
         return 0, ["excluded title"]
-    is_intern = bool(has(title, ["intern", "internship", "co-op", "fellow"]))
+    is_intern = bool(has(title, ["intern", "internship", "co-op", "fellow", "summer analyst"]))
     if has(title, t["levels"]["avoid"]) and not is_intern:
         return 0, ["too senior"]
-
-    s = 0
-    core_t, adj_t = has(title, t["roles"]["core"]), has(title, t["roles"]["adjacent"])
     if non_us(loc):
         return 0, ["outside the US"]
-    if core_t:
-        s += 40; why.append("role: " + core_t[0])
-    elif adj_t:
-        s += 25; why.append("role: " + adj_t[0])
-    elif "analyst" in title and len(has(desc, SKILLS)) >= 3:
-        s += 20; why.append("analyst role with data skills")
+
+    s = 0
+    adv, ana, tech = (has(title, t["roles"][k]) for k in ("advisory", "analytics", "technical"))
+    if adv:
+        s += 40; why.append("advisory/business: " + adv[0])
+    elif ana:
+        s += 30; why.append("analytics: " + ana[0])
+    elif tech:
+        s += 12; why.append("technical: " + tech[0])
+    elif len(has(desc, t["roles"]["advisory"] + t["roles"]["analytics"])) >= 3:
+        s += 10; why.append("analyst work in description")
     else:
-        core_d = has(desc, t["roles"]["core"])
-        if len(core_d) >= 2:
-            s += 12; why.append("analytics work in description")
-        else:
-            return 0, ["not an analytics role"]
+        return 0, ["not an analyst role"]
 
-    lv = has(title, t["levels"]["want"])
     if is_intern:
-        s += 25; why.append("internship / fellowship")
-    elif lv:
-        s += 20; why.append("level: " + lv[0])
-    elif not has(title, t["levels"]["avoid"]):
-        s += 8                                        # unlabeled level: often mid, sometimes entry
+        s += 18; why.append("internship / fellowship")
+    elif has(title, t["levels"]["want"]):
+        s += 18; why.append("entry level")
+    else:
+        s += 6
 
-    if has(loc, t["locations"]["prefer"]) or not loc:
-        s += 15; why.append("location: " + (loc or "unspecified"))
-    elif has(loc, t["locations"]["ok"]):
-        s += 8; why.append("location: " + loc)
-    elif non_us(loc):
-        return 0, ["outside the US"]
-    elif re.search(r"\b(uk|united kingdom|london|ireland|dublin|india|germany|australia|canada|toronto|"
-                   r"spain|france|netherlands|bulgaria|sofia|estonia|singapore|brazil|mexico|philippines)\b", loc):
-        return 0, ["outside the US"]
+    if not loc or has(loc, t["locations"]["major"]):
+        s += 12; why.append("city: " + (loc or "unspecified")[:30])
+    elif has(loc, t["locations"]["us"]) or re.search(r",\s*[a-z]{2}$", loc):
+        s += 6
+    if has(loc, t["locations"]["northeast"]):
+        s += 5; why.append("Northeast")
+
+    sporty = j.get("group") not in ("consulting",) or has(desc + " " + title, ["sport", "sports", "athlet", "league", "media", "entertainment"])
+    if sporty and j.get("group") != "consulting":
+        s += 8
+    elif sporty:
+        s += 8; why.append("sports/media practice")
+
+    pp, pw = pay_points(desc, t)
+    s += pp
+    if pw:
+        why.append(pw)
 
     sk = has(desc, SKILLS)
     if sk:
-        s += min(15, 2 * len(sk)); why.append("skills: " + ", ".join(sk[:5]))
-    if re.search(r"\b(sports?|athlet|fan|league|team|game|player)", desc + " " + title):
-        s += 5
+        s += min(8, 2 * len(sk))
+    if "engineer" in title and not adv:
+        s -= 15; why.append("engineering role (more technical than the goal)")
     if re.search(r"\b(phd required|ph\.d\. required|5\+ years|7\+ years|10\+ years)", desc):
         s -= 15; why.append("asks for heavy experience")
     return max(0, min(100, s)), why
@@ -232,9 +254,7 @@ def non_us(loc: str) -> bool:
         m = re.search(r",\s*([a-z]{2})$", p)               # SmartRecruiters style 'Vienna, at'
         if m and p.count(",") >= 2:                          # 'city, region, country': last part is the country
             return m.group(1) != "us"
-        if m and m.group(1) not in ("us", "ma", "ny", "nj", "ca", "tx", "fl", "ga", "il", "wa", "co", "pa", "nc",
-                                     "dc", "va", "md", "oh", "mi", "az", "or", "mn", "tn", "ne", "mo", "ky", "ut",
-                                     "nv", "wi", "in", "ct", "ri", "nh", "la", "sc", "al", "ok", "ia", "ks"):
+        if m and m.group(1) not in ("us", "al","ak","az","ar","ca","co","ct","de","fl","ga","hi","id","il","in","ia","ks","ky","la","me","md","ma","mi","mn","ms","mo","mt","ne","nv","nh","nj","nm","ny","nc","nd","oh","ok","or","pa","ri","sc","sd","tn","tx","ut","vt","va","wa","wv","wi","wy","dc"):
             return True
         return bool(has(p, NON_US)) and not has(p, ["united states", "usa", "us-remote", "remote - us"])
     return all(outside(p) for p in parts)

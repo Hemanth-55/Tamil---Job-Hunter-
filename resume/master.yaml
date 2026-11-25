@@ -19,12 +19,23 @@ skills:
                text analytics (TF-IDF), SAP S/4HANA, Power BI, Google Analytics]
 
 summary_bank:
+  - id: advisor
+    text: "Business analyst who starts from the decision, uses data to test the options, and makes a clear recommendation people can follow; MS Business Analytics candidate graduating 05/2027."
+  - id: advisor-sports
+    text: "Professional cricketer bringing an insider's view of how teams, players and fans make decisions to analytics and advisory work in the sports industry."
+  - id: advisor-ai
+    text: "AI-enabled analyst: uses Claude to research, build and draft faster, and checks every output before it reaches a client or a page."
+  - id: advisor-comm
+    text: "Explains the logic behind a recommendation in plain language, from teaching SAP S/4HANA business processes to presenting model results to non-technical audiences."
   - id: athlete-analyst
     text: "Professional cricketer and MS Business Analytics candidate who uses data to improve performance on the field, with hands-on experience in machine learning, computer vision and sports data."
   - id: ml
     text: "Builds end-to-end machine learning projects in Python (pandas, NumPy, scikit-learn, matplotlib): honest baselines, cross-validated model selection and a held-out test used once."
   - id: cv
     text: "Built a computer vision pipeline (OpenCV, YOLO11 pose, OCR) that turns broadcast video into ball-by-ball and body-tracking data."
+    advisory_bullets:
+      - "Showed broadcast video alone can become performance data: rebuilt a 73-off-44 innings ball by ball from 3,976 frames with OCR, YOLO11 pose and OpenCV, and tracked 17 body points across 9 strokes."
+      - "Turned the data into a coaching insight: 24 runs in 7 balls turned the innings, and stance varies 2.4 times less than body shape at contact (7.6% vs 18.2% of height)."
   - id: tools
     text: "Skilled in Python, SQL, Excel, Tableau, Gen AI, Google Cloud Platform and predictive modelling; ships work as GitHub repositories and a live portfolio."
   - id: ai-builder
@@ -56,6 +67,9 @@ experience:
       - "Guide undergraduate and graduate students through hands-on SAP S/4HANA exercises in Sales & Distribution and Materials Management."
       - "Run ERP lab and help sessions for 3 professors and grade lab submissions."
       - "Troubleshoot students' business-process errors and explain the fix in plain language."
+    advisory_bullets:
+      - "Teach SAP S/4HANA business processes (Sales & Distribution, Materials Management) to undergraduate and graduate students, explaining the logic behind each step in plain language."
+      - "Run ERP lab and help sessions for 3 professors, grade lab submissions, and diagnose where a student's process broke and why."
   - id: mit
     title: Mentee, Sports Analytics Mentorship Program
     org: MIT Sloan Sports Analytics Conference
@@ -72,6 +86,9 @@ experience:
       - "Used video telemetry and spatial data (wagon wheels, heat maps) to cut missed-delivery rate from 20% to 7%."
       - "Worked with team analysts on opponent performance KPIs and turned them into tactical insights for captains."
       - "Led a diverse squad of 15+ players in high-intensity matches."
+    advisory_bullets:
+      - "Used video telemetry and spatial data (wagon wheels, heat maps) to pinpoint where deliveries were being missed, and cut the missed-delivery rate from 20% to 7%."
+      - "Worked with team analysts on opponent performance KPIs and turned them into tactical insights captains could act on in matches."
   - id: cheers
     title: Marketing Analyst Intern
     org: Cheers Chocolates
@@ -80,6 +97,8 @@ experience:
     bullets:
       - "Tracked engagement metrics across 3+ social platforms and optimized social media strategy, increasing audience interaction by 32% within 10 months."
 
+    advisory_bullets:
+      - "Tracked engagement across 3+ social platforms, and optimized the social media strategy around what audiences responded to: interaction rose 32% within 10 months."
 projects:
   - id: soccer
     name: Soccer Player Recruitment Model
@@ -88,6 +107,9 @@ projects:
     bullets:
       - "Forecast next-season goals + assists per 90 for 941 Big-5 league players from 39 features (FBref via Kaggle); chose a ridge + random forest blend by 5-fold cross-validation."
       - "Reached R² 0.68 and Spearman 0.82 on a held-out test of 189 players, with 19% less error than last season's rate; forecast 1,484 players for 2026–27."
+    advisory_bullets:
+      - "Asked which players will produce next season, not just who scored last season: forecast goals + assists per 90 for 941 Big-5 league players and chose a ridge + random forest blend by 5-fold cross-validation."
+      - "Showed the forecast beats the usual rule of thumb, with 19% less error than last season's rate (R² 0.68, Spearman 0.82 on 189 held-out players), giving recruiters a ranked list of 1,484 players for 2026–27."
   - id: cv
     name: First Computer Vision Project
     tag: Python, OpenCV, YOLO11, OCR
@@ -102,6 +124,9 @@ projects:
     bullets:
       - "Predicted player market value across European leagues with Gradient Boosting, SMOTE and log-transformed features; ~80% better than linear baselines (R² 0.612)."
       - "Cut valuation error by €1.7M per player and flagged 64 undervalued transfer targets."
+    advisory_bullets:
+      - "Asked which players clubs are overpaying or underpaying for, and modeled market value from performance and career metrics across European leagues (Gradient Boosting, ~80% better than linear baselines, R² 0.612)."
+      - "Recommended a shortlist of 64 undervalued transfer targets and cut valuation error by €1.7M per player, so recruitment budgets go where the data shows value."
   - id: portfolio
     name: Hemi Portfolio Web App
     tag: JavaScript, HTML/CSS, Claude
@@ -109,23 +134,33 @@ projects:
     bullets:
       - "Built an interactive portfolio with Claude as AI coding assistant: a canvas engine with 2,600 particles, 10+ scroll-driven scenes and a dedicated phone layout."
       - "Released through GitHub and Vercel with Playwright tests on 6 screen sizes; reviewed AI output and removed unverified claims."
+    advisory_bullets:
+      - "Built and shipped an interactive portfolio with Claude as AI coding assistant (2,600-particle canvas engine, 10+ scroll-driven scenes, phone layout), released through GitHub and Vercel."
+      - "Tested on 6 screen sizes with Playwright and removed every unverified claim from AI drafts before publishing."
   - id: tamil
     name: Tamil, Agentic AI Assistant
     tag: Claude, Gmail, Google Calendar
     bullets:
       - "Built a personal AI assistant on Claude with 3 custom skills, connected to Gmail and Google Calendar for email triage, reply drafts and reminders."
       - "Runs 2 scheduled daily briefs; a human approves every email before it is sent."
+    advisory_bullets:
+      - "Designed an AI assistant on Claude that triages email, drafts replies and sets reminders across Gmail and Google Calendar, with 3 custom skills and 2 scheduled daily briefs."
+      - "Kept a human in control: every email waits for approval before it is sent, the same review step used for any AI output."
   - id: rivalry
     name: Rivalry Messaging Experiment
     tag: Causal inference
     bullets:
       - "Showed rivalry framing raised average donations by $7.26, a significant effect (p = 0.025) among geographically connected fans."
+    advisory_bullets:
+      - "Tested whether rivalry framing makes fans give more: average donations rose $7.26, a significant effect (p = 0.025) among geographically connected fans, so the recommendation is to aim rivalry messages at local fans, not everyone."
   - id: benjerry
     name: Ben & Jerry's Brand-Language Analytics
     tag: TF-IDF, Logistic Regression
     bullets:
       - "Used TF-IDF, logistic regression and Baron-Kenny mediation on 519 users: moral-mission framing drove negative referrals, sensory product language drove positive word of mouth."
 
+    advisory_bullets:
+      - "Asked which brand language drives word of mouth: TF-IDF, logistic regression and Baron-Kenny mediation on 519 users showed sensory product language drove positive referrals while moral-mission framing drove negative ones, pointing messaging toward the product."
 never_claim:
   - "NBA Predictive Analytics Platform has no results yet: do not claim numbers for it."
   - "Do not describe any project as done at BU."

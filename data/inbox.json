@@ -1,81 +1,7 @@
 {
  "updated": "2026-11-25",
- "count": 27,
+ "count": 35,
  "jobs": [
-  {
-   "id": "lever:7cafc474-cda7-49af-acfd-40dd2b804d14",
-   "company": "Boston Red Sox",
-   "group": "team",
-   "source": "lever",
-   "title": "Minor League Complex Hitting Analyst and Rehab Coach",
-   "location": "Fort Myers, FL, United States",
-   "url": "https://jobs.lever.co/redsox/7cafc474-cda7-49af-acfd-40dd2b804d14",
-   "posted": "2026-10-30",
-   "description": "DEPARTMENT OVERVIEW:\u00a0 \u00a0\nThe Player Development department is dedicated to fostering the comprehensive growth of our minor league players. Our mission is to excel in optimizing talent and skill development while aligning with player and team objectives. Our approach involves the creation of world class player programs and efficiently scaling them across our player pool. Collaborating closely with baseball analytics, performance, and medical, we establish effective frameworks for experimentation and learning. Additionally, we work closely with Amateur Scouting, International Scouting, and Pro Scouting to ensure seamless player transitions into the Red Sox organization.\u00a0\u00a0\n\u00a0\nPOSITION OVERVIEW:\nThe Complex Hitting Analyst & Rehab Coach will work closely with the Hitting Coordinator, Complex Hitting Coaches, and necessary auxiliary staff to support the daily needs of the hitting department. The role will be primarily responsible for building reports and tools using Snowflake and other available data sources, while also assisting with the daily execution of rehab hitting activities at the complex.\u00a0\n\u00a0\nAs the Red Sox continue to build a team capable of being THE standard in player AND Staff development, we are looking for candidates who are organized, humble, proactive, and capable of communicating effectively across departments and levels of the organization.\n\u00a0\nThe position is based out of the Player Development Complex in Fort Myers, FL. This position is seasonal, with full-time consideration for candidates with relevant experience.\u00a0\n Build and maintain reports, dashboards, and tools for the hitting department. Query and organize data from Snowflake to complete recurring and ad hoc requests. Work with Systems, Sports Science, and other departments to support hitting-related data needs. Identify opportunities to improve reporting, workflows, and access to information. Assist Complex Hitting Coaches with rehab hitters, including flipping, feeding machines, and throwing batting practice. Communicate relevant observations from rehab hitting activities to medical staff. Support additional projects and initiatives as assigned by the Hitting Coordinator. Strong communication skills with the ability to work effectively across departments and levels of the organization. Experience working with Snowflake and SQL; experience with Tableau, R, Python, Excel, or similar tools is preferred. Prior experience operating in a hitting environment, including flipping, feeding machines, and throwing batting practice. Strong organizational skills and attention to detail. Humble, collaborative, and service-oriented. Demonstrates initiative, curiosity, and a willingness to identify and develop new solutions. Open-minded and eager to learn the organization\u2019s hitting development processes and philosophies. In addition to the above requirements, all roles within Baseball Operations are expected to effectively demonstrate our universal competencies related to problem solving, teamwork, clarity of communication, and time management, along with embodying our culture of honesty, humility, relentlessness, and commitment to DEIB.",
-   "score": 92,
-   "why": [
-    "role: hitting analyst",
-    "level: analyst",
-    "location: fort myers, fl, united states",
-    "skills: python, sql, tableau, excel, experimentation"
-   ],
-   "first_seen": "2026-11-25"
-  },
-  {
-   "id": "greenhouse:8055746",
-   "company": "FanDuel",
-   "group": "betting & fantasy",
-   "source": "greenhouse",
-   "title": "Campaign Analytics, Data Analyst",
-   "location": "New York City",
-   "url": "https://www.fanduel.careers/open-positions?gh_jid=8055746",
-   "posted": "2026-10-23",
-   "description": "THE POSITION Our roster has an opening with your name on it FanDuel is looking for a Data Analyst to support our recently established Generosity Intelligence team. In this role you will be responsible for performance analytics, reporting and data analysis across all areas of our Sportsbook generosity campaigns. Using your numerical skills, analytical mindset and technological capabilities, you will play a key role in understanding the impact and effectiveness of our spend. This is a great opportunity for somebody who wants to work in an environment where curiosity is rewarded, and people are empowered to make decisions. The ideal candidate will have a passion for learning and development, have a head for numbers and motivated to develop their own solutions to business problems. The successful candidate will be tasked with a wide range of responsibilities, making this an excellent opportunity for someone looking to learn a lot and fast! If you would like to play a key role in an emerging US Sports Betting market opportunity, then this could be the role for you. Integrity, low ego and collaboration are key values in the Generosity Intelligence department. In addition to the specific responsibilities outlined above, employees may be required to perform other such duties as assigned by the Company. This ensures operational flexibility and allows the Company to meet evolving business needs. THE GAME PLAN Everyone on our team has a part to play Deliver high-quality analysis, reporting, and customer segmentation to help enhance visibility into the performance of our generosity campaigns. Analyze customer behavior and promotional engagement to uncover trends, identify opportunities, and provide actionable insights to stakeholders. Conduct exploratory analyses and develop hypotheses that support ongoing optimization of generosity initiatives. Support campaign measurement efforts by maintaining reporting, validating data quality, and contributing to performance evaluations. Leverage AI to accelerate and enhance your work, taking care to ensure high integrity, managing AI risk of error, and maintaining excellent understanding of AI output to avoid blind trust. Demonstrate accurate insights using easy to interpret visualizations and clear explanations of results, recommendations, methods, biases and limitations. Take responsibility to learn the necessary skills and techniques, in order to work with independence, integrity and accuracy. Collaborate with key stakeholders to effectively identify new value add projects and areas for improvement to support their strategic objectives. THE STATS What we're looking for in our next teammate Minimum of 1+ years of previous experience in a similar role Proficient in SQL &amp; Microsoft Excel with experience of manipulating large datasets Knowledge of at least one statistical or programming language a plus, ideally Python Undergraduate degree in a numerate or technical discipline or equivalent professional experience Experience working with data visualization tools like Tableau an advantage Interest in sports an advantage Interest or experience in the sports betting industry is an advantage Ability to, on rare occasions, support critical business needs outside of normal business hours ABOUT FANDUEL FanDuel Group is the premier mobile gaming company in the United States and Canada. FanDuel Group consists of a portfolio of leading brands across mobile wagering including: America\u2019s #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry\u2019s unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product. &nbsp; In addition, FanDuel Group operates FanDuel TV, its broadly distributed linear cable television network and FanDuel TV+, its leading direct-to-consumer OTT platform. FanDuel Group has a presence across all 50 states, Canada, and Puerto Rico. The company is based in New York with US offices in Los Angeles, A",
-   "score": 90,
-   "why": [
-    "role: data analyst",
-    "level: analyst",
-    "location: new york city",
-    "skills: python, sql, tableau, excel, statistical"
-   ],
-   "first_seen": "2026-11-25"
-  },
-  {
-   "id": "greenhouse:8357302",
-   "company": "FanDuel",
-   "group": "betting & fantasy",
-   "source": "greenhouse",
-   "title": "Analytics Engineer",
-   "location": "New York City",
-   "url": "https://www.fanduel.careers/open-positions?gh_jid=8357302",
-   "posted": "2026-11-12",
-   "description": "THE POSITION Our roster has an opening with your name on it We are looking for an Analytics Engineer to join our Casino Analytics team to support the Product organization. You will support the Casino business driving scalable analytics products (data assets, dashboards, visualizations, tools/services) and analytic frameworks. You will work alongside a group of analysts to facilitate the team\u2019s success, evolving the various tools, models, and data visualizations used to drive the FanDuel Group business. This is a tremendous opportunity to collaborate cross-functionally as well as develop the analytics team\u2019s data infrastructure and visualization capabilities. &nbsp; THE GAME PLAN &nbsp; Everyone on our team has a part to play Create interactive Tableau dashboards, custom visualizations and reports to visualize customer behavior, drivers of business performance, and support strategic decision making Prioritize best practices in design, usability, and scalability to ensure sustainable and quality reporting Communicate technical findings/insights to non-technical stakeholders to drive strategic success Drive the team\u2019s analysis roadmap, ensuring we prioritize high-value projects with actionable insights Become a key business partner to the analytics team and stakeholders across the Casino business, supporting them in driving insights and key decision making Collaborate with data engineers and data scientists to ensure that data is accurately represented and enable richer analysis Stay up-to-date with the latest trends and technologies in data visualization, and evaluate new tools and techniques to improve our capabilities &nbsp; THE STATS What we\u2019re looking for in our next teammate 1-2+ years' experience in an analytics/technical role preferred Bachelor's Degree in a highly numerate major (Math, Stats, Econ, etc.) or relevant experience in data and/or business analysis preferred Strong personal organizational and time management skills Ability to work in a fast-paced environment with a lot of ambiguity Proficiency in SQL and Excel required; Experience with Tableau or other data visualization platforms preferred Familiarity with programming languages (e.g. Python, R), cloud computing platforms (e.g. Databricks), or ELT/data modeling (e.g. DBT) desirable Strong problem-solving skills, allied with track record of transforming data into actionable business insight Experience working in groups and leading smaller intra year projects Experience collaboratively working with colleagues in other countries and time zones preferred &nbsp;Strong stakeholder management Ability to be independent and lead on projects - proactive thinking Interest in Fantasy Sports/Gaming/Sports a plus ABOUT FANDUEL FanDuel Group is the premier mobile gaming company in the United States and Canada. FanDuel Group consists of a portfolio of leading brands across mobile wagering including: America\u2019s #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry\u2019s unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product. In addition, FanDuel Group operates FanDuel TV, its broadly distributed linear cable television network and FanDuel TV+, its leading direct-to-consumer OTT platform. FanDuel Group has a presence across all 50 states, Canada, and Puerto Rico. The company is based in New York with US offices in Los Angeles, Atlanta, and Jersey City, as well as global offices in Canada and Scotland. The company\u2019s affiliates have offices worldwide, including in Ireland, Portugal, Romania, and Australia. FanDuel Group is a subsidiary of Flutter Entertainment, the world's largest sports betting and gaming operator with a portfolio of globally recognized brands and traded on the New York Stock Exchange (NYSE: FLUT). PLAYER BENEFITS We treat our team right We offer amazing benefits above and beyond the basics. We have an array of health plans to choose from (some as low as $0 per pay",
-   "score": 80,
-   "why": [
-    "role: analytics",
-    "location: new york city",
-    "skills: python, sql, tableau, excel, modeling"
-   ],
-   "first_seen": "2026-11-25"
-  },
-  {
-   "id": "greenhouse:8303304",
-   "company": "FanDuel",
-   "group": "betting & fantasy",
-   "source": "greenhouse",
-   "title": "Data Scientist, Risk",
-   "location": "Jersey City, New Jersey, United States",
-   "url": "https://www.fanduel.careers/open-positions?gh_jid=8303304",
-   "posted": "2026-10-30",
-   "description": "FanDuel Group is the premier mobile gaming company in the United States and Canada. FanDuel Group consists of a portfolio of leading brands across mobile wagering including: America\u2019s #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry\u2019s unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product. &nbsp; In addition, FanDuel Group operates FanDuel TV, its broadly distributed linear cable television network and FanDuel TV+, its leading direct-to-consumer OTT platform. FanDuel Group has a presence across all 50 states, Canada, and Puerto Rico. The company is based in New York with US offices in Los Angeles, Atlanta, and Jersey City, as well as global offices in Canada and Scotland. The company\u2019s affiliates have offices worldwide, including in Ireland, Portugal, Romania, and Australia. FanDuel Group is a subsidiary of Flutter Entertainment, the world's largest sports betting and gaming operator with a portfolio of globally recognized brands and traded on the New York Stock Exchange (NYSE: FLUT). THE POSITION Our roster has an opening with your name on it We are looking for a Data Scientist for our Risk Data Science team to tackle our most challenging risk modeling problems. Throughout the lifecycle of a model, from data collection through results, you will create predictive models of around price accuracy and customer profiling to build tools and dashboards and drive actionable insights across FanDuel Group. You will be working closely with the product and risk and trading teams, working on problems like betting limits, customer behavior, and assessing pricing accuracy among other challenges. You will promote effective communication of model outputs and contribute to a collaborative code environment. THE GAME PLAN &nbsp; Everyone on our team has a part to play Develop, iterate, and take to production machine learning models to solve problems and drive outcomes in Sportsbook risk management Continuous improvement in pricing techniques - both at an individual level and working with trading teams to optimize betting limits and customer profiling Construct models, analyzes and solutions in response to a question or problem posed by a stakeholder or colleague Manage the data preparation process from collection through cleaning Build robust predictive models, showing capabilities of feature and model selection Contribute to a production code environment Work with decision-makers across the company to understand their goals, identify opportunities to use data to develop new insights and improve business results Create dashboards and data visualizations for analysis and communication &nbsp; THE STATS What we\u2019re looking for in our next teammate A minimum of 1 year of Industry Experience in data science, analytics or engineering preferred Bachelor's Degree in a highly numerate major (Math, Stats, Econ, etc.) or relevant experience in data science preferred Strong analytical and quantitative skills, with high proficiency in Python or R, and SQL Understanding and application of Bayesian statistics Experience building and using models to help create production level products and tools Comfortable with command line tools and GitHub Object-oriented design and coding skills Strong verbal and written communication skills Ability to work across teams, locations and time zones Interest or experience in Sports Gaming and/or Fantasy Sports PLAYER BENEFITS&nbsp; We treat our team right We offer amazing benefits above and beyond the basics. We have an array of health plans to choose from (some as low as $0 per paycheck) that include programs for fertility and family planning, mental health support, and fitness benefits. We offer generous paid time off (PTO &amp; sick leave), annual bonus and long-term incentive opportunities (based on performance), 401k with up to a 5% match, commuter benefits, pet insurance, and more - check out all our benefits here: ",
-   "score": 80,
-   "why": [
-    "role: data scientist",
-    "location: jersey city, new jersey, united states",
-    "skills: python, sql, machine learning, statistics, modeling"
-   ],
-   "first_seen": "2026-11-25"
-  },
   {
    "id": "greenhouse:8325673",
    "company": "FanDuel",
@@ -86,12 +12,13 @@
    "url": "https://www.fanduel.careers/open-positions?gh_jid=8325673",
    "posted": "2026-11-05",
    "description": "THE POSITION Our roster has an opening with your name on it. FanDuel is looking to add a Product Analyst to join our Core UX Analytics and Experimentation team. You will be driving business results and product decisions with accurate, timely, and actionable insights. You will be a data evangelist and a champion of innovation, experimentation, and insights, ensuring we\u2019re positioned to capitalize on opportunities as they arise. This role sits on the Core UX Analytics &amp; Experimentation team and will collaborate with multiple departments within the company including, but not limited to Product, Design, Commercial, Strategy, Engineering, and Customer Service. This is an exciting opportunity to help drive strategic value at FanDuel. THE GAME PLAN Everyone on our team has a part to play You will be highly-skilled in product and business analytics, know how to lead experimentation initiatives and contribute to product strategy decisions. Consistently deliver accurate, timely and high-quality analysis and insights to stakeholders. Demonstrate analytics excellence, innovating in how we access, analyze, and share insights and define success Provide support to product leaders and pro-actively partner to leverage customer insights to drive product decisions. Be an authority for customer behavioral data; using data to shape our understanding of customer behavior &amp; business performance. Become a data evangelist in the organization and facilitate the democratization of data across all teams. Design and lead complex cross-functional experimentation initiatives. Drive velocity and impact of experiments with product teams. THE STATS What we\u2019re looking for in our next teammate Minimum 2+ years of experience in an analytical role, preferably within product or digital analytics. Bachelor\u2019s degree in Mathematics, Statistics, Economics, Computer Science or related field. Proficient in SQL, with experience writing complex queries. Experience with Amplitude Analytics and Databricks is highly preferred. (Other product analytics Experience with languages such as R and Python is preferred. Strong understanding of statistical methods (e.g., t-tests, chi-square, regression analysis). An excellent understanding of product analytics and the latest techniques in measuring customer experience Experience with A/B testing &amp; Experimentation methodologies and tools. Amplitude Experiment preferred Proven track record in the implementation of analytics and measurement solutions in a digital ecosystem Significant experience building intuitive and impactful data visualizations that drive business decisions (e.g., with Databricks, Tableau, Mode, Amplitude, Adobe, or similar). Excellent communication and data storytelling skills. Able to influence decision makers at all levels with data-driven insights. Ability to work as part of a team in a very fast-paced and changing environment. Understanding of business priorities and ability to work to meet them. High level of personal initiative and motivation. ABOUT FANDUEL FanDuel Group is the premier mobile gaming company in the United States and Canada. FanDuel Group consists of a portfolio of leading brands across mobile wagering including: America\u2019s #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry\u2019s unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product. In addition, FanDuel Group operates FanDuel TV, its broadly distributed linear cable television network and FanDuel TV+, its leading direct-to-consumer OTT platform. FanDuel Group has a presence across all 50 states, Canada, and Puerto Rico. The company is based in New York with US offices in Los Angeles, Atlanta, and Jersey City, as well as global offices in Canada and Scotland. The company\u2019s affiliates have offices worldwide, including in Ireland, Portugal, Romania, and Australia. FanDuel Group is a subsidiary of Flutter Entertainment, the world's large",
-   "score": 79,
+   "score": 100,
    "why": [
-    "role: product analyst",
-    "level: analyst",
-    "location: new york city",
-    "skills: python, sql, tableau, statistics, statistical"
+    "advisory/business: product analyst",
+    "entry level",
+    "city: new york city",
+    "Northeast",
+    "pay up to $112,000"
    ],
    "first_seen": "2026-11-25"
   },
@@ -105,85 +32,12 @@
    "url": "https://www.fanduel.careers/open-positions?gh_jid=8337243",
    "posted": "2026-11-05",
    "description": "THE POSITION Our roster has an opening with your name on it. FanDuel is looking to add a Product Analyst to join our Core UX Analytics and Experimentation team. You will be driving business results and product decisions with accurate, timely, and actionable insights. You will be a data evangelist and a champion of innovation, experimentation, and insights, ensuring we\u2019re positioned to capitalize on opportunities as they arise. This role sits on the Core UX Analytics &amp; Experimentation team and will collaborate with multiple departments within the company including, but not limited to Product, Design, Commercial, Strategy, Engineering, and Customer Service. This is an exciting opportunity to help drive strategic value at FanDuel. THE GAME PLAN Everyone on our team has a part to play You will be highly-skilled in product and business analytics, know how to lead experimentation initiatives and contribute to product strategy decisions. Consistently deliver accurate, timely and high-quality analysis and insights to stakeholders. Demonstrate analytics excellence, innovating in how we access, analyze, and share insights and define success Provide support to product leaders and pro-actively partner to leverage customer insights to drive product decisions. Be an authority for customer behavioral data; using data to shape our understanding of customer behavior &amp; business performance. Become a data evangelist in the organization and facilitate the democratization of data across all teams. Design and lead complex cross-functional experimentation initiatives. Drive velocity and impact of experiments with product teams. THE STATS What we\u2019re looking for in our next teammate Minimum 2+ years of experience in an analytical role, preferably within product or digital analytics. Bachelor\u2019s degree in Mathematics, Statistics, Economics, Computer Science or related field. Proficient in SQL, with experience writing complex queries. Experience with Amplitude Analytics and Databricks is highly preferred. (Other product analytics Experience with languages such as R and Python is preferred. Strong understanding of statistical methods (e.g., t-tests, chi-square, regression analysis). An excellent understanding of product analytics and the latest techniques in measuring customer experience Experience with A/B testing &amp; Experimentation methodologies and tools. Amplitude Experiment preferred Proven track record in the implementation of analytics and measurement solutions in a digital ecosystem Significant experience building intuitive and impactful data visualizations that drive business decisions (e.g., with Databricks, Tableau, Mode, Amplitude, Adobe, or similar). Excellent communication and data storytelling skills. Able to influence decision makers at all levels with data-driven insights. Ability to work as part of a team in a very fast-paced and changing environment. Understanding of business priorities and ability to work to meet them. High level of personal initiative and motivation. ABOUT FANDUEL FanDuel Group is the premier mobile gaming company in the United States and Canada. FanDuel Group consists of a portfolio of leading brands across mobile wagering including: America\u2019s #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry\u2019s unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product. In addition, FanDuel Group operates FanDuel TV, its broadly distributed linear cable television network and FanDuel TV+, its leading direct-to-consumer OTT platform. FanDuel Group has a presence across all 50 states, Canada, and Puerto Rico. The company is based in New York with US offices in Los Angeles, Atlanta, and Jersey City, as well as global offices in Canada and Scotland. The company\u2019s affiliates have offices worldwide, including in Ireland, Portugal, Romania, and Australia. FanDuel Group is a subsidiary of Flutter Entertainment, the world's large",
-   "score": 79,
+   "score": 98,
    "why": [
-    "role: product analyst",
-    "level: analyst",
-    "location: atlanta, georgia, united states",
-    "skills: python, sql, tableau, statistics, statistical"
-   ],
-   "first_seen": "2026-11-25"
-  },
-  {
-   "id": "greenhouse:8368191",
-   "company": "FanDuel",
-   "group": "betting & fantasy",
-   "source": "greenhouse",
-   "title": "Analytics Engineer",
-   "location": "New York City",
-   "url": "https://www.fanduel.careers/open-positions?gh_jid=8368191",
-   "posted": "2026-11-24",
-   "description": "THE POSITION Our roster has an opening with your name on it FanDuel is looking for an Analytics Engineer who will be responsible for designing, building, maintaining, and improving the data models, datasets and data visualizations which are and will be used by data scientists, analysts and stakeholders to power business performance impacting decisions in Generosity/Promotional Spend. This is a great opportunity for somebody who wants to work in an environment where curiosity is rewarded and people are empowered to make decisions. The ideal candidate will have a passion for continual learning and developing innovative solutions to business problems. In addition to the specific responsibilities outlined above, employees may be required to perform other such duties as assigned by the Company. This ensures operational flexibility and allows the Company to meet evolving business needs. THE GAME PLAN &nbsp; Everyone on our team has a part to play Work with Data Scientists and Data Engineers to optimize data pipelines and feature engineering for reporting, analysis, classification and prediction models Manage data transformation jobs for relevant data, ensure completion on schedule, optimize code, troubleshoot any issues Optimize modeled metric pipelines, streamline execution times and prioritizations, reduce query execution times where possible, remove unnecessary or unused metrics Leverage AI to accelerate and enhance your work, taking care to ensure high integrity, managing AI risk of error, and maintaining excellent understanding of AI output to avoid blind trust. Build a strong understanding of Sportsbook Generosity Distribution strategy, our customers behaviors and preferences, and your stakeholders objectives, to support collaboration, and focus on delivering impactful output and ideation Through idea generation and exploratory analysis, develop new and innovative ways to turn behaviors into features for use in analysis, segmentation and predictive modeling Maintain business rule definitions, and code implementations Design and implement data quality checks and alerts to manage accuracy of underlying data, and ensure modeled metrics are fit for purpose Build strong knowledge in how to optimally use our data platforms, and assist in educating team members in optimal platform usage; Build and maintain strong working relationships with key stakeholders in relevant teams within the Data Engineering and Data Product departments; Build and maintain dashboards, optimize code, troubleshoot issues Identifying potential improvements in underlying ingested data, or new data needs, and working with Data Engineering to prioritize and deliver &nbsp; THE STATS What we\u2019re looking for in our next teammate Minimum 3 years of experience in a similar role Minimum 2 years building, maintaining and optimizing complex data pipelines with real world applications Advanced SQL coding and experience of manipulating large datasets Proficient in at least one programming language (e.g. Python, R, C# etc.) Strong problem solving ability and attention to detail are important Experience building data pipelines using Python and Databricks an advantage Experience working with data visualization tools like Tableau an advantage Undergraduate degree in a coding heavy or technical discipline Interest in Sports an advantage &nbsp; ABOUT FANDUEL FanDuel Group is the premier mobile gaming company in the United States and Canada. FanDuel Group consists of a portfolio of leading brands across mobile wagering including: America\u2019s #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry\u2019s unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product. &nbsp; In addition, FanDuel Group operates FanDuel TV, its broadly distributed linear cable television network and FanDuel TV+, its leading direct-to-consumer OTT platform. FanDuel Group has a presence across all 50 states, Canada, a",
-   "score": 78,
-   "why": [
-    "role: analytics",
-    "location: new york city",
-    "skills: python, sql, tableau, modeling, dashboards"
-   ],
-   "first_seen": "2026-11-25"
-  },
-  {
-   "id": "greenhouse:8093107",
-   "company": "FanDuel",
-   "group": "betting & fantasy",
-   "source": "greenhouse",
-   "title": "Analytics Engineer",
-   "location": "Jersey City, New Jersey, United States",
-   "url": "https://www.fanduel.careers/open-positions?gh_jid=8093107",
-   "posted": "2026-10-27",
-   "description": "THE POSITION Our roster has an opening with your name on it As an Analytics Engineer for our Sports Modeling &amp; Innovation team, you will be responsible for designing, building, maintaining, and improving the data models, datasets and data visualizations which are and will be used by data scientists to power business performance impacting decisions. You will bridge the gap from our data and the Data Engineering team to the data scientists, analysts and other business stakeholders, aiming to leverage that data for insights and business decisions. This is a great opportunity for somebody who wants to work in an environment where curiosity is rewarded, and people are empowered to make decisions. The ideal candidate will have a passion for learning and a desire to optimize how we leverage our data. In addition to the specific responsibilities outlined above, employees may be required to perform other such duties as assigned by the Company. This ensures operational flexibility and allows the Company to meet evolving business needs. THE GAME PLAN Everyone on our team has a part to play Developing pipelines to ensure fast (sometimes real time) ingestion of data into properly thought-out databases (SQL, Delta Lakes, etc.) Maintaining validation pipelines that flag bad or missing data and iterating on these pipelines when new databases are created Manage existing data transformation jobs for the Sports Modeling and Innovation team, help optimize code across our code bases, and troubleshoot any issues Database management \u2013 automate data cleaning projects on large data sets Make decisions between memory and speed tradeoffs to best optimize team\u2019s project needs - help reduce query execution times where possible and remove unnecessary/unused metrics Create and own a backlog of prioritized Tableau dashboard / Rshiny app additions Curiosity about AI and emerging technologies is a plus THE STATS What we're looking for in our next teammate 3+ years of experience working in an analytics/data engineering role 2+ years working on maintaining databases with a focus on improving data ingestion pipelines Deep understanding of relational databases Proficient in SQL, Databricks, R/Python, Tableau, AWS s3 buckets, command line Experience building data pipelines using Python/R and Databricks is a huge advantage Bachelor's Degree, preferably in a highly numerate major (Math, Stats, Econ, etc.) or relevant experience in data analysis role Strong personal organizational and time management skills Ability to work in a fast-paced environment Strong problem-solving skills Experience working in groups on collaborative projects &nbsp; ABOUT FANDUEL FanDuel Group is the premier mobile gaming company in the United States and Canada. FanDuel Group consists of a portfolio of leading brands across mobile wagering including: America\u2019s #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry\u2019s unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product. &nbsp; In addition, FanDuel Group operates FanDuel TV, its broadly distributed linear cable television network and FanDuel TV+, its leading direct-to-consumer OTT platform. FanDuel Group has a presence across all 50 states, Canada, and Puerto Rico. The company is based in New York with US offices in Los Angeles, Atlanta, and Jersey City, as well as global offices in Canada and Scotland. The company\u2019s affiliates have offices worldwide, including in Ireland, Portugal, Romania, and Australia. FanDuel Group is a subsidiary of Flutter Entertainment, the world's largest sports betting and gaming operator with a portfolio of globally recognized brands and traded on the New York Stock Exchange (NYSE: FLUT). PLAYER BENEFITS We treat our team right We offer amazing benefits above and beyond the basics. We have an array of health plans to choose from (some as low as $0 per paycheck) that include programs for fertility and family pla",
-   "score": 76,
-   "why": [
-    "role: analytics",
-    "location: jersey city, new jersey, united states",
-    "skills: python, sql, tableau, modeling"
-   ],
-   "first_seen": "2026-11-25"
-  },
-  {
-   "id": "greenhouse:8348296",
-   "company": "FanDuel",
-   "group": "betting & fantasy",
-   "source": "greenhouse",
-   "title": "Quantitative Software Engineer",
-   "location": "Jersey City, New Jersey, United States",
-   "url": "https://www.fanduel.careers/open-positions?gh_jid=8348296",
-   "posted": "2026-11-24",
-   "description": "THE POSITION Our roster has an opening with your name on it As a Software Engineer within FanDuel\u2019s Trading Solutions team, you will be an essential part of a cross functional agile team that directly impacts our business. You will work collaboratively with a team to implement creative, high-quality solutions, scope effort and timelines, and balance priorities of our stakeholders and engineering needs. This team will work closely to deliver exceptionally high-quality software, while taking pride and ownership in testing, deploying, monitoring, and maintaining that software. Our engineers own every part of the software delivery lifecycle.&nbsp;&nbsp; &nbsp;You will work directly with quantitative analysts at FanDuel to improve the major US sports platforms. You will be a domain expert on price modeling implementation and how that fits into the larger Risk and Trading landscape. You will go beyond the software developer role and will be called upon to identify opportunities yourself in the quantitative space to innovate through technology. &nbsp; THE GAME PLAN &nbsp; Everyone on our team has a part to play &nbsp;You are a significant and autonomous contributor. Your work is consistently of high quality. You solve difficult problems, applying appropriate technologies and best practices. You work with your team to invent, design and build software that is stable and performant. You limit the use of short-term workarounds. You do things with the proper level of complexity the first time (or at least minimize incidental complexity). You create flexible software without over-engineering. You make appropriate trade-offs, re-use where possible, and are judicious about introducing dependencies. You are efficient with resource usage (e.g., system hardware, database, memory/CPU, etc). &nbsp;We are looking for engineers to actively engage in technical discussions, assist in designing and implementing solutions, and deliver constant improvements to our systems. We want you to be excited about constantly learning and driving your professional development. You should have many of the following skills and be eager to build the skills you don\u2019t!:&nbsp; You work in project ideas with stakeholders, and peers. You own parts of product and technology &amp; become subject matter experts. You write simple and extendable code following standards and best practices. You test your code thoroughly. You help balance customer requirements with the team requirements. You help your team evolve by actively participating in the code review process, design discussions, team planning, and ticket/metric/COE reviews. You classify, store, and handle data in accordance with FanDuel policies. You track security risks and mitigate and/or escalate them in a timely manner. You focus on operational excellence, constructively identifying problems and proposing solutions. You take on projects and make software enhancements that improve the team software and processes. You work to resolve the root cause of complex problems, leaving software better and easier to maintain than when you found it. On-call rotation where required. You provide excellent customer support. You keep yourself up to date with market standards, open-source frameworks. Creative problem-solving ability. A passion for learning and always getting better. Most importantly, you are; humble, pragmatic, self-managed, thirsty for knowledge, never satisfied and always challenging the norm. Responsible for the state of the code you both inherit and produce. &nbsp; THE STATS What we\u2019re looking for in our next teammate Degree in Computer Science, Data Science, Engineering, Mathematics, Physics, or related discipline preferred.&nbsp; 3 or more years of industry experience in an Engineering field, Machine Learning, Data Science, Finance Engineering, or Statistics preferred. Proficient in building services with a modern OOP language (C# experience is beneficial). Understanding of performance, hardware, and lower-level",
-   "score": 74,
-   "why": [
-    "role: quantitative",
-    "location: jersey city, new jersey, united states",
-    "skills: machine learning, statistics, modeling"
-   ],
-   "first_seen": "2026-11-25"
-  },
-  {
-   "id": "greenhouse:6241245004",
-   "company": "Alo",
-   "group": "brand",
-   "source": "greenhouse",
-   "title": "Buying & Merchandising AI Analyst",
-   "location": "Beverly Hills, California, United States",
-   "url": "https://boards.greenhouse.io/aloyoga/jobs/6241245004?gh_jid=6241245004",
-   "posted": "2026-11-20",
-   "description": "WHY JOIN ALO? Mindful movement. It\u2019s at the core of why we do what we do at ALO\u2014it\u2019s our calling. Because mindful movement in the studio leads to better living. It changes who yogis are off the mat, making their lives and their communities better. That\u2019s the real meaning of studio-to-street: taking the consciousness from practice on the mat and putting it into practice in life. Overview: As the Buying &amp; Merchandising AI Analyst, you will use AI analytics and automation to improve reporting and forecasting, support pricing analysis, and strengthen business execution. Working within a design-led company, you will translate data into actionable insights that support the product vision first and drive commercial performance. &nbsp; Reporting into the Buying organization, you will support both Buying and Merchandising by bringing AI and automation into everyday workflows. You will work closely with users to understand their needs, identify manual and Excel-based processes that can be improved, and develop practical AI-powered tools and scalable solutions with guidance. You will also own recurring deliverables and support cross-functional initiatives, including international pricing, to improve efficiency, strengthen insights, and enable better decision-making. &nbsp; &nbsp; At Alo, our in-office collaboration and culture is one of our greatest assets. We believe in being together to build strong team partnerships and cross-functional relationships. This position requires being full time in office . &nbsp; Responsibilities: &nbsp; Automate recurring reporting and analysis with AI to reduce manual work and improve accuracy and timeliness. &nbsp; Develop AI-enabled dashboards, tools, and workflows under guidance to deliver actionable insights. &nbsp; Validate AI outputs against trusted data and business context, investigating discrepancies and applying human review. &nbsp; Test and document approved AI tools, measuring productivity and quality while protecting company data. &nbsp; Support international pricing analysis across market trends, competitive positioning, and margins. &nbsp; Enhance pricing tools under guidance to improve reliability, usability, and opportunity assessment. &nbsp; Analyze product and business performance for seasonal reviews, leadership discussions, and key initiatives. &nbsp; Connect business and technical teams to clarify needs, resolve issues, and support timely delivery. &nbsp; Qualifications: 2+ years in analytics, pricing, buying, merchandising, or planning; retail or e-commerce experience preferred &nbsp; Practical AI experience and sound judgment about capabilities, limitations, and responsible use &nbsp; Advanced Excel, working knowledge of SQL, and experience with Tableau, Power BI, or comparable tools &nbsp; Familiarity with Python, workflow automation, or application development preferred &nbsp; Strong business acumen and analytical skills, with an interest in pricing and retail performance &nbsp; Highly detail-oriented, with strong data validation and problem-solving skills &nbsp; Excellent communication, organizational, and interpersonal skills across business and technical teams &nbsp; Entrepreneurial spirit, ownership mindset, and ability to prioritize in a fast-paced environment &nbsp; The base salary range for this position is $115,000-$120,000 per year which represents the current range for the base salary for this exempt position. Please note that actual salaries will vary based on factors including but not limited to location, experience, and performance. As such, on occasion and when applicable, there is the possibility that the final, agreed-upon base salary may be outside of the upper end of the range. Please also note the range listed is just one component of the company\u2019s total rewards package for exempt employees. Other rewards may include performance bonuses, long term incentives, a PTO policy, and many other progressive benefits. For CA residents, Job Applicant Privacy Policy&",
-   "score": 72,
-   "why": [
-    "analyst role with data skills",
-    "level: analyst",
-    "location: beverly hills, california, united states",
-    "skills: python, sql, tableau, excel, power bi"
+    "advisory/business: product analyst",
+    "entry level",
+    "city: atlanta, georgia, united state",
+    "pay up to $112,000"
    ],
    "first_seen": "2026-11-25"
   },
@@ -197,48 +51,33 @@
    "url": "https://www.fanduel.careers/open-positions?gh_jid=8258623",
    "posted": "2026-10-30",
    "description": "THE POSITION Our roster has an opening with your name on it We are looking for a Media Analyst to join our Casino Analytics team. You will support the Casino business by leveraging data to drive actionable commercial insights with a focus on media performance. You will work alongside a group of analysts and the media team to facilitate the team\u2019s success, evolving the various tools, models, and data visualizations used to drive the FanDuel Group business. This is a tremendous opportunity to collaborate cross-functionally and drive FanDuel Casino\u2019s Media strategy. &nbsp; THE GAME PLAN &nbsp;Everyone on our team has a part to pla y Work with other analysts to produce specific insights around media performance, year over year trends, and drivers of acquisition performance Participate in presentations focused on using analysis to drive new business outcomes &nbsp; Field and fulfill requests for various business inquires within the casino business At times participate in scoping out and implementing reporting/visualization needs within the business Become a key business partner to the media and growth teams, supporting them in key decision making Opportunity to mentor junior analysts on day-to-day requests as well as team best practices &nbsp; &nbsp; THE STATS What we\u2019re looking for in our next teammate &nbsp; 2+ years' experience in an analytics/technical role preferred. Bachelor's Degree in a highly numerate major (Math, Stats, Econ, etc.) or relevant experience in data and/or business analysis preferred. Strong personal organizational and time management skills. Ability to work in a fast-paced environment with a lot of ambiguity. Proficiency in SQL, Excel and Tableau or another data visualization platforms required. Familiarity with programming languages (e.g. Python, R), cloud computing platforms (e.g. Databricks), or ELT/data modeling (e.g. DBT) highly desirable. Strong problem-solving skills, allied with track record of transforming data into actionable business insight. Experience working in groups and leading smaller intra year projects. Experience collaboratively working with colleagues in other countries and time zones preferred. Strong stakeholder management. Ability to be independent and lead projects with proactive thinking. Interest/experience in Media and/or marketing a plus. Interest in Fantasy Sports/Gaming/Sports a plus. ABOUT FANDUEL &nbsp; FanDuel Group is the premier mobile gaming company in the United States. FanDuel Group consists of a portfolio of leading brands across mobile wagering including: America\u2019s #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry\u2019s unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product.&nbsp;&nbsp; In addition, FanDuel Group operates FanDuel TV, its broadly distributed linear cable television network and FanDuel TV+, its leading direct-to-consumer OTT platform. FanDuel Group has a presence across all 50 states and Puerto Rico.&nbsp; The company is based in New York with US offices in Los Angeles, Atlanta, and Jersey City, as well as global offices in Canada and Scotland. The company\u2019s affiliates have offices worldwide, including in Ireland, Portugal, Romania, and Australia. FanDuel Group is a subsidiary of Flutter Entertainment, the world's largest sports betting and gaming operator with a portfolio of globally recognized brands and traded on the New York Stock Exchange (NYSE: FLUT). PLAYER BENEFITS We treat our team right We offer amazing benefits above and beyond the basics. We have an array of health plans to choose from (some as low as $0 per paycheck) that include programs for fertility and family planning, mental health support, and fitness benefits. We offer generous paid time off (PTO &amp; sick leave), annual bonus and long-term incentive opportunities (based on performance), 401k with up to a 5% match, commuter benefits, pet insurance, and more - check out all our ben",
-   "score": 70,
+   "score": 93,
    "why": [
-    "analyst role with data skills",
-    "level: analyst",
-    "location: new york city",
-    "skills: python, sql, tableau, excel, modeling"
+    "analytics: analyst",
+    "entry level",
+    "city: new york city",
+    "Northeast",
+    "pay up to $112,000"
    ],
    "first_seen": "2026-11-25"
   },
   {
-   "id": "smartrecruiters:744000163139439",
-   "company": "Red Bull (incl. Red Bull New York)",
-   "group": "team",
-   "source": "smartrecruiters",
-   "title": "2027 Internship, Spring - RBII Team Analysis",
-   "location": "Morristown, NJ, us",
-   "url": "https://jobs.smartrecruiters.com/RedBull/744000163139439",
-   "posted": "2026-11-23",
-   "description": "",
-   "score": 70,
-   "why": [
-    "role: team analysis",
-    "internship / fellowship"
-   ],
-   "first_seen": "2026-11-25"
-  },
-  {
-   "id": "greenhouse:7981471003",
-   "company": "PrizePicks",
+   "id": "greenhouse:8055746",
+   "company": "FanDuel",
    "group": "betting & fantasy",
    "source": "greenhouse",
-   "title": "Game Operations - Trading Analyst",
-   "location": "Atlanta, GA preferred, Remote",
-   "url": "http://prizepicks.com/position?gh_jid=7981471003",
-   "posted": "2026-10-29",
-   "description": "At PrizePicks, we are the fastest-growing sports company in North America, as recognized by Inc. 5000. As the leading platform for Daily Fantasy Sports, we cover a diverse range of sports leagues, including the NFL, NBA, and Esports titles like League of Legends and Counter-Strike. Our team of over 550 employees thrives in an inclusive culture that values individuals from diverse backgrounds, regardless of their level of sports fandom. Ready to reimagine the DFS industry together?&nbsp; PrizePicks is looking for a detail oriented, statistically-minded individual who excels in a fast-paced environment to monitor and trade precise sports projections on a day-to-day basis. What you\u2019ll do: Maintain accurate pre-game and in-game player projections for all markets. This includes, but isn\u2019t limited to: NFL, NBA, MLB, NHL, CBB, and CFB. Monitor player projections throughout the day and track any key information needed for projections Manage risk and monitor projections accordingly utilizing modeling and quantitative analysis Understand PrizePicks members' play patterns and adjust internal processes accordingly Work with sport owners to implement strategies, best practices, and processes around key markets Help set up standard operating procedures around PrizePicks game operations tasks What you have: Ability to analyze several streams of information concurrently and make thoughtful decisions in a highly time-sensitive environment Strong attention to detail, verbal, and written communication skills Excellent time management, reliability, and ability to meet highly important deadlines Ability to apply strong understanding of DFS and sports gaming industries Thorough understanding of college/major sports league players, teams, players, matchups and understanding of how said information impacts projections Comfort applying Standard Operating Procedures to all sports, regardless of specialized knowledge or experience Openness to different trading philosophies and willingness to adapt to what best achieves company objectives Availability to work on nights &amp; weekends (coinciding with sports schedule) Strong Mathematical and Analytical skills What makes you stand out: A bachelor's degree in a related field (statistics, computer science, engineering, analytics, finance, accounting) preferred but not required One to three years of experience working in or playing Daily Fantasy Sports or Sports Gaming preferred but not required Where you\u2019ll live: While we prefer candidates based in Atlanta, we are open to qualified applicants from anywhere in the U.S. and are willing to consider remote candidates. #LI-Remote Working at PrizePicks: The typical salary range for this position is $60,000 to $70,000. At PrizePicks, we consider your role, level, and where you'll be working when determining our salary ranges. The compensation info you see on our job postings gives you an idea of the starting pay range for the position. Your actual pay within that range will depend on your specific work location, as well as your skills, experience, and education. Your&nbsp; recruiter will be happy to chat more about the specific pay range for your location and how we arrived at it during the hiring process.&nbsp; This application period will remain open for 30 days. We\u2019re committed to finding the best candidate, so this date may be adjusted, and any changes will be reflected in this posting.&nbsp; &nbsp; Date Posted: 8/31/26 Reposted: 9/30/26 &nbsp; &nbsp; Benefits you\u2019ll receive: In addition to your great compensation package, full-time employees will be eligible for the following perks:&nbsp; Company-subsidized medical, dental, &amp; vision plans&nbsp; 401(k) plan with company match Annual bonus Flexible PTO to encourage a healthy work/life balance (2 weeks STRONGLY encouraged!) Generous paid leave programs, including 16-week paid parental leave and disability benefits Workplace flexibility and modern work schedules focused on getting the job done, not hours clock",
-   "score": 69,
+   "title": "Campaign Analytics, Data Analyst",
+   "location": "New York City",
+   "url": "https://www.fanduel.careers/open-positions?gh_jid=8055746",
+   "posted": "2026-10-23",
+   "description": "THE POSITION Our roster has an opening with your name on it FanDuel is looking for a Data Analyst to support our recently established Generosity Intelligence team. In this role you will be responsible for performance analytics, reporting and data analysis across all areas of our Sportsbook generosity campaigns. Using your numerical skills, analytical mindset and technological capabilities, you will play a key role in understanding the impact and effectiveness of our spend. This is a great opportunity for somebody who wants to work in an environment where curiosity is rewarded, and people are empowered to make decisions. The ideal candidate will have a passion for learning and development, have a head for numbers and motivated to develop their own solutions to business problems. The successful candidate will be tasked with a wide range of responsibilities, making this an excellent opportunity for someone looking to learn a lot and fast! If you would like to play a key role in an emerging US Sports Betting market opportunity, then this could be the role for you. Integrity, low ego and collaboration are key values in the Generosity Intelligence department. In addition to the specific responsibilities outlined above, employees may be required to perform other such duties as assigned by the Company. This ensures operational flexibility and allows the Company to meet evolving business needs. THE GAME PLAN Everyone on our team has a part to play Deliver high-quality analysis, reporting, and customer segmentation to help enhance visibility into the performance of our generosity campaigns. Analyze customer behavior and promotional engagement to uncover trends, identify opportunities, and provide actionable insights to stakeholders. Conduct exploratory analyses and develop hypotheses that support ongoing optimization of generosity initiatives. Support campaign measurement efforts by maintaining reporting, validating data quality, and contributing to performance evaluations. Leverage AI to accelerate and enhance your work, taking care to ensure high integrity, managing AI risk of error, and maintaining excellent understanding of AI output to avoid blind trust. Demonstrate accurate insights using easy to interpret visualizations and clear explanations of results, recommendations, methods, biases and limitations. Take responsibility to learn the necessary skills and techniques, in order to work with independence, integrity and accuracy. Collaborate with key stakeholders to effectively identify new value add projects and areas for improvement to support their strategic objectives. THE STATS What we're looking for in our next teammate Minimum of 1+ years of previous experience in a similar role Proficient in SQL &amp; Microsoft Excel with experience of manipulating large datasets Knowledge of at least one statistical or programming language a plus, ideally Python Undergraduate degree in a numerate or technical discipline or equivalent professional experience Experience working with data visualization tools like Tableau an advantage Interest in sports an advantage Interest or experience in the sports betting industry is an advantage Ability to, on rare occasions, support critical business needs outside of normal business hours ABOUT FANDUEL FanDuel Group is the premier mobile gaming company in the United States and Canada. FanDuel Group consists of a portfolio of leading brands across mobile wagering including: America\u2019s #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry\u2019s unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product. &nbsp; In addition, FanDuel Group operates FanDuel TV, its broadly distributed linear cable television network and FanDuel TV+, its leading direct-to-consumer OTT platform. FanDuel Group has a presence across all 50 states, Canada, and Puerto Rico. The company is based in New York with US offices in Los Angeles, A",
+   "score": 93,
    "why": [
-    "role: trading analyst",
-    "level: analyst",
-    "location: atlanta, ga preferred, remote",
-    "skills: statistics, modeling"
+    "analytics: data analyst",
+    "entry level",
+    "city: new york city",
+    "Northeast",
+    "pay up to $112,000"
    ],
    "first_seen": "2026-11-25"
   },
@@ -252,12 +91,30 @@
    "url": "https://boards.greenhouse.io/aloyoga/jobs/6144732004?gh_jid=6144732004",
    "posted": "2026-11-20",
    "description": "WHY JOIN ALO? Mindful movement. It\u2019s at the core of why we do what we do at ALO\u2014it\u2019s our calling. Because mindful movement in the studio leads to better living. It changes who yogis are off the mat, making their lives and their communities better. That\u2019s the real meaning of studio-to-street: taking the consciousness from practice on the mat and putting it into practice in life. OVERVIEW Alo is seeking a highly motivated individual to join our Financial Planning &amp; Analysis team. As the FP&amp;A Analyst, you will support our fast-growing E-Commerce channel. This role will partner closely with Digital Marketing, Operations, and Technology to provide financial insights, forecast performance, and identify opportunities to improve ROI across all digital and tech initiatives RESPONSIBILITIES&nbsp;&nbsp; Support coordination and preparation of budget, forecasts, and management reporting deliverables Partner with Accounting to support the monthly close process including variance and accrual analysis Track and analyze web P&amp;L, highlighting opportunities to improve profitability and cost structure Build and maintain weekly and monthly dashboards for revenue metrics Partner with Digital Marketing to evaluate performance of paid channels Partner with digital/tech/product teams to evaluate financial impact of investments Other ad-hoc analysis across the business, as necessary QUALIFICATIONS 1-3 years of experience in finance-related work, corporate and/or operations finance.&nbsp; Experience in e-commerce, retail, apparel or consumer sectors is a plus Strong analytical skills with high attention to detail and the ability to summarize large amounts of data Proven time management and multiple task management capabilities Excellent verbal and written communication skills Ability to be flexible and adapt quickly to shifting priorities and business needs Advanced competency in Excel and PowerPoint Familiarity with Tableau is a plus Compensation: The base salary range for this position is $75,000-$90,000 per year.&nbsp; Actual salaries will vary based on factors such as location, experience, and performance. &nbsp;Other rewards may include a PTO policy and a variety of progressive benefits. #LI-onsite For CA residents, Job Applicant Privacy Policy&nbsp; HERE . &nbsp;",
-   "score": 68,
+   "score": 92,
    "why": [
-    "analyst role with data skills",
-    "level: analyst",
-    "location: beverly hills, california, united states",
-    "skills: tableau, excel, forecast, dashboards"
+    "advisory/business: fp&a",
+    "entry level",
+    "pay up to $90,000"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "ashby:a5373034-1bf6-488a-b96d-4f82f9ead697",
+   "company": "Tonal",
+   "group": "fitness tech",
+   "source": "ashby",
+   "title": "Associate, Strategy & Corporate Development",
+   "location": "New York, NY",
+   "url": "https://jobs.ashbyhq.com/tonal/a5373034-1bf6-488a-b96d-4f82f9ead697",
+   "posted": "2026-11-02",
+   "description": "Overview\n\nTonal is looking for a passionate, fitness-minded Associate to join our Strategy & Corporate Development team. This role sits at the intersection of long-term strategic planning, partnerships, and high-priority business analysis. You'll work directly with senior leadership and on initiatives that shape the direction of the company, from market expansion and competitive positioning to partnership evaluation and new business opportunities.\n\nThe ideal candidate is a strong, independent, strategic thinker, highly analytical, a great team player, and comfortable operating with a great work ethic. This is a high-visibility, high-impact role for someone who thrives in ambiguity, moves quickly, and wants to go deep on the business.\n\n\n\nWhat You Will Do\n\nStrategic Planning & Market Analysis\n\n - Assist in data- and research-driven strategic initiatives to develop Tonal's short- and long-term strategy.\n\n - Synthesize and analyze quantitative and qualitative research and data sets into insights, hypotheses, implications, and recommendations.\n\n - Conduct market and competitive research across consumer hardware, fitness, wellness, and adjacent tech, to inform executive-level strategy discussions.\n\nFinancial Modeling & Deal Evaluation\n\n - Build financial models and business cases to evaluate strategic options, new market opportunities, and investment decisions.\n\n - Synthesize and analyze quantitative & qualitative research and data sets into insights and/or hypotheses that support initiatives, implications and/or recommendations\n\n - Create key analyses and negotiation support, working closely with internal and external partners to structure and execute transactions.\n\nPartnerships & Corporate Development\n\n - Support strategic partnership processes end-to-end: sourcing, evaluation, financial modeling, and internal recommendation materials.\n\n - Partner on a range of projects spanning product development, product pricing, evaluation of new revenue opportunities, and identification of acquisition/investment targets.\n\nCross-Functional Collaboration & Executive Communication\n\n - Work cross-functionally with Finance, Product, Revenue, Operations and other teams to develop and pressure-test strategic frameworks.\n\n - Projects could range from partnering on product development, product pricing, evaluation of new revenue opportunities, and identifying acquisition/investment targets\n\n - Assist in framing and communicating key conclusions, including board materials, executive presentations, and strategic memos.\n\n\n\nWho You Are\n\n - 3+ years of experience in a highly analytical and strategic role (investment banking, private equity, growth equity, management consulting, corporate strategy, or corporate development).\n\n - Proficient in financial modeling, valuation and financial analysis\n\n - Demonstrated experience solving complex, ambiguous, and analytically challenging problems.\n\n - Excellent verbal and written communicator, able to distill complex analysis into clear, executive-ready narratives.\n\n - Self-starter who excels in a fast-paced, resource-constrained, and fluid environment. You figure things out rather than wait for direction.\n\n - Willingness to step up to greater responsibility and take ownership of projects, strong desire to contribute to overall goals\n\n - Passionate about fitness and wellness. Genuine curiosity about Tonal's business and the broader consumer, fitness, and tech landscape.\n\n - Strong stakeholder management skills and comfort working directly with senior leadership.\n\n - Bachelor's degree required; top academic record preferred.\n\n\n\nSkills Preferred\n\n - Proficient in financial modeling, valuation, and financial analysis (three-statement models, DCF, scenario analysis, unit economics).\n\n - Experience manipulating and deriving insights from data sets using tools such as Excel, Looker, or DataBricks.\n\n - Ability to frame and communicate complex concepts and analysis using Microsoft Excel and Google Suite\n\n - Strong research sk",
+   "score": 87,
+   "why": [
+    "advisory/business: strategy",
+    "entry level",
+    "city: new york, ny",
+    "Northeast"
    ],
    "first_seen": "2026-11-25"
   },
@@ -271,207 +128,102 @@
    "url": "https://job-boards.greenhouse.io/penninteractive/jobs/6247180004",
    "posted": "2026-11-04",
    "description": "PENN Entertainment, Inc. is North America\u2019s leading provider of integrated entertainment, sports content, and casino gaming experiences. From casinos and racetracks to online gaming, sports betting and entertainment content, we deliver the experiences people want, how and where they want them. We\u2019re always on the lookout for those who are passionate about creating and delivering cutting-edge online gaming and sports media products. Whether it\u2019s through&nbsp; Hollywood Casino , theScore Bet Sportsbook , or theScore media app, we\u2019re excited to push the boundaries of what\u2019s possible. These state-of-the-art platforms are powered by proprietary in-house technology, a key component of PENN\u2019s omnichannel gaming and entertainment strategy. When you join PENN Entertainment\u2019s digital team, you\u2019ll not only work on these cutting-edge platforms through theScore and PENN Interactive, but you\u2019ll also be part of a company that truly cares about your career growth. We\u2019re committed to supporting you as you expand your skills and explore new opportunities. With locations throughout North America, you can build a future at PENN Entertainment wherever you are. If you want to challenge conventions in gaming, media and entertainment, we want to talk to you. About the Role &amp; Team The&nbsp;Business Intelligence Engineer&nbsp;investigates&nbsp;and disseminates centralized&nbsp;data sources to expand the reliability and scope of the&nbsp;corporate&nbsp;Enterprise Data Warehouse&nbsp;as a source of truth among supported teams. The incumbent is responsible for distilling transactional data down to valuable and relatable KPIs for business partners in areas such as Marketing, Gaming, Hotel, Food and Beverage, Finance, and Human Resources. About the Work As a key member of our team, you will: Provide data direction and education to&nbsp;property&nbsp;analyst&nbsp;teams Work as gatekeeper for all data related inquiries&nbsp;and&nbsp;assure accurate&nbsp;delivery/usage Help facilitate data&nbsp;for advanced analytics/modeling&nbsp;requirements Maintain&nbsp;and escalate&nbsp;data quality practices including&nbsp;local oversight, risk mitigation and resolution&nbsp;procedures Identify, collaborate, and present key data relationships and KPIs that allow the business leaders to better see and understand their operations Monitor data performance and SLA thresholds to assure&nbsp;end-user&nbsp;adoption Work with stakeholders across different areas on new data requirements and definitions Present data findings through multiple qualitative communication platforms Other duties as required About the You University degree in Computer Science, Statistics, Business, or related field. You possess a minimum of 3+ years of experience in data modeling or analytics You bring hands-on expertise with our technology stack: SQL, Tableau and relational databases Familiarity with&nbsp;Tableau&nbsp;or other BI platforms&nbsp;is required Awareness of machine learning languages and data modeling (Python) is a&nbsp;plus&nbsp; You excel in managing relationships with both internal and external stakeholders, ensuring alignment and transparency throughout project lifecycles. Strong problem solving, organizational, and prioritization skills&nbsp; Proven ability to communicate with technical and non-technical management Interest in Sports, casinos or consumer products What We Offer Competitive compensation package Fun, relaxed work environment Education and conference reimbursements. Opportunities for career progression and mentoring others #LI-REMOTE #LI-Hybrid Salary Range $80,000 &mdash; $115,000 USD Penn Interactive is proud to be an equal opportunity workplace. We will consider all qualified applicants for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability, veteran status, genetic information, or any other basis protected by applicable law.Base pay is one part of the Total Rewards that Penn Interactive provi",
-   "score": 67,
+   "score": 86,
    "why": [
-    "role: business intelligence",
-    "location: remote, united states",
-    "skills: python, sql, tableau, excel, machine learning"
+    "advisory/business: business intelligence",
+    "city: remote, united states",
+    "pay up to $115,000"
    ],
    "first_seen": "2026-11-25"
   },
   {
-   "id": "greenhouse:8267158",
+   "id": "greenhouse:8346749",
    "company": "FanDuel",
    "group": "betting & fantasy",
    "source": "greenhouse",
-   "title": "Data Engineer",
-   "location": "Atlanta, Georgia, United States",
-   "url": "https://www.fanduel.careers/open-positions?gh_jid=8267158",
-   "posted": "2026-10-30",
-   "description": "THE POSITION Our roster has an opening with your name on it FanDuel is looking for a Data Support Engineer to advance our data capabilities and ensure the reliability and performance of our critical data pipelines and infrastructure. FanDuel's competitive edge is enabled by our ability to leverage accurate and timely data for informed decision-making. As a Data Support Engineer, you will be a valued member of the Data Support team, maintaining exceptional standards and servicing the needs of data consumers across the company. You will ensure the health of our data infrastructure, contribute to the delivery of reliable, timely, and consumable data, and combine technical troubleshooting with proactive monitoring. You'll have the opportunity to work in an agile environment where you will team up with colleagues having experience in data engineering, machine learning and more. In addition to the specific responsibilities outlined above, employees may be required to perform other such duties as assigned by the Company. This ensures operational flexibility and allows the Company to meet evolving business needs. &nbsp; THE GAME PLAN &nbsp; Everyone on our team has a part to play Provide on-call technical assistance to analysts, data consumers, and data engineering teams, responding to inquiries relating to query optimization, reporting anomalies, complex data pipeline issues, failed jobs, and data inconsistencies. Investigate and resolve data quality issues in response to system alerts or notifications from stakeholders, ensuring compliance with internal/external audits and control practices. Design and implement batch and real-time data pipelines to the data warehouse or data lake using data transformation technologies, enhancing monitoring dashboards and support tools. Lead impactful initiatives to enhance data pipelines and other data operations capabilities while mentoring and onboarding new support data engineers. Identify operational inefficiencies and implement automation solutions to reduce manual intervention. Create and maintain technical support documentation, including FAQs, troubleshooting steps, support runbooks, and a knowledge base of solutions to recurring issues. Drive operational best practices and shape workflows for routine consumer support, operations monitoring, incident management, and problem management. Administer account access to tools across the technology stack in accordance with our governance policies. Able to join team's On-call Pager duty rotation to ensure 24/7 coverage and timely response to critical data issues. THE STATS What we\u2019re looking for in our next teammate Minimum of 3+ years of experience in data engineering with focus on operational support Advanced SQL skills with proven query optimization experience Strong problem-solving skills with ability to take ownership and accountability for issues through resolution Python programming proficiency for automation and data processing Experience with cloud data platforms (AWS, Databricks, Spark) Understanding of data warehousing and ETL/ELT processing Experience with dimensional data modeling, batch data ingestion, and real-time technologies like Kafka or Kinesis Working knowledge of orchestration and monitoring tools (Airflow, Datadog, Databand, DataFold, Monte Carlo, Prometheus, Grafana) Strong incident management and root cause analysis capabilities Customer-oriented mindset with focus on delivering high-quality support services and attention to detail Exceptional communication and interpersonal skills Proven ability to work effectively within teams and across organizational boundaries Experience owning and coordinating issues across multiple time zones Experience identifying operational inefficiencies and implementing automation solutions using AI techniques Preferred Qualifications: Experience with data streaming patterns and tools like Dbt Familiarity with CI/CD practices for data pipelines (BuildKite or Github Actions) Familiarity with data",
-   "score": 65,
+   "title": "Customer Marketing Associate, Promotional Strategy",
+   "location": "New York City",
+   "url": "https://www.fanduel.careers/open-positions?gh_jid=8346749",
+   "posted": "2026-11-17",
+   "description": "THE POSITION Our roster has an opening with your name on it We\u2019re looking for a Customer Marketing Associate, Promotional Strategy to play a critical role in shaping and scaling FanDuel Predicts\u2019 promotional ecosystem. This role will lead the execution and continuous evolution of our All Customer Promotions strategy, while also contributing to broader promotional and loyalty strategy development. You will work cross-functionally across Operations, GTM, Commercial, Product, Legal and external partners to ensure promotions are not only executed seamlessly, but designed and optimized to drive meaningful customer engagement and retention. This is an opportunity to operate at the intersection of strategy and execution, owning a critical revenue-driving lever while helping define how promotions evolve as part of a broader loyalty system. THE GAME PLAN Everyone on our team has a part to play Own day-to-day promotional execution, including coordinating operational setup and developing and managing promotional tickets Manage core promotional processes, including Legal reviews and term development, creative requests, and maintaining promotional trackers to ensure campaigns are accurate and delivered on time Liaise with core delivery stakeholders (Ops, Creative, Legal, Commercial) including defining promotional objectives and needs, providing feedback, and tracking delivery Help drive the forecasting process for all Predicts promotions, as well as monitoring promo performance and cost reporting to measure success Contribute to post-mortem promotion analysis for major Predicts moments, offering insights and optimizations for future promotional efforts Proactively ideate on new promotional constructs and opportunities to enhance near- and long-term customer engagement and retention Conduct ongoing competitor tracking to gain a deeper understanding of promotional capabilities across the market landscape and identify opportunities for differentiation Help shape the broader loyalty strategy, contributing insights on how promotions ladder into longterm retention and customer value THE STATS What we\u2019re looking for in our next teammate Bachelor\u2019s degree or equivalent industry experience preferred. 1-3 years of experience in marketing, preferably in gaming, sports, or a highly-regulated industry. Proficiency manipulating data and performing calculations in Excel (VLOOKUP, Pivot Tables, SUMIF statements, etc.) Meticulous attention to detail, outstanding organizational skills, project management skills, and ability to multi-task and prioritize. Data-driven mindset and strong analytical skills; using data to tackle problems and translate results into recommendations. Strong understanding of promotions, loyalty programs, and customer retention strategies. Has a positive attitude and loves opportunities to collaborate with others. Ability to work in a fast-paced, dynamic environment with tight deadlines. An avid sports and gaming fan, and have played FanDuel or competitive products. Knowledge of sports and/or experience working within a heavily regulated industry is a plus. Willing to work some non-traditional hours. ABOUT FANDUEL FanDuel Group is the premier mobile gaming company in the United States and Canada. FanDuel Group consists of a portfolio of leading brands across mobile wagering including: America\u2019s #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry\u2019s unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product. In addition, FanDuel Group operates FanDuel TV, its broadly distributed linear cable television network and FanDuel TV+, its leading direct-to-consumer OTT platform. FanDuel Group has a presence across all 50 states, Canada, and Puerto Rico. The company is based in New York with US offices in Los Angeles, Atlanta, and Jersey City, as well as global offices in Canada and Scotland. The company\u2019s affiliates have offices worldwide, incl",
+   "score": 85,
    "why": [
-    "role: data engineer",
-    "location: atlanta, georgia, united states",
-    "skills: python, sql, tableau, machine learning, modeling"
+    "advisory/business: strategy",
+    "entry level",
+    "city: new york city",
+    "Northeast"
    ],
    "first_seen": "2026-11-25"
   },
   {
-   "id": "smartrecruiters:744000163139699",
-   "company": "Red Bull (incl. Red Bull New York)",
-   "group": "team",
-   "source": "smartrecruiters",
-   "title": "2027 Internship, Spring - Data Science",
-   "location": "Morristown, NJ, us",
-   "url": "https://jobs.smartrecruiters.com/RedBull/744000163139699",
-   "posted": "2026-11-23",
-   "description": "",
-   "score": 65,
-   "why": [
-    "role: data science",
-    "internship / fellowship"
-   ],
-   "first_seen": "2026-11-25"
-  },
-  {
-   "id": "smartrecruiters:744000163139079",
-   "company": "Red Bull (incl. Red Bull New York)",
-   "group": "team",
-   "source": "smartrecruiters",
-   "title": "2027 Internship, Spring - Academy Scout",
-   "location": "Morristown, NJ, us",
-   "url": "https://jobs.smartrecruiters.com/RedBull/744000163139079",
-   "posted": "2026-11-23",
-   "description": "",
-   "score": 65,
-   "why": [
-    "role: academy scout",
-    "internship / fellowship"
-   ],
-   "first_seen": "2026-11-25"
-  },
-  {
-   "id": "ashby:e4e04f82-bc91-4bc1-b775-85b2b2549023",
-   "company": "Strava",
-   "group": "fitness tech",
-   "source": "ashby",
-   "title": "Software Engineering Intern, AI/ML Data Products",
-   "location": "Strava SF",
-   "url": "https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023",
-   "posted": "2026-11-13",
-   "description": "ABOUT STRAVA\n\nStrava is the app for active people. With over 200 million athletes in more than 185 countries, it\u2019s more than tracking workouts\u2014it\u2019s where people make progress together, from new habits to new personal bests. No matter your sport or how you track it, Strava\u2019s got you covered. Find your crew, crush your goals, and make every effort count. Start your journey https://www.strava.com/subscription with Strava today.\n\nOur mission is simple: to motivate people to live their best active lives. We believe in the power of movement to connect and drive people forward.\n\nAs an Engineering Intern at Strava, you will be embedded in a team working on real projects that ship to our athletes and within the company, treated like a full-time member of the engineering team. You'll collaborate with cross functional teams that help us support and deliver to our athletes faster, while keeping them inspired and motivated.\n\nWe\u2019ll give you experienced mentors and all the tools you need to make a meaningful impact on our product. To see examples of what past interns have contributed, read our Engineering Blog https://medium.com/strava-engineering! \n\n\n\nAvailable Internship:\n\n - Strava is looking for a Machine Learning Engineering Intern to join the Data Products team for Summer 2027.\n\n - The overall AI and Machine Learning team at Strava is responsible for sophisticated machine learning models and systems that power key Strava experiences, providing value to our athletes through personalization, recommendation, search, and trust and safety. This team also maintains the ML platform and infrastructure that lets us iterate on models quickly and deploy them reliably at scale.\n\n - This internship will specifically support the Data Products team, which sits at the core of Strava\u2019s AI strategy, turning Strava\u2019s unique community and activity data into reliable, reusable, enriched datasets that power experiences across the app. The team operates at the intersection of data engineering, ML platform engineering, and server engineering, building the pipelines and platform layer that let our proprietary embeddings, algorithms, and models reach athletes at scale. \n\n\n\nWe follow a flexible hybrid model that requires you in our SF office four days per week.\n\n\n\nWhat You\u2019ll Do: \n\n - Contribute to a focused project: Work with your mentor to pick and deliver a scoped piece of the Data Products team\u2019s work. Depending on the team\u2019s needs and your interests, this could be building a model that supports one of the team\u2019s data products, designing an evaluation to measure how well our embeddings and models perform, or investigating a promising new dataset.\n\n - Experiment and analyze: Use Python, PyTorch, and SQL to explore Strava\u2019s fitness and Geo data, run experiments, compare results against baselines, and document what you learn so the team can build on it.\n\n - Learn from the team: Work alongside machine learning engineers, data engineers, data scientists, and product managers, and pick up the practices that keep ML and data work reliable, like code review, reproducible experiments, and evaluation.\n\n - Share what you learned: Present your results to the team at the end of the summer. \n\n\n\nWe\u2019re excited about you because:\n\n - You have worked on machine learning problems through coursework, research, internships, or personal projects, and can break a problem down into incremental steps.\n\n - You write clear Python and have used tools like scikit-learn, Pandas, NumPy, and PyTorch or TensorFlow.\n\n - You are comfortable with SQL and exploratory data analysis.\n\n - You understand core ML concepts such as supervised learning, train/validation splits, evaluation metrics, and overfitting.\n\n - You communicate clearly, ask good questions, and enjoy collaborating with people of all experience levels.\n\n - You are curious about deep learning, and about how fitness and Geo data can improve the athlete experience. \n\n - You are currently pursuing a Bachelor\u2019s degree in Computer Scienc",
-   "score": 65,
-   "why": [
-    "role: ai/ml",
-    "internship / fellowship",
-    "skills: python, sql, machine learning, scikit-learn, pandas"
-   ],
-   "first_seen": "2026-11-25"
-  },
-  {
-   "id": "greenhouse:8081556",
-   "company": "FanDuel",
-   "group": "betting & fantasy",
-   "source": "greenhouse",
-   "title": "Data Engineer",
-   "location": "Atlanta, Georgia, United States",
-   "url": "https://www.fanduel.careers/open-positions?gh_jid=8081556",
-   "posted": "2026-10-23",
-   "description": "THE POSITION Our roster has an opening with your name on it We are looking for a&nbsp; Data Engineer &nbsp;to join our growing data engineering team and help build the pipelines and infrastructure that power analytics, machine learning, and business decision-making across the company. In this role, you\u2019ll own the design, development, and maintenance of reliable data systems while collaborating with stakeholders to support high-impact data use cases. The ideal candidate is a strong technical contributor who enjoys working with data at scale, solving practical problems, independently executing on projects, and continuously learning in a fast-paced environment. If you\u2019re excited by this challenge and want to work within a dynamic company, then we\u2019d love to hear from you. In addition to the specific responsibilities outlined above, employees may be required to perform other such duties as assigned by the Company. This ensures operational flexibility and allows the Company to meet evolving business needs. &nbsp; THE GAME PLAN Everyone on our team has a part to play Build &amp; Maintain Data Pipelines Design, build, and maintain scalable batch and streaming data pipelines to support analytics and business operations. Write clean, efficient, and well-documented code using tools like Python, SQL, and Spark. Ensure data is reliable, accurate, and delivered in a timely manner. Lead projects to build or improve well-scoped data products. Collaborate Across Teams Work with data analysts, data scientists, and product managers to understand and clarify ambiguous requirements to deliver actionable data solutions. Translate business questions into engineering tasks and contribute to technical planning. Participate in code reviews, sprint planning, and retrospectives as part of an agile team. Contribute to team wide best practices. Data Quality &amp; Operations Monitor data pipelines and troubleshoot issues in a timely, systematic manner. Driving reliability and continuous improvement of data platforms and pipelines. Implement data quality checks and contribute to observability and testing practices. Document data sources, transformations, and architecture decisions to support long-term maintainability. &nbsp; THE STATS What we're looking for in our next teammate 3+ years of experience in data engineering, analytics engineering, or software engineering with a focus on data. Strong SQL skills and familiarity with at least one programming language (e.g., Python, Java, or Scala). Hands-on experience with modern data tools such as Databricks, Airflow, dbt, Spark, or Kafka. Understanding of data modeling concepts, data warehousing, and ETL/ELT best practices. Experience working with cloud-based data platforms (AWS, GCP, or Azure). &nbsp; Preferred Qualifications Experience supporting BI, analytics, or data science teams. Familiarity with version control, CI/CD, and collaborative development workflows. Exposure to data governance, privacy, or compliance practices. Eagerness to learn new technologies and contribute to the growth of the team. &nbsp; ABOUT FANDUEL FanDuel Group is the premier mobile gaming company in the United States and Canada. FanDuel Group consists of a portfolio of leading brands across mobile wagering including: America\u2019s #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry\u2019s unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product. &nbsp; In addition, FanDuel Group operates FanDuel TV, its broadly distributed linear cable television network and FanDuel TV+, its leading direct-to-consumer OTT platform. FanDuel Group has a presence across all 50 states, Canada, and Puerto Rico. The company is based in New York with US offices in Los Angeles, Atlanta, and Jersey City, as well as global offices in Canada and Scotland. The company\u2019s affiliates have offices worldwide, including in Ireland, Portugal, Romania, and Australia. FanDuel Gr",
-   "score": 63,
-   "why": [
-    "role: data engineer",
-    "location: atlanta, georgia, united states",
-    "skills: python, sql, machine learning, modeling, gcp"
-   ],
-   "first_seen": "2026-11-25"
-  },
-  {
-   "id": "workday:dickssportinggoods/job/Customer-Support-Center/Sustainability-Data-Analyst_202640425",
-   "company": "DICK'S Sporting Goods",
-   "group": "brand",
-   "source": "workday",
-   "title": "Sustainability Data Analyst",
-   "location": "Customer Support Center",
-   "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Sustainability-Data-Analyst_202640425",
-   "posted": "2026-10-26",
-   "description": "",
-   "score": 60,
-   "why": [
-    "role: data analyst",
-    "level: analyst"
-   ],
-   "first_seen": "2026-11-25"
-  },
-  {
-   "id": "greenhouse:4457595009",
-   "company": "Fanatics",
-   "group": "brand",
-   "source": "greenhouse",
-   "title": "Applied AI Engineer",
-   "location": "New York, NY, United States",
-   "url": "https://job-boards.greenhouse.io/fanaticsinc/jobs/4457595009",
-   "posted": "2026-11-09",
-   "description": "About Us Fanatics is a leading global sports platform redefining how fans connect with the teams, players and moments they love. Our businesses \u2014 Fanatics Commerce, Fanatics Collectibles, Fanatics Betting &amp; Gaming, Fanatics Events, Fanatics Advertising, Fanatics Markets and Fanatics Studios \u2014 maximize the presence and reach for hundreds of partners globally and create a one-stop experience that allows fans to buy, bet, collect, and earn, while engaging with sports in deeper, more immersive ways. This includes licensed fan gear and lifestyle products, sportsbook and iGaming, physical and digital trading cards, live events, premium sports entertainment content, credit card offerings and more. Together, they form a powerful, integrated ecosystem \u2014 connected by the Fanatics ONE loyalty program and FanCash, the currency of sport \u2014 delivering personalized experiences to over 100 million fans worldwide. Fanatics holds partnerships with over 900 sports properties, from professional leagues and players\u2019 associations to teams, colleges and retail partners; over 7,000 athletes and celebrities; and over 2,000 retail locations, including all Lids stores. Backed by a team of more than 22,000 employees, Fanatics is committed to relentlessly enhancing the fan experience. &nbsp; The Role Are you a builder who has already shipped AI that changed how a business runs? Fanatics wants you. We're hiring full-time Applied AI Engineers to join a small, senior team that sits at the center of how Fanatics transforms itself with AI. Our goal is simple and ambitious: make Fanatics a faster, more automated company. Each Applied AI Engineer works like a tiger team: embed with a business function, find its biggest bottlenecks, replace slow, manual work with AI agents and workflows that actually run in production, then move on to the next challenge. This is a doer's role, not an advisory one. You'll own problems end to end: define them, design the solution, build it, prove it works, and drive adoption. You'll have real autonomy, executive visibility, and a direct line to leadership, with joint reporting to the CFO and Corporate AI Transformation Lead. We're looking for someone with prior experience doing applied AI work at a startup or fast-growing company, who is used to moving quickly with limited resources and is ready to bring that pace to a global brand. What You'll Do \u2022&nbsp;Embed within corporate functions across the business, find the workflows where AI can remove the most manual effort or unlock the most growth, fix them, then rotate to the next function. \u2022&nbsp;Design, build, and deploy production-grade agents and agentic workflows using frontier models (Claude, GPT, Gemini) and the modern agent stack: MCP servers, agent SDKs, orchestration tools, browser and computer use, and evals. \u2022&nbsp;Move fast: take a high-impact use case from concept to working solution in weeks, not quarters, and prove it with measurable results. \u2022&nbsp;Think in systems and bias toward solving the problem, not toward building for its own sake. Sometimes the right answer is a custom agent; sometimes it's configuring an existing tool. \u2022&nbsp;Partner with business leaders to be accountable for outcomes, and help them rethink how their teams operate in an AI-first way. \u2022&nbsp;Call balls and strikes: pressure-test whether a problem is worth automating, what \"good\" looks like, and how to measure ROI. \u2022&nbsp;Help set the bar for AI across the company, including tool evaluation, security and InfoSec coordination, governance, and best practices. \u2022&nbsp;Spread the practice: document and showcase wins, coach colleagues, and help build a company culture that automates by default. What We're Looking For \u2022&nbsp;3+ years of experience in applied AI or software engineering, including time at a startup or fast-growing company where you shipped AI-powered products or automations to real users. \u2022&nbsp;A track record of building and deploying custom agents or agentic workflows with frontie",
-   "score": 57,
-   "why": [
-    "role: ai engineer",
-    "location: new york, ny, united states",
-    "skills: python, llm"
-   ],
-   "first_seen": "2026-11-25"
-  },
-  {
-   "id": "greenhouse:6253711004",
+   "id": "greenhouse:6241245004",
    "company": "Alo",
    "group": "brand",
    "source": "greenhouse",
-   "title": "Security Operations Analyst",
-   "location": "San Ramon Office, San Ramon, CA (LO-SF)",
-   "url": "https://boards.greenhouse.io/aloyoga/jobs/6253711004?gh_jid=6253711004",
+   "title": "Buying & Merchandising AI Analyst",
+   "location": "Beverly Hills, California, United States",
+   "url": "https://boards.greenhouse.io/aloyoga/jobs/6241245004?gh_jid=6241245004",
    "posted": "2026-11-20",
-   "description": "WHY JOIN ALO? Mindful movement. It\u2019s at the core of why we do what we do at ALO\u2014it\u2019s our calling. Because mindful movement in the studio leads to better living. It changes who yogis are off the mat, making their lives and their communities better. That\u2019s the real meaning of studio-to-street: taking the consciousness from practice on the mat and putting it into practice in life. ROLE OVERVIEW &nbsp; The Security Operations Analyst I supports ALO\u2019s Security Operations function by monitoring, analyzing, and responding to security events across our corporate and cloud environments. This role is ideal for someone early in their cybersecurity career who is eager to learn, detail-oriented, and motivated to help protect systems, data, and people in a fast-growing, mission-driven organization. &nbsp; You will work closely with senior security team members, IT, and engineering partners to identify threats, investigate incidents, and continuously improve ALO\u2019s security posture. &nbsp; KEY RESPONSIBILITIES &nbsp; Monitor security alerts and events from SIEM, EDR, and other security tooling &nbsp; Triage and analyze potential security incidents, escalating as appropriate &nbsp; Assist with incident response activities, including investigation, documentation, and post-incident reviews &nbsp; Perform routine security tasks such as log review, alert tuning, and access reviews &nbsp; Support vulnerability management efforts, including scanning, validation, and remediation tracking &nbsp; Help maintain and improve security playbooks, runbooks, and documentation &nbsp; Collaborate with IT and engineering teams on security-related issues and projects &nbsp; Participate in security awareness initiatives and basic risk assessments &nbsp; Stay current on emerging threats, vulnerabilities, and security best practices &nbsp; &nbsp; REQUIRED QUALIFICATIONS &nbsp; Bachelor\u2019s degree in Information Security, Computer Science, Information Technology, or a related field (or equivalent practical experience) &nbsp; 0\u20132 years of experience in cybersecurity, IT operations, or a related technical role &nbsp; Basic understanding of cybersecurity concepts such as: &nbsp; Networking fundamentals (TCP/IP, DNS, HTTP/S) &nbsp; Common attack types (phishing, malware, credential abuse) &nbsp; Security monitoring and incident response principles &nbsp; Familiarity with at least one of the following: &nbsp; SIEM platforms &nbsp; Endpoint security tools (EDR/XDR) &nbsp; Cloud platforms (AWS, GCP, or Azure) &nbsp; Strong analytical and problem-solving skills &nbsp; Clear written and verbal communication skills &nbsp; Ability to handle sensitive information with discretion and professionalism &nbsp; &nbsp; PREFERRED QUALIFICATIONS &nbsp; Internship or hands-on experience in a Security Operations Center (SOC) &nbsp; Exposure to scripting or automation (e.g., Python, Bash) &nbsp; Familiarity with ticketing systems and incident tracking workflows &nbsp; Entry-level security certifications (e.g., Security+, CCNA, or equivalent) &nbsp; Experience working in a retail, e-commerce, or cloud-first environment &nbsp; &nbsp; The base salary range for this position is $80,000-$90,000 per year which represents the current range for the base salary for this exempt position. Please note that actual salaries will vary based on factors including but not limited to location, experience, and performance. As such, on occasion and when applicable, there is the possibility that the final, agreed-upon base salary may be outside of the upper end of the range. Please also note the range listed is just one component of the company\u2019s total rewards package for exempt employees. Other rewards may include performance bonuses, long term incentives, a PTO policy, and many other progressive benefits. For CA residents, Job Applicant Privacy Policy&nbsp; HERE . &nbsp;",
-   "score": 54,
+   "description": "WHY JOIN ALO? Mindful movement. It\u2019s at the core of why we do what we do at ALO\u2014it\u2019s our calling. Because mindful movement in the studio leads to better living. It changes who yogis are off the mat, making their lives and their communities better. That\u2019s the real meaning of studio-to-street: taking the consciousness from practice on the mat and putting it into practice in life. Overview: As the Buying &amp; Merchandising AI Analyst, you will use AI analytics and automation to improve reporting and forecasting, support pricing analysis, and strengthen business execution. Working within a design-led company, you will translate data into actionable insights that support the product vision first and drive commercial performance. &nbsp; Reporting into the Buying organization, you will support both Buying and Merchandising by bringing AI and automation into everyday workflows. You will work closely with users to understand their needs, identify manual and Excel-based processes that can be improved, and develop practical AI-powered tools and scalable solutions with guidance. You will also own recurring deliverables and support cross-functional initiatives, including international pricing, to improve efficiency, strengthen insights, and enable better decision-making. &nbsp; &nbsp; At Alo, our in-office collaboration and culture is one of our greatest assets. We believe in being together to build strong team partnerships and cross-functional relationships. This position requires being full time in office . &nbsp; Responsibilities: &nbsp; Automate recurring reporting and analysis with AI to reduce manual work and improve accuracy and timeliness. &nbsp; Develop AI-enabled dashboards, tools, and workflows under guidance to deliver actionable insights. &nbsp; Validate AI outputs against trusted data and business context, investigating discrepancies and applying human review. &nbsp; Test and document approved AI tools, measuring productivity and quality while protecting company data. &nbsp; Support international pricing analysis across market trends, competitive positioning, and margins. &nbsp; Enhance pricing tools under guidance to improve reliability, usability, and opportunity assessment. &nbsp; Analyze product and business performance for seasonal reviews, leadership discussions, and key initiatives. &nbsp; Connect business and technical teams to clarify needs, resolve issues, and support timely delivery. &nbsp; Qualifications: 2+ years in analytics, pricing, buying, merchandising, or planning; retail or e-commerce experience preferred &nbsp; Practical AI experience and sound judgment about capabilities, limitations, and responsible use &nbsp; Advanced Excel, working knowledge of SQL, and experience with Tableau, Power BI, or comparable tools &nbsp; Familiarity with Python, workflow automation, or application development preferred &nbsp; Strong business acumen and analytical skills, with an interest in pricing and retail performance &nbsp; Highly detail-oriented, with strong data validation and problem-solving skills &nbsp; Excellent communication, organizational, and interpersonal skills across business and technical teams &nbsp; Entrepreneurial spirit, ownership mindset, and ability to prioritize in a fast-paced environment &nbsp; The base salary range for this position is $115,000-$120,000 per year which represents the current range for the base salary for this exempt position. Please note that actual salaries will vary based on factors including but not limited to location, experience, and performance. As such, on occasion and when applicable, there is the possibility that the final, agreed-upon base salary may be outside of the upper end of the range. Please also note the range listed is just one component of the company\u2019s total rewards package for exempt employees. Other rewards may include performance bonuses, long term incentives, a PTO policy, and many other progressive benefits. For CA residents, Job Applicant Privacy Policy&",
+   "score": 82,
    "why": [
-    "role: operations analyst",
-    "level: analyst",
-    "skills: python, gcp"
+    "analytics: analyst",
+    "entry level",
+    "pay up to $120,000"
    ],
    "first_seen": "2026-11-25"
   },
   {
-   "id": "ashby:168b7639-7759-4880-a94f-7de72607f538",
-   "company": "Sleeper",
+   "id": "greenhouse:7981471003",
+   "company": "PrizePicks",
    "group": "betting & fantasy",
-   "source": "ashby",
-   "title": "UX Researcher I",
-   "location": "San Francisco",
-   "url": "https://jobs.ashbyhq.com/sleeper/168b7639-7759-4880-a94f-7de72607f538",
-   "posted": "2026-10-12",
-   "description": "About the company\n\nSleeper is building the leading platform to connect friends over sports. Our mission is to create a digital playground for sports fans and their friends to hang out \u2013 on Sleeper, you can check scores, play games, chat, send memes, and more!\n\nOur sports platform is used by over 10 million people internationally, and we\u2019re constantly adding new games, social features, and functionality to our ecosystem\n\n\n\nJob Location: Hybrid in New York City or San Francisco Bay Area\n\nSleeper does not work with external recruiting agencies for this role. If you have applied to this role, we may reach out via a \"sleeper.app http://sleeper.app\" or \"sleeper.com http://sleeper.com\" email only; please ignore outreach from other emails.\n\n\n\nAbout the Design and Research Team\n\n - We are willing to pick up any sport or try out new computer games together, for the purpose of \u201cresearch\u201d\n\n - We work hard and play hard \u2013 we set aside time for team-building and game-times\n\n - We can see design everywhere and every day \u2013 we've had multiple team trips across the US to run internal design trend workshops\n\n\n\nWe\u2019re scouting for team players who\u2026\n\n - Has at least 1+ years of UX Research experience, or if you\u2019ve completed the 12-week research internship at Sleeper\n\n - Has successfully deployed quantitative and qualitative research methodologies\n\n - Has a fundamental knowledge of statistics and experimentation\n\n - Is self-driven but also has strong collaboration skills and can work cross-functionally in a fast-paced environment\n\n\n\nExtra points if you\u2026\n\n - Have a degree in one of the following majors or related fields: HCI, information sciences, statistics, data analytics, human-centered design\n\n - Have experience with quantitative analytics tools or dashboards\n\n - Have experience with research tools for remote testing and/ or surveys\n\n\n\nBenefits & Perks\n\n - 401k and health insurance\n\n - Paid-time-off\n\n - Regular virtual game-time with the team with company-sponsored snacks\n\n - Company-sponsored fantasy leagues with real prizes\n\n - Bi-annual team outing\n   \n   \n\nSleeper believes in quality over quantity, and intentionally keeps our team small as a result. In past roles, our team members found it very hard to make a big impact when companies grow too large in size, which has a detrimental effect on the product and the impact any single individual can have. Our team includes designers, engineers, product experts, and finance & operation focused on one thing \u2014 connecting people over sports. We believe in fair and equitable pay. Certain locations in the United States require job postings to include a reasonable estimate of the base salary range and/or a general description of benefits and other compensation applicable to the role.\n\nFor this role in those locations, a reasonable estimate of the base compensation range for new hires is $75,000 to $95,000\n\nPlease note that The compensation range for this role takes into account a wide range of factors that are considered in making compensation decisions including, but not limited to, skill sets; experience and training; licensure and certifications; and other business and organizational needs. The policy of Sleeper is to provide equal employment opportunities to all applicants and employees without regard to race, color, creed, religion, sex, sexual orientation, gender identity, marital status, citizenship status, age, national origin, ancestry, disability, veteran status, or any other legally protected status and to affirmatively seek to advance the principles of equal employment opportunity. Sleeper is committed to being an Equal Opportunity Employer and offers opportunities to all job seekers, including job seekers with disabilities. If you are a qualified individual with a disability or a disabled veteran, you may request a reasonable accommodation if you are unable or limited in your ability to use or access the Company\u2019s career webpage as a result of your disability. You may request reasonable accom",
-   "score": 52,
-   "why": [
-    "role: ux researcher",
-    "location: san francisco",
-    "skills: statistics, experimentation, dashboards"
-   ],
-   "first_seen": "2026-11-25"
-  },
-  {
-   "id": "greenhouse:8189302",
-   "company": "Hudl",
-   "group": "sports tech",
    "source": "greenhouse",
-   "title": "FinOps Analyst",
-   "location": "Lincoln, NE, United States; Omaha, NE, United States",
-   "url": "https://job-boards.greenhouse.io/hudl/jobs/8189302",
-   "posted": "2026-11-18",
-   "description": "At Hudl, we build great teams. We hire the best of the best to ensure you\u2019re working with people you can constantly learn from. You\u2019re trusted to get your work done your way while testing the limits of what\u2019s possible and what\u2019s next. We work hard to provide a culture where everyone feels supported, and our employees feel it\u2014their votes helped us become one of the Top 100 Inspiring Workplaces . We think of ourselves as the team behind the team, supporting the lifelong impact sports can have: the lessons in teamwork and dedication; the influence of inspiring coaches; and the opportunities to reach new heights. That\u2019s why we help teams from all over the world see their game differently. Our products make it easier for coaches and athletes at any level to capture video, analyze data, share highlights and more. Ready to join us? &nbsp; Your Role Cloud and software are among the largest investments we make, and for every dollar there is one that could also be going toward the product itself or the team building it. Our FinOps practice exists to make sure that spend is understood, accountable, and every dollar is working as efficiently as it can. On our team, you'll help own that picture. You'll allocate spend back to the services and teams driving it, forecast where it's headed, and consult teams on best practices to propose changes that maximize efficiency. You'll be a trusted partner to product and leadership on the real cost of what we build and what's on the roadmap, helping put those dollars to better use. We're hiring across experience levels, and your scope will grow with yours: you'll build, maintain, and improve our models and automation, and lead larger initiatives as you gain experience. As a FinOps Analyst, you\u2019ll: Forecast and get ahead of cost. You'll build and maintain the models that track, allocate, and predict where our cloud and software spend is going, monitor AWS and the rest of our stack for anomalies, and action them the moment they surface. When something breaks, you won't just put out the fire, you'll help build the guardrails that keep it from starting again.&nbsp; Turn spend into decisions leadership can act on. You'll maintain and improve the chargeback model that ties every dollar back to the service, squad, or contract that incurred it, and partner with Accounting and FP&amp;A to keep the numbers aligned. When leaders have a question about cost, you're a trusted resource they come to. Automate anything worth doing twice. You'll use Python and SQL to take manual work off the team's plate, and work with GitHub Actions, Lambda, and DBT against our data warehouse. You'll also help manage AWS reservations and Savings Plans, and we'll teach you any tools that are new to you. If a task repeats, it's a candidate for automation, and you're the one who builds it. Find the work, then drive it home. You'll spot cost and efficiency opportunities, shape them into a pitch with support from teammates and stakeholders, and once approved, help carry them across engineering, product, finance, and accounting to completion. You're the connective tissue that keeps it all moving. Location Time spent collaborating with other Hudlies in-office will be a regular part of how you work. We\u2019re currently prioritizing applicants&nbsp; within commuting distance of Lincoln or Omaha, Nebraska. You\u2019ll be expected to work more days in-office than remote, but will have the freedom to coordinate your specific in-office schedule with your team.&nbsp; Must-Haves See the story in the numbers. You bring 2-5+ years of experience across data analysis, budgeting, and forecasting, or adjacent work such as revenue operations or business analytics, and you're just as comfortable digging into a trend as you are building a budget or projecting what comes next (Cloud FinOps context is a plus). Comfortable with automation and scripting. You have 2-5+ years on the books using code to eliminate manual work, with working comfort in SQL. Python is strongly p",
-   "score": 51,
+   "title": "Game Operations - Trading Analyst",
+   "location": "Atlanta, GA preferred, Remote",
+   "url": "http://prizepicks.com/position?gh_jid=7981471003",
+   "posted": "2026-10-29",
+   "description": "At PrizePicks, we are the fastest-growing sports company in North America, as recognized by Inc. 5000. As the leading platform for Daily Fantasy Sports, we cover a diverse range of sports leagues, including the NFL, NBA, and Esports titles like League of Legends and Counter-Strike. Our team of over 550 employees thrives in an inclusive culture that values individuals from diverse backgrounds, regardless of their level of sports fandom. Ready to reimagine the DFS industry together?&nbsp; PrizePicks is looking for a detail oriented, statistically-minded individual who excels in a fast-paced environment to monitor and trade precise sports projections on a day-to-day basis. What you\u2019ll do: Maintain accurate pre-game and in-game player projections for all markets. This includes, but isn\u2019t limited to: NFL, NBA, MLB, NHL, CBB, and CFB. Monitor player projections throughout the day and track any key information needed for projections Manage risk and monitor projections accordingly utilizing modeling and quantitative analysis Understand PrizePicks members' play patterns and adjust internal processes accordingly Work with sport owners to implement strategies, best practices, and processes around key markets Help set up standard operating procedures around PrizePicks game operations tasks What you have: Ability to analyze several streams of information concurrently and make thoughtful decisions in a highly time-sensitive environment Strong attention to detail, verbal, and written communication skills Excellent time management, reliability, and ability to meet highly important deadlines Ability to apply strong understanding of DFS and sports gaming industries Thorough understanding of college/major sports league players, teams, players, matchups and understanding of how said information impacts projections Comfort applying Standard Operating Procedures to all sports, regardless of specialized knowledge or experience Openness to different trading philosophies and willingness to adapt to what best achieves company objectives Availability to work on nights &amp; weekends (coinciding with sports schedule) Strong Mathematical and Analytical skills What makes you stand out: A bachelor's degree in a related field (statistics, computer science, engineering, analytics, finance, accounting) preferred but not required One to three years of experience working in or playing Daily Fantasy Sports or Sports Gaming preferred but not required Where you\u2019ll live: While we prefer candidates based in Atlanta, we are open to qualified applicants from anywhere in the U.S. and are willing to consider remote candidates. #LI-Remote Working at PrizePicks: The typical salary range for this position is $60,000 to $70,000. At PrizePicks, we consider your role, level, and where you'll be working when determining our salary ranges. The compensation info you see on our job postings gives you an idea of the starting pay range for the position. Your actual pay within that range will depend on your specific work location, as well as your skills, experience, and education. Your&nbsp; recruiter will be happy to chat more about the specific pay range for your location and how we arrived at it during the hiring process.&nbsp; This application period will remain open for 30 days. We\u2019re committed to finding the best candidate, so this date may be adjusted, and any changes will be reflected in this posting.&nbsp; &nbsp; Date Posted: 8/31/26 Reposted: 9/30/26 &nbsp; &nbsp; Benefits you\u2019ll receive: In addition to your great compensation package, full-time employees will be eligible for the following perks:&nbsp; Company-subsidized medical, dental, &amp; vision plans&nbsp; 401(k) plan with company match Annual bonus Flexible PTO to encourage a healthy work/life balance (2 weeks STRONGLY encouraged!) Generous paid leave programs, including 16-week paid parental leave and disability benefits Workplace flexibility and modern work schedules focused on getting the job done, not hours clock",
+   "score": 79,
    "why": [
-    "analyst role with data skills",
-    "level: analyst",
-    "location: lincoln, ne, united states; omaha, ne, united states",
-    "skills: python, sql, forecast",
-    "asks for heavy experience"
+    "analytics: analyst",
+    "entry level",
+    "city: atlanta, ga preferred, remote",
+    "pay up to $70,000"
    ],
    "first_seen": "2026-11-25"
   },
   {
-   "id": "workday:dickssportinggoods/job/Customer-Support-Center/Privacy-Product-Analyst_202635131",
-   "company": "DICK'S Sporting Goods",
-   "group": "brand",
-   "source": "workday",
-   "title": "Privacy Product Analyst",
-   "location": "2 Locations",
-   "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Privacy-Product-Analyst_202635131",
-   "posted": "2026-10-26",
+   "id": "smartrecruiters:744000155831829",
+   "company": "Red Bull (incl. Red Bull New York)",
+   "group": "team",
+   "source": "smartrecruiters",
+   "title": "Financial Analyst",
+   "location": "Santa Monica, CA, us",
+   "url": "https://jobs.smartrecruiters.com/RedBull/744000155831829",
+   "posted": "2026-10-15",
    "description": "",
-   "score": 45,
+   "score": 78,
    "why": [
-    "role: product analyst",
-    "level: analyst"
+    "advisory/business: financial analyst",
+    "entry level",
+    "city: santa monica, ca, us"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "lever:7cafc474-cda7-49af-acfd-40dd2b804d14",
+   "company": "Boston Red Sox",
+   "group": "team",
+   "source": "lever",
+   "title": "Minor League Complex Hitting Analyst and Rehab Coach",
+   "location": "Fort Myers, FL, United States",
+   "url": "https://jobs.lever.co/redsox/7cafc474-cda7-49af-acfd-40dd2b804d14",
+   "posted": "2026-10-30",
+   "description": "DEPARTMENT OVERVIEW:\u00a0 \u00a0\nThe Player Development department is dedicated to fostering the comprehensive growth of our minor league players. Our mission is to excel in optimizing talent and skill development while aligning with player and team objectives. Our approach involves the creation of world class player programs and efficiently scaling them across our player pool. Collaborating closely with baseball analytics, performance, and medical, we establish effective frameworks for experimentation and learning. Additionally, we work closely with Amateur Scouting, International Scouting, and Pro Scouting to ensure seamless player transitions into the Red Sox organization.\u00a0\u00a0\n\u00a0\nPOSITION OVERVIEW:\nThe Complex Hitting Analyst & Rehab Coach will work closely with the Hitting Coordinator, Complex Hitting Coaches, and necessary auxiliary staff to support the daily needs of the hitting department. The role will be primarily responsible for building reports and tools using Snowflake and other available data sources, while also assisting with the daily execution of rehab hitting activities at the complex.\u00a0\n\u00a0\nAs the Red Sox continue to build a team capable of being THE standard in player AND Staff development, we are looking for candidates who are organized, humble, proactive, and capable of communicating effectively across departments and levels of the organization.\n\u00a0\nThe position is based out of the Player Development Complex in Fort Myers, FL. This position is seasonal, with full-time consideration for candidates with relevant experience.\u00a0\n Build and maintain reports, dashboards, and tools for the hitting department. Query and organize data from Snowflake to complete recurring and ad hoc requests. Work with Systems, Sports Science, and other departments to support hitting-related data needs. Identify opportunities to improve reporting, workflows, and access to information. Assist Complex Hitting Coaches with rehab hitters, including flipping, feeding machines, and throwing batting practice. Communicate relevant observations from rehab hitting activities to medical staff. Support additional projects and initiatives as assigned by the Hitting Coordinator. Strong communication skills with the ability to work effectively across departments and levels of the organization. Experience working with Snowflake and SQL; experience with Tableau, R, Python, Excel, or similar tools is preferred. Prior experience operating in a hitting environment, including flipping, feeding machines, and throwing batting practice. Strong organizational skills and attention to detail. Humble, collaborative, and service-oriented. Demonstrates initiative, curiosity, and a willingness to identify and develop new solutions. Open-minded and eager to learn the organization\u2019s hitting development processes and philosophies. In addition to the above requirements, all roles within Baseball Operations are expected to effectively demonstrate our universal competencies related to problem solving, teamwork, clarity of communication, and time management, along with embodying our culture of honesty, humility, relentlessness, and commitment to DEIB.",
+   "score": 70,
+   "why": [
+    "analytics: analyst",
+    "entry level"
    ],
    "first_seen": "2026-11-25"
   },
@@ -485,10 +237,423 @@
    "url": "https://jobs.smartrecruiters.com/RedBull/744000162604510",
    "posted": "2026-11-19",
    "description": "",
-   "score": 45,
+   "score": 68,
    "why": [
-    "role: insights",
-    "level: analyst"
+    "analytics: insights",
+    "entry level",
+    "city: santa monica, ca, us"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "smartrecruiters:744000163139439",
+   "company": "Red Bull (incl. Red Bull New York)",
+   "group": "team",
+   "source": "smartrecruiters",
+   "title": "2027 Internship, Spring - RBII Team Analysis",
+   "location": "Morristown, NJ, us",
+   "url": "https://jobs.smartrecruiters.com/RedBull/744000163139439",
+   "posted": "2026-11-23",
+   "description": "",
+   "score": 67,
+   "why": [
+    "analytics: team analysis",
+    "internship / fellowship",
+    "Northeast"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "smartrecruiters:744000163139079",
+   "company": "Red Bull (incl. Red Bull New York)",
+   "group": "team",
+   "source": "smartrecruiters",
+   "title": "2027 Internship, Spring - Academy Scout",
+   "location": "Morristown, NJ, us",
+   "url": "https://jobs.smartrecruiters.com/RedBull/744000163139079",
+   "posted": "2026-11-23",
+   "description": "",
+   "score": 67,
+   "why": [
+    "analytics: academy scout",
+    "internship / fellowship",
+    "Northeast"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "greenhouse:8368191",
+   "company": "FanDuel",
+   "group": "betting & fantasy",
+   "source": "greenhouse",
+   "title": "Analytics Engineer",
+   "location": "New York City",
+   "url": "https://www.fanduel.careers/open-positions?gh_jid=8368191",
+   "posted": "2026-11-24",
+   "description": "THE POSITION Our roster has an opening with your name on it FanDuel is looking for an Analytics Engineer who will be responsible for designing, building, maintaining, and improving the data models, datasets and data visualizations which are and will be used by data scientists, analysts and stakeholders to power business performance impacting decisions in Generosity/Promotional Spend. This is a great opportunity for somebody who wants to work in an environment where curiosity is rewarded and people are empowered to make decisions. The ideal candidate will have a passion for continual learning and developing innovative solutions to business problems. In addition to the specific responsibilities outlined above, employees may be required to perform other such duties as assigned by the Company. This ensures operational flexibility and allows the Company to meet evolving business needs. THE GAME PLAN &nbsp; Everyone on our team has a part to play Work with Data Scientists and Data Engineers to optimize data pipelines and feature engineering for reporting, analysis, classification and prediction models Manage data transformation jobs for relevant data, ensure completion on schedule, optimize code, troubleshoot any issues Optimize modeled metric pipelines, streamline execution times and prioritizations, reduce query execution times where possible, remove unnecessary or unused metrics Leverage AI to accelerate and enhance your work, taking care to ensure high integrity, managing AI risk of error, and maintaining excellent understanding of AI output to avoid blind trust. Build a strong understanding of Sportsbook Generosity Distribution strategy, our customers behaviors and preferences, and your stakeholders objectives, to support collaboration, and focus on delivering impactful output and ideation Through idea generation and exploratory analysis, develop new and innovative ways to turn behaviors into features for use in analysis, segmentation and predictive modeling Maintain business rule definitions, and code implementations Design and implement data quality checks and alerts to manage accuracy of underlying data, and ensure modeled metrics are fit for purpose Build strong knowledge in how to optimally use our data platforms, and assist in educating team members in optimal platform usage; Build and maintain strong working relationships with key stakeholders in relevant teams within the Data Engineering and Data Product departments; Build and maintain dashboards, optimize code, troubleshoot issues Identifying potential improvements in underlying ingested data, or new data needs, and working with Data Engineering to prioritize and deliver &nbsp; THE STATS What we\u2019re looking for in our next teammate Minimum 3 years of experience in a similar role Minimum 2 years building, maintaining and optimizing complex data pipelines with real world applications Advanced SQL coding and experience of manipulating large datasets Proficient in at least one programming language (e.g. Python, R, C# etc.) Strong problem solving ability and attention to detail are important Experience building data pipelines using Python and Databricks an advantage Experience working with data visualization tools like Tableau an advantage Undergraduate degree in a coding heavy or technical discipline Interest in Sports an advantage &nbsp; ABOUT FANDUEL FanDuel Group is the premier mobile gaming company in the United States and Canada. FanDuel Group consists of a portfolio of leading brands across mobile wagering including: America\u2019s #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry\u2019s unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product. &nbsp; In addition, FanDuel Group operates FanDuel TV, its broadly distributed linear cable television network and FanDuel TV+, its leading direct-to-consumer OTT platform. FanDuel Group has a presence across all 50 states, Canada, a",
+   "score": 66,
+   "why": [
+    "analytics: analytics",
+    "city: new york city",
+    "Northeast",
+    "pay up to $145,000",
+    "engineering role (more technical than the goal)"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "greenhouse:8357302",
+   "company": "FanDuel",
+   "group": "betting & fantasy",
+   "source": "greenhouse",
+   "title": "Analytics Engineer",
+   "location": "New York City",
+   "url": "https://www.fanduel.careers/open-positions?gh_jid=8357302",
+   "posted": "2026-11-12",
+   "description": "THE POSITION Our roster has an opening with your name on it We are looking for an Analytics Engineer to join our Casino Analytics team to support the Product organization. You will support the Casino business driving scalable analytics products (data assets, dashboards, visualizations, tools/services) and analytic frameworks. You will work alongside a group of analysts to facilitate the team\u2019s success, evolving the various tools, models, and data visualizations used to drive the FanDuel Group business. This is a tremendous opportunity to collaborate cross-functionally as well as develop the analytics team\u2019s data infrastructure and visualization capabilities. &nbsp; THE GAME PLAN &nbsp; Everyone on our team has a part to play Create interactive Tableau dashboards, custom visualizations and reports to visualize customer behavior, drivers of business performance, and support strategic decision making Prioritize best practices in design, usability, and scalability to ensure sustainable and quality reporting Communicate technical findings/insights to non-technical stakeholders to drive strategic success Drive the team\u2019s analysis roadmap, ensuring we prioritize high-value projects with actionable insights Become a key business partner to the analytics team and stakeholders across the Casino business, supporting them in driving insights and key decision making Collaborate with data engineers and data scientists to ensure that data is accurately represented and enable richer analysis Stay up-to-date with the latest trends and technologies in data visualization, and evaluate new tools and techniques to improve our capabilities &nbsp; THE STATS What we\u2019re looking for in our next teammate 1-2+ years' experience in an analytics/technical role preferred Bachelor's Degree in a highly numerate major (Math, Stats, Econ, etc.) or relevant experience in data and/or business analysis preferred Strong personal organizational and time management skills Ability to work in a fast-paced environment with a lot of ambiguity Proficiency in SQL and Excel required; Experience with Tableau or other data visualization platforms preferred Familiarity with programming languages (e.g. Python, R), cloud computing platforms (e.g. Databricks), or ELT/data modeling (e.g. DBT) desirable Strong problem-solving skills, allied with track record of transforming data into actionable business insight Experience working in groups and leading smaller intra year projects Experience collaboratively working with colleagues in other countries and time zones preferred &nbsp;Strong stakeholder management Ability to be independent and lead on projects - proactive thinking Interest in Fantasy Sports/Gaming/Sports a plus ABOUT FANDUEL FanDuel Group is the premier mobile gaming company in the United States and Canada. FanDuel Group consists of a portfolio of leading brands across mobile wagering including: America\u2019s #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry\u2019s unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product. In addition, FanDuel Group operates FanDuel TV, its broadly distributed linear cable television network and FanDuel TV+, its leading direct-to-consumer OTT platform. FanDuel Group has a presence across all 50 states, Canada, and Puerto Rico. The company is based in New York with US offices in Los Angeles, Atlanta, and Jersey City, as well as global offices in Canada and Scotland. The company\u2019s affiliates have offices worldwide, including in Ireland, Portugal, Romania, and Australia. FanDuel Group is a subsidiary of Flutter Entertainment, the world's largest sports betting and gaming operator with a portfolio of globally recognized brands and traded on the New York Stock Exchange (NYSE: FLUT). PLAYER BENEFITS We treat our team right We offer amazing benefits above and beyond the basics. We have an array of health plans to choose from (some as low as $0 per pay",
+   "score": 66,
+   "why": [
+    "analytics: analytics",
+    "city: new york city",
+    "Northeast",
+    "pay up to $122,000",
+    "engineering role (more technical than the goal)"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "greenhouse:8189302",
+   "company": "Hudl",
+   "group": "sports tech",
+   "source": "greenhouse",
+   "title": "FinOps Analyst",
+   "location": "Lincoln, NE, United States; Omaha, NE, United States",
+   "url": "https://job-boards.greenhouse.io/hudl/jobs/8189302",
+   "posted": "2026-11-18",
+   "description": "At Hudl, we build great teams. We hire the best of the best to ensure you\u2019re working with people you can constantly learn from. You\u2019re trusted to get your work done your way while testing the limits of what\u2019s possible and what\u2019s next. We work hard to provide a culture where everyone feels supported, and our employees feel it\u2014their votes helped us become one of the Top 100 Inspiring Workplaces . We think of ourselves as the team behind the team, supporting the lifelong impact sports can have: the lessons in teamwork and dedication; the influence of inspiring coaches; and the opportunities to reach new heights. That\u2019s why we help teams from all over the world see their game differently. Our products make it easier for coaches and athletes at any level to capture video, analyze data, share highlights and more. Ready to join us? &nbsp; Your Role Cloud and software are among the largest investments we make, and for every dollar there is one that could also be going toward the product itself or the team building it. Our FinOps practice exists to make sure that spend is understood, accountable, and every dollar is working as efficiently as it can. On our team, you'll help own that picture. You'll allocate spend back to the services and teams driving it, forecast where it's headed, and consult teams on best practices to propose changes that maximize efficiency. You'll be a trusted partner to product and leadership on the real cost of what we build and what's on the roadmap, helping put those dollars to better use. We're hiring across experience levels, and your scope will grow with yours: you'll build, maintain, and improve our models and automation, and lead larger initiatives as you gain experience. As a FinOps Analyst, you\u2019ll: Forecast and get ahead of cost. You'll build and maintain the models that track, allocate, and predict where our cloud and software spend is going, monitor AWS and the rest of our stack for anomalies, and action them the moment they surface. When something breaks, you won't just put out the fire, you'll help build the guardrails that keep it from starting again.&nbsp; Turn spend into decisions leadership can act on. You'll maintain and improve the chargeback model that ties every dollar back to the service, squad, or contract that incurred it, and partner with Accounting and FP&amp;A to keep the numbers aligned. When leaders have a question about cost, you're a trusted resource they come to. Automate anything worth doing twice. You'll use Python and SQL to take manual work off the team's plate, and work with GitHub Actions, Lambda, and DBT against our data warehouse. You'll also help manage AWS reservations and Savings Plans, and we'll teach you any tools that are new to you. If a task repeats, it's a candidate for automation, and you're the one who builds it. Find the work, then drive it home. You'll spot cost and efficiency opportunities, shape them into a pitch with support from teammates and stakeholders, and once approved, help carry them across engineering, product, finance, and accounting to completion. You're the connective tissue that keeps it all moving. Location Time spent collaborating with other Hudlies in-office will be a regular part of how you work. We\u2019re currently prioritizing applicants&nbsp; within commuting distance of Lincoln or Omaha, Nebraska. You\u2019ll be expected to work more days in-office than remote, but will have the freedom to coordinate your specific in-office schedule with your team.&nbsp; Must-Haves See the story in the numbers. You bring 2-5+ years of experience across data analysis, budgeting, and forecasting, or adjacent work such as revenue operations or business analytics, and you're just as comfortable digging into a trend as you are building a budget or projecting what comes next (Cloud FinOps context is a plus). Comfortable with automation and scripting. You have 2-5+ years on the books using code to eliminate manual work, with working comfort in SQL. Python is strongly p",
+   "score": 65,
+   "why": [
+    "analytics: analyst",
+    "entry level",
+    "pay up to $106,000",
+    "asks for heavy experience"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "greenhouse:8093107",
+   "company": "FanDuel",
+   "group": "betting & fantasy",
+   "source": "greenhouse",
+   "title": "Analytics Engineer",
+   "location": "Jersey City, New Jersey, United States",
+   "url": "https://www.fanduel.careers/open-positions?gh_jid=8093107",
+   "posted": "2026-10-27",
+   "description": "THE POSITION Our roster has an opening with your name on it As an Analytics Engineer for our Sports Modeling &amp; Innovation team, you will be responsible for designing, building, maintaining, and improving the data models, datasets and data visualizations which are and will be used by data scientists to power business performance impacting decisions. You will bridge the gap from our data and the Data Engineering team to the data scientists, analysts and other business stakeholders, aiming to leverage that data for insights and business decisions. This is a great opportunity for somebody who wants to work in an environment where curiosity is rewarded, and people are empowered to make decisions. The ideal candidate will have a passion for learning and a desire to optimize how we leverage our data. In addition to the specific responsibilities outlined above, employees may be required to perform other such duties as assigned by the Company. This ensures operational flexibility and allows the Company to meet evolving business needs. THE GAME PLAN Everyone on our team has a part to play Developing pipelines to ensure fast (sometimes real time) ingestion of data into properly thought-out databases (SQL, Delta Lakes, etc.) Maintaining validation pipelines that flag bad or missing data and iterating on these pipelines when new databases are created Manage existing data transformation jobs for the Sports Modeling and Innovation team, help optimize code across our code bases, and troubleshoot any issues Database management \u2013 automate data cleaning projects on large data sets Make decisions between memory and speed tradeoffs to best optimize team\u2019s project needs - help reduce query execution times where possible and remove unnecessary/unused metrics Create and own a backlog of prioritized Tableau dashboard / Rshiny app additions Curiosity about AI and emerging technologies is a plus THE STATS What we're looking for in our next teammate 3+ years of experience working in an analytics/data engineering role 2+ years working on maintaining databases with a focus on improving data ingestion pipelines Deep understanding of relational databases Proficient in SQL, Databricks, R/Python, Tableau, AWS s3 buckets, command line Experience building data pipelines using Python/R and Databricks is a huge advantage Bachelor's Degree, preferably in a highly numerate major (Math, Stats, Econ, etc.) or relevant experience in data analysis role Strong personal organizational and time management skills Ability to work in a fast-paced environment Strong problem-solving skills Experience working in groups on collaborative projects &nbsp; ABOUT FANDUEL FanDuel Group is the premier mobile gaming company in the United States and Canada. FanDuel Group consists of a portfolio of leading brands across mobile wagering including: America\u2019s #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry\u2019s unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product. &nbsp; In addition, FanDuel Group operates FanDuel TV, its broadly distributed linear cable television network and FanDuel TV+, its leading direct-to-consumer OTT platform. FanDuel Group has a presence across all 50 states, Canada, and Puerto Rico. The company is based in New York with US offices in Los Angeles, Atlanta, and Jersey City, as well as global offices in Canada and Scotland. The company\u2019s affiliates have offices worldwide, including in Ireland, Portugal, Romania, and Australia. FanDuel Group is a subsidiary of Flutter Entertainment, the world's largest sports betting and gaming operator with a portfolio of globally recognized brands and traded on the New York Stock Exchange (NYSE: FLUT). PLAYER BENEFITS We treat our team right We offer amazing benefits above and beyond the basics. We have an array of health plans to choose from (some as low as $0 per paycheck) that include programs for fertility and family pla",
+   "score": 60,
+   "why": [
+    "analytics: analytics",
+    "Northeast",
+    "pay up to $152,250",
+    "engineering role (more technical than the goal)"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "greenhouse:6253632004",
+   "company": "Alo",
+   "group": "brand",
+   "source": "greenhouse",
+   "title": "WMS Business Systems Analyst",
+   "location": "Beverly Hills LAND, Beverly Hills, CA (HQ-L); San Ramon, California, United States",
+   "url": "https://boards.greenhouse.io/aloyoga/jobs/6253632004?gh_jid=6253632004",
+   "posted": "2026-11-20",
+   "description": "WHY JOIN ALO? Mindful movement. It\u2019s at the core of why we do what we do at ALO\u2014it\u2019s our calling. Because mindful movement in the studio leads to better living. It changes who yogis are off the mat, making their lives and their communities better. That\u2019s the real meaning of studio-to-street: taking the consciousness from practice on the mat and putting it into practice in life. OVERVIEW We are seeking a highly motivated WMS Business Systems Analyst to support the implementation, optimization, and ongoing administration of Manhattan Active Warehouse Management (WM). This role serves as a key liaison between warehouse operations, business stakeholders, Technology, and vendor partners. The ideal candidate combines strong business process knowledge with technical aptitude and hands-on experience configuring and supporting warehouse management systems. The role will be responsible for translating operational requirements into system capabilities, documenting business processes, developing functional specifications, supporting testing activities, and managing configuration changes within the Warehouse Management System (WMS). Following implementation, this individual will have ownership of the platform's configuration management lifecycle, including configuration design, deployment management, testing coordination, release preparedness, and production promotion activities. This role is ideal for someone who enjoys operating at the intersection of business process design, system configuration, solution delivery, and continuous improvement. RESPONSIBILITIES Business Process Analysis &amp; Requirements Management Partner with warehouse operations, inventory management, transportation, customer service, and supply chain stakeholders to understand business needs. Facilitate discovery sessions, workshops, and process reviews. Document current-state and future-state operational processes. Identify process improvement opportunities leveraging Manhattan Active capabilities. Translate business requirements into clear and actionable functional specifications. Ensure solution designs align with business objectives and operational standards. Responsibilities may include requirements and solution design for: Receiving ASN processing Putaway Replenishment Inventory control Cycle counting Picking Packing Shipping Returns processing Exception management Labor workflows Wave and order release strategies Automation interaction points Functional Design &amp; Solution Support Work closely with WMS vendor consultants, solution architects, and development teams to validate proposed solutions. Analyze business requirements against WMS standard functionality. Recommend configuration-based solutions whenever possible. Participate in solution design workshops and design reviews. Document functional design decisions and business rules. Ensure end-to-end process integrity across upstream and downstream systems. WMS Configuration Management Maintain system configurations supporting business operations. Evaluate requested system changes and enhancements. Configure new capabilities in lower environments. Coordinate testing and validation activities. Manage configuration migration and promotion processes. Maintain configuration documentation and audit trails. Ensure all configuration changes follow approved governance processes. Typical configuration ownership may include: User profiles and permissions Wave strategies Allocation rules Picking methods Replenishment logic Inventory rules Task management settings Workflows Operational parameters Business rule configuration Testing &amp; Quality Assurance Support development of comprehensive test strategies and test plans. Help define detailed functional test cases. Coordinate system integration testing and user acceptance testing. Support defect triage and resolution activities. Verify business requirements are fully satisfied during testing cycles. Participate in go-live readiness assessments. Release &amp; Change Ma",
+   "score": 59,
+   "why": [
+    "analytics: analyst",
+    "entry level",
+    "pay up to $160,000",
+    "asks for heavy experience"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "greenhouse:8303304",
+   "company": "FanDuel",
+   "group": "betting & fantasy",
+   "source": "greenhouse",
+   "title": "Data Scientist, Risk",
+   "location": "Jersey City, New Jersey, United States",
+   "url": "https://www.fanduel.careers/open-positions?gh_jid=8303304",
+   "posted": "2026-10-30",
+   "description": "FanDuel Group is the premier mobile gaming company in the United States and Canada. FanDuel Group consists of a portfolio of leading brands across mobile wagering including: America\u2019s #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry\u2019s unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product. &nbsp; In addition, FanDuel Group operates FanDuel TV, its broadly distributed linear cable television network and FanDuel TV+, its leading direct-to-consumer OTT platform. FanDuel Group has a presence across all 50 states, Canada, and Puerto Rico. The company is based in New York with US offices in Los Angeles, Atlanta, and Jersey City, as well as global offices in Canada and Scotland. The company\u2019s affiliates have offices worldwide, including in Ireland, Portugal, Romania, and Australia. FanDuel Group is a subsidiary of Flutter Entertainment, the world's largest sports betting and gaming operator with a portfolio of globally recognized brands and traded on the New York Stock Exchange (NYSE: FLUT). THE POSITION Our roster has an opening with your name on it We are looking for a Data Scientist for our Risk Data Science team to tackle our most challenging risk modeling problems. Throughout the lifecycle of a model, from data collection through results, you will create predictive models of around price accuracy and customer profiling to build tools and dashboards and drive actionable insights across FanDuel Group. You will be working closely with the product and risk and trading teams, working on problems like betting limits, customer behavior, and assessing pricing accuracy among other challenges. You will promote effective communication of model outputs and contribute to a collaborative code environment. THE GAME PLAN &nbsp; Everyone on our team has a part to play Develop, iterate, and take to production machine learning models to solve problems and drive outcomes in Sportsbook risk management Continuous improvement in pricing techniques - both at an individual level and working with trading teams to optimize betting limits and customer profiling Construct models, analyzes and solutions in response to a question or problem posed by a stakeholder or colleague Manage the data preparation process from collection through cleaning Build robust predictive models, showing capabilities of feature and model selection Contribute to a production code environment Work with decision-makers across the company to understand their goals, identify opportunities to use data to develop new insights and improve business results Create dashboards and data visualizations for analysis and communication &nbsp; THE STATS What we\u2019re looking for in our next teammate A minimum of 1 year of Industry Experience in data science, analytics or engineering preferred Bachelor's Degree in a highly numerate major (Math, Stats, Econ, etc.) or relevant experience in data science preferred Strong analytical and quantitative skills, with high proficiency in Python or R, and SQL Understanding and application of Bayesian statistics Experience building and using models to help create production level products and tools Comfortable with command line tools and GitHub Object-oriented design and coding skills Strong verbal and written communication skills Ability to work across teams, locations and time zones Interest or experience in Sports Gaming and/or Fantasy Sports PLAYER BENEFITS&nbsp; We treat our team right We offer amazing benefits above and beyond the basics. We have an array of health plans to choose from (some as low as $0 per paycheck) that include programs for fertility and family planning, mental health support, and fitness benefits. We offer generous paid time off (PTO &amp; sick leave), annual bonus and long-term incentive opportunities (based on performance), 401k with up to a 5% match, commuter benefits, pet insurance, and more - check out all our benefits here: ",
+   "score": 57,
+   "why": [
+    "technical: data scientist",
+    "Northeast",
+    "pay up to $145,000"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "greenhouse:4756908005",
+   "company": "Prophet",
+   "group": "consulting",
+   "source": "greenhouse",
+   "title": "Paid Search Specialist",
+   "location": "Atlanta, Austin, Chicago, San Francisco, New York City",
+   "url": "https://job-boards.greenhouse.io/prophet/jobs/4756908005",
+   "posted": "2026-11-19",
+   "description": "About The Role We are currently looking for a Paid Search Specialist to join our growing media team. This person will support the planning, execution, optimization, and reporting of paid search campaigns across Google Ads, Microsoft Ads, and related platforms. You\u2019ll manage campaigns across B2B and B2C clients with increasing independence, using data, testing, and search behavior insights to improve performance and connect paid search results to broader client business goals. &nbsp; This role is ideal for someone who is detail-oriented, curious, and comfortable balancing hands-on campaign management with clear communication, collaboration, and strategic thinking. Your Day to Day Manage the day-to-day execution and optimization of paid search campaigns across Google Ads and Microsoft Ads, supporting goals such as lead generation, ecommerce sales, qualified traffic, pipeline growth, and brand visibility. &nbsp; Support campaign planning and setup, including keyword research, account structure, audience strategy, ad copy, bidding, budgets, and trafficking. &nbsp; Monitor campaign performance and compile data for reporting, surfacing trends, risks, insights, and optimization opportunities. &nbsp; Analyze results across Google Ads, Microsoft Ads, GA4, and reporting dashboards to identify patterns and recommend improvements. &nbsp; Contribute to testing across ad copy, keywords, audiences, bidding strategies, landing pages, and campaign structure. &nbsp; Maintain organized campaign documentation, budgets, timelines, pacing trackers, and optimization records. &nbsp; Support conversion tracking, UTM governance, and tagging QA in partnership with analytics and operations teams. &nbsp; Write clear, performance-minded search ad copy tailored to user intent, funnel stage, and client goals. &nbsp; Collaborate with media, analytics, creative, and client strategy teams to support integrated campaign execution. &nbsp; Use AI tools independently to improve analysis quality, accelerate research, support ad copy development, and enhance personal work output. &nbsp; Construct and deliver clear written and verbal communications with limited support. Manage assigned tasks consistently and flag timing, budget, performance, or scope issues proactively. &nbsp; Continue developing a strategic point of view that connects paid search performance back to each client\u2019s broader business goals. &nbsp; What You Bring Bachelor\u2019s degree in Marketing, Advertising, Communications, Business, Analytics, or a related field. &nbsp; 3+ years of hands-on experience managing paid search campaigns across Google Ads and/or Microsoft Ads \u2014 agency or multi-client experience preferred. &nbsp; Working knowledge of paid search setup, optimization, and reporting, including keyword strategy, match types, Responsive Search Ads, extensions, bidding strategies, audience targeting, and budget pacing. &nbsp; Familiarity with Performance Max, Demand Gen, AI Max, or other evolving Google Ads campaign types is a plus. &nbsp; Comfort with GA4, conversion tracking, UTM strategy, and basic tagging concepts. &nbsp; Comfort with data and reporting tools; proficiency in Microsoft Office Suite, particularly Excel, required. &nbsp; Experience with or willingness to learn AI-powered tools for analysis, research, workflow efficiency, and message development. &nbsp; Strong attention to detail, effective communication skills, and the ability to produce polished, client-ready work with limited revisions. &nbsp; A proactive, curious mindset with a team-first approach and a willingness to ask questions, test new ideas, and improve how work gets done. &nbsp; Ability to manage multiple priorities across clients, timelines, and deliverables in a fast-paced agency environment. &nbsp; Location: Austin, Atlanta, Chicago, New York City or San Francisco. Hybrid working model: 3+ full days in office or at client site. &nbsp; Location: Austin, Atlanta, Chicago, New York City or San Francisco Hybrid Working Mode",
+   "score": 57,
+   "why": [
+    "analyst work in description",
+    "city: atlanta, austin, chicago, san ",
+    "Northeast",
+    "sports/media practice",
+    "pay up to $90,000"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "ashby:fa31c080-9bc5-432c-b6e1-5577fcce97e7",
+   "company": "WHOOP",
+   "group": "wearables",
+   "source": "ashby",
+   "title": "Apparel & Accessories Inventory Planner",
+   "location": "Boston, MA",
+   "url": "https://jobs.ashbyhq.com/whoop/fa31c080-9bc5-432c-b6e1-5577fcce97e7",
+   "posted": "2026-10-28",
+   "description": "At WHOOP, we're on a mission to unlock human performance. WHOOP empowers members to perform at a higher level through a deeper understanding of their bodies and daily lives.\n\nAs an Apparel & Accessories Inventory Planner, you will own inventory levels and buy plans for assigned categories and SKUs to support business objectives and achieve financial targets. Reporting to the Senior Inventory Planning Manager, you will manage day-to-day inventory planning and purchasing activities while supporting broader departmental planning initiatives. You will collaborate closely with fellow Inventory Planners, Product Marketing, Go-to-Market (GTM), FP&A, and Operations teams to ensure optimal inventory levels for new product launches, seasonal assortments, and ongoing business needs. The ideal candidate has 3+ years of experience in inventory planning and analysis.\n\nRESPONSIBILITIES:\n\n - Partner with D2C Product Marketing Managers to align inventory plans with product launches, seasonal color stories, and assortment strategies. Develop SKU-level inventory plans across D2C channels and markets to support business needs and product availability.\n\n - Own inventory health and replenishment planning for assigned categories and SKUs. Monitor inventory levels, analyze selling trends, and proactively identify risks and opportunities, including potential stockouts, excess inventory, and slow-moving products. Recommend actions to optimize inventory productivity and availability.\n\n - Translate demand forecasts, sales trends, and product insights into SKU-level buy quantities. Execute purchase orders and adjust purchasing recommendations based on evolving demand, inventory availability, and business priorities.\n\n - Maintain accurate inventory and on-order positions to support the Open-to-Buy (OTB) process. Provide bottom-up analysis of inventory needs, upcoming purchases, and potential risks to inform category-level inventory and financial plans.\n\n - Partner with Supply Chain to align inventory requirements with production lead times, minimum order quantities (MOQs), supplier capacity, and shipping timelines. Proactively identify and communicate potential supply constraints.\n\n - Support inventory allocation and distribution across D2C channels and markets, ensuring the right products are available in the right locations at the right time while balancing customer demand and inventory efficiency.\n\nQUALIFICATIONS:\n\n - 3+ years of experience in inventory management, demand planning, merchandise planning or allocation planning within a consumer goods or innovation-driven industry\n\n - Advanced Excel skills and a strong understanding of retail math required.\n\n - Experience with ERP systems (e.g., NetSuite) and demand and inventory planning platforms (e.g., o9, Anaplan, Blue Yonder, or similar tools) is a plus.\n\n - Experience with AI tools or analytics platforms is a plus, especially for forecasting or demand modeling.\n\n - Strong analytical and problem-solving skills, with the ability to interpret complex data and translate insights into strategic decisions.\n\n - Excellent communication and interpersonal skills; comfortable collaborating with cross-functional teams across operations, supply chain, and marketing.\n\n - Proven ability to thrive in fast-paced, high-growth environments with competing priorities and tight deadlines.\n   \n   \n\nThis role is based in the WHOOP office located in Boston, MA. The successful candidate must be prepared to relocate if necessary to work out of the Boston, MA office.\n\nInterested in the role, but don\u2019t meet every qualification? We encourage you to still apply! At WHOOP, we believe there is much more to a candidate than what is written on paper, and we value character as much as experience. As we continue to build a diverse and inclusive environment, we encourage anyone who is interested in this role to apply.\n\nWHOOP is an Equal Opportunity Employer and participates in E-verify  https://www.e-verify.gov/to determine employment el",
+   "score": 57,
+   "why": [
+    "analyst work in description",
+    "city: boston, ma",
+    "Northeast",
+    "pay up to $110,000"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:dickssportinggoods/job/Customer-Support-Center/Sustainability-Data-Analyst_202640425",
+   "company": "DICK'S Sporting Goods",
+   "group": "brand",
+   "source": "workday",
+   "title": "Sustainability Data Analyst",
+   "location": "Customer Support Center",
+   "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Sustainability-Data-Analyst_202640425",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 56,
+   "why": [
+    "analytics: data analyst",
+    "entry level"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:dickssportinggoods/job/Customer-Support-Center/Analyst---Floor-Planning_202640488",
+   "company": "DICK'S Sporting Goods",
+   "group": "brand",
+   "source": "workday",
+   "title": "Analyst \u2013 Floor Planning",
+   "location": "Customer Support Center",
+   "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Analyst---Floor-Planning_202640488",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 56,
+   "why": [
+    "analytics: analyst",
+    "entry level"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:nike/job/Busan-Korea/FW-Product-Testing-Analyst-II--Korea_R-96973",
+   "company": "Nike",
+   "group": "brand",
+   "source": "workday",
+   "title": "FW Product Testing Analyst II, Korea",
+   "location": "Busan, Korea",
+   "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Busan-Korea/FW-Product-Testing-Analyst-II--Korea_R-96973",
+   "posted": "2026-11-06",
+   "description": "",
+   "score": 56,
+   "why": [
+    "analytics: analyst",
+    "entry level"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "workday:nike/job/Laakdal-Belgium/Supply-Chain-Analyst_R-95762",
+   "company": "Nike",
+   "group": "brand",
+   "source": "workday",
+   "title": "Supply Chain Analyst",
+   "location": "Laakdal, Belgium",
+   "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Laakdal-Belgium/Supply-Chain-Analyst_R-95762",
+   "posted": "2026-10-26",
+   "description": "",
+   "score": 56,
+   "why": [
+    "analytics: analyst",
+    "entry level"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "greenhouse:8227548",
+   "company": "SeatGeek",
+   "group": "ticketing",
+   "source": "greenhouse",
+   "title": "Software Engineer - New Grad",
+   "location": "New York, New York",
+   "url": "https://seatgeek.com/jobs/8227548?gh_jid=8227548",
+   "posted": "2026-10-28",
+   "description": "SeatGeek believes live events are powerful experiences that unite humans. With our technological savvy and fan-first attitude we\u2019re simplifying and modernizing the ticketing industry. We\u2019re building an awesome entertainment ecosystem where fans have effortless access to incredible live experiences, while sports teams, venues, and shows have unprecedented access to their audiences \u2013 because everyone should expect more from the ticketing industry. Open roles for new graduates We are looking for the best and brightest spring/summer of 2027 college graduates to help us make live entertainment even better! Experience is preferred, but not required \u2013 in fact, we look forward to supporting you by teaching you new technologies and mentoring you in software development craft as a member of our world-class engineering team.&nbsp; We have roles open in the following technologies:&nbsp; Backend (Python, Go, C#) Frontend Web (Typescript + React) Mobile (Kotlin, Swift) Platform (AWS, Docker, Python, Go) Machine Learning (PyTorch, lightGBM, LangChain, Strands) What you'll do Solve unique and challenging customer problems Work with leading-edge tech in the cloud or on web and mobile Leverage cutting-edge AI tools to bring ideas to life faster than ever while upholding SeatGeek\u2019s technical and product standards; no token limits Help scale our software as we grow our booming business Take on the challenges of building software for a many-sided marketplace Empower decision-making at a rapidly growing data-driven company&nbsp; Run experiments and evaluate new technologies that will determine the future of our business for years to come Build performant, beautiful, inclusive user interfaces that delight our users and enhance our brand What you have You are a college student graduating in the spring/summer of 2027, ideally in computer science or a related degree Experience in building software. We'll be interested in hearing about what you've built and how you built it Problem solving abilities, adept at handling technical challenges. SeatGeek engineers create custom solutions to unique ticketing problems, including venue mapping, inventory tracking, and event matching. We'll be excited to hear about the problems you've solved Passion for software craftsmanship and product. You hold yourself and your code to a high standard Commitment to your teammates. You enjoy working with a diverse group of people with different experiences and take pride in mentoring and learning from others Our stack You do not need experience with all of these, but we thought you might be curious. What we care about is your experience, skills, and approach to problem-solving. Tools can be learned. Languages: Python, Go, C#+.NET Core, React+Typescript, Swift, Kotlin Datastores: Postgres, Redis, Elasticsearch Cloud: AWS Version control: Gitlab Perks Equity stake Discretionary annual bonus A WFH stipend to support your home office setup Unlimited PTO Up to 16 weeks of fully-paid family leave&nbsp; 401(k) matching&nbsp; Student loan matching program Health, vision, dental, and life insurance Up to $25k towards family building, reproductive health services and Gender-affirming care $500 per year for wellness expenses Subscriptions to Headspace (meditation), Headspace Care (therapy), and One Medical $360 per quarter to spend on tickets to live events Annual subscription to Spotify, Apple Music, or Amazon music **Please note you are expected to come into the SeatGeek New York City Office at least 3 days a week during your first year of employment** The salary range for this role is $120,000-$150,000 USD. This role is equity eligible. In addition, you may receive a discretionary annual bonus based on individual and company performance. Actual compensation packages are based on a wide array of factors unique to each candidate, including but not limited to skill set, years and depth of experience, certifications, and specific location. SeatGeek is committed to providing equal employme",
+   "score": 56,
+   "why": [
+    "technical: software engineer",
+    "entry level",
+    "city: new york, new york",
+    "Northeast",
+    "pay up to $150,000",
+    "engineering role (more technical than the goal)"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "greenhouse:8333930",
+   "company": "FanDuel",
+   "group": "betting & fantasy",
+   "source": "greenhouse",
+   "title": "SEO Marketing Associate",
+   "location": "New York City",
+   "url": "https://www.fanduel.careers/open-positions?gh_jid=8333930",
+   "posted": "2026-11-09",
+   "description": "THE POSITION Our roster has an opening with your name on it FanDuel is seeking an SEO Marketing Associate to drive organic growth for FanDuel\u2019s sportsbook, casino and marketing websites. In this role, you will lead search engine optimization to grow organic traffic and acquisition, while building a growing focus on generative engine optimization (GEO) and answer engine optimization (AEO) so FanDuel is found, cited, and recommended in AI platforms such as Google AI Overviews, ChatGPT, Perplexity, Claude and Gemini. You will collaborate closely with Content, Product, Marketing, Legal/Compliance, and Analytics teams to shape how customers find and engage with FanDuel across search engines, LLM platforms. In addition to the specific responsibilities outlined above, employees may be required to perform other such duties as assigned by the Company. This ensures operational flexibility and allows the Company to meet evolving business needs. THE GAME PLAN Everyone on our team has a part to play Lead SEO strategy for FanDuel\u2019s websites to increase organic traffic, non-brand acquisition, and brand visibility across casino and sports Conduct keyword, topic, and competitive research to inform content creation, updates, and roadmap priorities Partner with writers, editors, product managers, and designers to optimize content for organic discovery from brief through publication Manage content calendars and page-level optimizations aligned with major sports seasons, live events, and business goals Audit and improve on-page and technical SEO elements (meta tags, headers, internal linking, crawlability, page speed, etc.) Develop GEO and AEO strategies to improve visibility in AI Overviews, LLM-powered search, and answer engines, including answer-ready content formats such as FAQs, concise definitions, and comparison and how-to guides Strengthen entity signals and brand authority across the web, including structured data (Schema.org/JSON-LD), consistent product information, and third-party mentions Build and track visibility in AI platforms, measuring how FanDuel is mentioned, cited, and described, and translating findings into content and product priorities Monitor and report on performance using Google Search Console, SEMrush, Ahrefs, app store analytics, and emerging AI visibility tools, translating data into clear recommendations Stay on top of search, &amp; AI algorithm updates and evolving platform behavior Collaborate with engineering, analytics, and legal/compliance teams on technical SEO initiatives, A/B testing, and responsible content standards for regulated products THE STATS&nbsp; What we\u2019re looking for in our teammate 2\u20133+ years of experience in SEO, digital content marketing, or editorial SEO operations Deep understanding of SEO fundamentals including keyword targeting, content structure, and technical hygiene Working knowledge of GEO and AEO, including how LLMs and answer engines retrieve, synthesize, and cite web content, and how to measure visibility within them Demonstrated success growing search traffic through editorial, sports, gaming, or other high-volume consumer content Familiarity with major SEO tools such as SEMrush, Ahrefs, Screaming Frog, and Google Search Console Strong written and verbal communication skills, particularly in cross-functional or editorial environments Strong organizational and project management skills Ability to synthesize SEO, GEO, &amp; AEO insights into actionable strategies Passion for digital media, sports, iGaming, and prediction markets Preferred Qualifications Experience in fast-paced editorial, newsroom, or sports media environments Hands-on experience optimizing for AI search, such as structuring content for AI Overviews, testing prompts across LLM platforms, or tracking AI citations and referral traffic Experience with app store analytics tools or running ASO experiments on app store listings Knowledge of HTML, CSS, JavaScript, and structured data markup (Schema.org, JSON-LD) Understandi",
+   "score": 55,
+   "why": [
+    "analyst work in description",
+    "entry level",
+    "city: new york city",
+    "Northeast"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "greenhouse:8349867",
+   "company": "FanDuel",
+   "group": "betting & fantasy",
+   "source": "greenhouse",
+   "title": "Go-To-Market Associate, Campaigns",
+   "location": "New York City",
+   "url": "https://www.fanduel.careers/open-positions?gh_jid=8349867",
+   "posted": "2026-11-06",
+   "description": "THE POSITION Our roster has an opening with your name on it We're looking for a GTM Campaigns Associate to support FanDuel Predicts go-to-market across our biggest sports moments. You will report to the Manager, GTM Campaigns and support the execution of tentpole Predicts marketing campaigns. You'll help turn established strategies into timelines, briefs, cross-functional plans, and campaign deliverables that bring our biggest moments to market. This role will work across Marketing, Commercial, Media, and other key partners to help keep teams aligned and ensure our most important moments come to life cohesively across the customer journey. In addition to the specific responsibilities outlined above, employees may be required to perform other such duties as assigned by the Company. This ensures operational flexibility and allows the Company to meet evolving business needs. THE GAME PLAN Everyone on our team has a part to play Support the development of GTM strategies for priority moments across the sporting calendar, helping bring together business opportunities, campaign objectives, target audiences, key insights, and measures of success. Support the development of campaign value propositions and messaging, working with Commercial, Product, Media, Campaign Strategy, Creative, and other key stakeholders. Coordinate cross-functional campaign planning from strategy through launch, maintaining timelines and helping teams stay aligned on ownership, key milestones, dependencies, and decisions. Support high-priority GTM campaigns alongside GTM Managers and contribute to the execution of secondary campaigns and ongoing sports moments. Help execute in-season campaign adjustments across creative, communications, promotional generosity, and other GTM tactics based on business performance and evolving priorities. Surface risks and blockers, support campaign QA, and help ensure deliverables are ready for key business moments. Track campaign performance and work with Analytics and GTM leads to capture learnings that can improve future campaigns. THE STATS What we\u2019re looking for in our teammate A minimum of 1-2 years of relevant marketing experience. Bachelor's Degree in Marketing, Business, or a related discipline preferred. Strong project management and cross-functional coordination skills, with the ability to keep multiple workstreams organized and on track. Comfortable working with data and campaign performance metrics to support decisions and identify learnings. Strong written communication, with the ability to create clear briefs, updates, and decks from established strategy. Bias toward action and strong attention to detail, with a willingness to learn and take on increasing ownership over time. Customer obsessed, with genuine interest in sports and the online gaming industry. Familiarity with tools across the marketing stack. ABOUT FANDUEL FanDuel Group is the premier mobile gaming company in the United States and Canada. FanDuel Group consists of a portfolio of leading brands across mobile wagering including: America's #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry's unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product. In addition, FanDuel Group operates FanDuel TV, its broadly distributed linear cable television network and FanDuel TV+, its leading direct-to-consumer OTT platform. FanDuel Group has a presence across all 50 states, Canada, and Puerto Rico. The company is based in New York with US offices in Los Angeles, Atlanta, and Jersey City, as well as global offices in Canada and Scotland. The company's affiliates have offices worldwide, including in Ireland, Portugal, Romania, and Australia. FanDuel Group is a subsidiary of Flutter Entertainment, the world's largest sports betting and gaming operator with a portfolio of globally recognized brands and traded on the New York Stock Exchange (NYSE: FLUT). PLAYER BENEFI",
+   "score": 53,
+   "why": [
+    "analyst work in description",
+    "entry level",
+    "city: new york city",
+    "Northeast"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "greenhouse:8372490",
+   "company": "FanDuel",
+   "group": "betting & fantasy",
+   "source": "greenhouse",
+   "title": "Media Coordinator",
+   "location": "New York City",
+   "url": "https://www.fanduel.careers/open-positions?gh_jid=8372490",
+   "posted": "2026-11-23",
+   "description": "THE POSITION Our roster has an opening with your name on it We are currently looking for a Media Coordinator to support above-the-line (ATL) media operations for our Sports Marketing team. This role will contribute to campaign strategy, execution, optimization, and reporting across Linear TV, OTT/CTV, OOH, Direct Mail and select direct partnerships. If you have a passion for sports, are interested in media / advertising, and enjoy working on multiple projects, we\u2019d love to hear from you. THE GAME PLAN Everyone on our team has a part to play Support day-to-day execution, tracking, and optimization across key above-the-line media channels Generate inputs and insights for reporting such as daily and weekly performance, competitive, creative and spend analysis Assist with building media plans to meet team KPIs across multiple tactics, ensuring the team is establishing and exceeding benchmarks to strengthen our advertising playbook Liaison between internal stakeholders and media agency counterparts managing day-to-day needs and deliverables Work cross-functionally with Analytics, Media Ops, League &amp; Team, Creative Operations, Brand Marketing and Commercial teams on campaign development and implementation Improve internal processes for media campaign management, including automating campaign delivery reporting, streamlining phasing documents, and enhancing billing automation Support budgeting, invoicing, reconciliations, and partner authorizations Facilitate ad-hoc requests as needed THE STATS What we\u2019re looking for in our next teammate Bachelor's degree in business, marketing, or another relevant field with strong academic record Minimum 1+ year of client-facing marketing experience, agency background preferred Meaningful experience working with performance marketing and media metrics (CPM, CPI, CPA, CPC &amp; LTV) and understanding of the utilization and relationship between them Analytically driven with strong understanding of underlying data and methodologies used to inform decision making and drive performance management Excellent communication and interpersonal skills with the ability to build credibility with all stakeholders Strategic and commercial thinker with strong judgment and problem-solving skills A self-starter with meticulous attention to detail and drive to learn and adapt in a fast-paced environment Knowledge of the above-the-line traditional and digital media landscape ABOUT FANDUEL FanDuel Group is the premier mobile gaming company in the United States and Canada. FanDuel Group consists of a portfolio of leading brands across mobile wagering including: America\u2019s #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry\u2019s unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product. &nbsp; In addition, FanDuel Group operates FanDuel TV, its broadly distributed linear cable television network and FanDuel TV+, its leading direct-to-consumer OTT platform. FanDuel Group has a presence across all 50 states, Canada, and Puerto Rico.&nbsp;The company is based in New York with US offices in Los Angeles, Atlanta, and Jersey City, as well as global offices in Canada and Scotland. The company\u2019s affiliates have offices worldwide, including in Ireland, Portugal, Romania, and Australia. FanDuel Group is a subsidiary of Flutter Entertainment, the world's largest sports betting and gaming operator with a portfolio of globally recognized brands and traded on the New York Stock Exchange (NYSE: FLUT). PLAYER BENEFITS We treat our team right We offer amazing benefits above and beyond the basics. We have an array of health plans to choose from (some as low as $0 per paycheck) that include programs for fertility and family planning, mental health support, and fitness benefits. We offer generous paid time off (PTO &amp; sick leave), annual bonus and long-term incentive opportunities (based on performance), 401k with up to a 5% match, commu",
+   "score": 53,
+   "why": [
+    "analyst work in description",
+    "entry level",
+    "city: new york city",
+    "Northeast"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "ashby:9f0a92fb-ebd2-4c8b-9735-b2f852924509",
+   "company": "Tonal",
+   "group": "fitness tech",
+   "source": "ashby",
+   "title": "Change Management Consultant (Contract)",
+   "location": "US, Remote",
+   "url": "https://jobs.ashbyhq.com/tonal/9f0a92fb-ebd2-4c8b-9735-b2f852924509",
+   "posted": "2026-11-25",
+   "description": "Tonal is seeking a contract Change Management Consultant to drive organization transformation for the launch of a new business line, impacting processes across the whole company. This person maps how new processes, systems, and roles ripple across functions, identifies which teams and behaviors must change, and drives the readiness work so each team operates the new way on day one.\n\nThe role brings a risk-management lens, and its primary value is cross-functional impact visibility: surfacing second-order effects that individual teams are not positioned to see, such as how a Sales process change lands on Care/Support, Finance, or Operations/Fulfillment. The consultant partners with Program Management roles and reports to Business Operations.\n\n\n\n\nKEY RESPONSIBILITIES\n\n\n1. CROSS-FUNCTIONAL IMPACT & RISK ANALYSIS\n\n - Build and maintain an enterprise change impact map: which teams, roles, processes, systems, and policies change because of the new business line, and how much.\n\n - Trace second-order effects across team boundaries, such as where one team's new process creates new work, handoffs, or failure points for another. Flag operational risks arising from the change, and solution mitigations with owners.\n\n - Working through functional leads, identify cross-team gaps and dependencies that teams have not surfaced themselves.\n\n - Translate impact into a clear \"what changes for you\" view per function, at both leader and frontline level.\n\n - Escalate cross-team conflicts and unowned gaps with a recommended resolution.\n\n\n2. CHANGE MANAGEMENT, READINESS AND ADOPTION\n\n - Define the specific behaviors that must start, stop, or change per team, and the incentives, tools, or controls that reinforce them.\n\n - Partner with process owners to confirm new processes, roles, and handoffs are documented, owned, and understood.\n\n - Identify resistance hotspots and build targeted plans with the leaders who own them.\n\n - Design and run business readiness criteria and go/no-go checkpoints for each function ahead of launch milestones.\n\n - Develop the change, communications, and enablement plan, coordinating with functional leads.\n\n\n3. STAKEHOLDER ENGAGEMENT AND REPORTING\n\n - Define adoption metrics and track them through launch and hypercare (for example, process compliance, error rates, ticket volume, time to proficiency).\n\n - Coach executive sponsors and functional leaders on their role in visibly leading the change.\n\n - Provide a regular readiness and impact readout to Senior Leadership Team.\n\n - Hand off playbooks, impact maps, and sustainment plans so internal teams own the change after the contract ends.\n\n\nSUCCESS LOOKS LIKE:\n\nNo function surprised at launch; every material process change has a named owner; readiness criteria met by launch date; adoption metrics on target within 60 days of launch.\n\n\n\n\nQUALIFICATIONS\n\n\nREQUIRED\n\n - 7+ years in organizational change management, business readiness, or transformation consulting.\n\n - Led change for three or more new business line launches, market entries, or operating-model changes, each touching 5+ functions, at least one end to end as the change lead.\n\n - Proven change impact assessment and stakeholder analysis across Sales, Operations, Care, Finance,  Product, and cross-functional teams.\n\n - Expert in application of structured change methodologies (Prosci ADKAR, Kotter, or equivalent), able to adapt them to the business.\n\n - Strong written synthesis: turns messy cross-team inputs into one-page impact and readiness views.\n\n\nPREFERRED\n\n - Prosci Certified Change Practitioner or ACMP CCMP.\n\n - Background in consumer hardware, connected fitness, subscription, or DTC/retail.\n\n - Experience with operational risk frameworks or launch risk registers.\n\n - Comfort with Jira, Confluence, Coda, or similar program tooling.\n\nAt Tonal, we believe that the unique and varied lived experiences of our teammates contribute to our overall strength. We don\u2019t just appreciate differences, we celebrate them, and we always ",
+   "score": 51,
+   "why": [
+    "advisory/business: consultant",
+    "city: us, remote",
+    "asks for heavy experience"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "smartrecruiters:744000163139699",
+   "company": "Red Bull (incl. Red Bull New York)",
+   "group": "team",
+   "source": "smartrecruiters",
+   "title": "2027 Internship, Spring - Data Science",
+   "location": "Morristown, NJ, us",
+   "url": "https://jobs.smartrecruiters.com/RedBull/744000163139699",
+   "posted": "2026-11-23",
+   "description": "",
+   "score": 49,
+   "why": [
+    "technical: data science",
+    "internship / fellowship",
+    "Northeast"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "greenhouse:8003570003",
+   "company": "PrizePicks",
+   "group": "betting & fantasy",
+   "source": "greenhouse",
+   "title": "Lifecycle Marketing Specialist",
+   "location": "Atlanta, GA preferred, Remote; New York, NY, USA",
+   "url": "http://prizepicks.com/position?gh_jid=8003570003",
+   "posted": "2026-11-12",
+   "description": "At PrizePicks, we are the fastest-growing sports company in North America, as recognized by Inc. 5000. As the leading platform for Daily Fantasy Sports, we cover a diverse range of sports leagues, including the NFL, NBA, and Esports titles like League of Legends and Counter-Strike. Our team of over 550 employees thrives in an inclusive culture that values individuals from diverse backgrounds, regardless of their level of sports fandom. Ready to reimagine the DFS industry together?&nbsp; &nbsp; PrizePicks is seeking a highly motivated and experienced Lifecycle Marketing Specialist to build and own the customer lifecycle strategy for one of our newest product lines, from the ground up. This is a rare opportunity to shape a lifecycle marketing function during an early, fast-moving build phase \u2014 owning strategy and cross-functional representation for a product that's still taking shape. The successful candidate will have a strong background in CRM, lifecycle marketing, and customer engagement strategies, and will be comfortable operating with ambiguity in a 0-to-1 environment. What you\u2019ll do: Own the end-to-end lifecycle strategy for a newly launched product line, driving its core repurchase and retention goal primarily through organic lifecycle communications. Design and execute post-purchase nurture flows, re-engagement nudges, and usage reminders. Partner with analytics to monitor a key guardrail metric that distinguishes genuine reinvestment from cash-out behavior, and to maintain a consistent ROI/attribution methodology across all lifecycle domains. Represent Lifecycle Marketing on the product\u2019s cross-functional team, filling a dedicated seat among its workstream owners. Coordinate with other lifecycle domains to avoid overlapping campaigns and ensure a consistent end-to-end customer experience. Work with lifecycle analysts to define and extend customer segmentation to cover this product\u2019s activity. Participate in shared quarterly tentpole campaign planning (major sports moments and product launch events), contributing your product\u2019s unique angle to a unified brief. What you have: Bachelor\u2019s degree in Marketing, Business, Communications, Analytics, or a related field preferred, but not required. Minimum of 3 years of experience in customer success, email/lifecycle, or CRM marketing roles. Proficiency in CRM platforms such as Braze, Optimove, or similar tools is highly preferred. Strong understanding of email/in-app/push marketing best practices and copywriting skills. Comfort operating in ambiguous, pre-launch environments and building lifecycle processes from scratch. Experience in Daily Fantasy Sports, gaming, e-commerce, or subscription/consumer products is preferred. Ability to analyze data and metrics to drive actionable insights and optimize campaign performance. Organized and detail-oriented, with a proven track record of managing multiple projects and meeting deadlines in a fast-paced environment. Excellent communication, collaboration, and problem-solving skills. Where you\u2019ll live: While we prefer candidates based in Atlanta or New York City, we are open to qualified applicants from anywhere in the U.S. and are willing to consider remote candidates. #LI-Remote&nbsp; Working at PrizePicks: The typical salary range for this position is $60,000 to $80,000 At PrizePicks, we consider your role, level, and where you'll be working when determining our salary ranges. The compensation info you see on our job postings gives you an idea of the starting pay range for the position. Your actual pay within that range will depend on your specific work location, as well as your skills, experience, and education. Your recruiter will be happy to chat more about the specific pay range for your location and how we arrived at it during the hiring process.&nbsp; This application period will remain open for 30 days. We\u2019re committed to finding the best candidate, so this date may be adjusted, and any changes will be reflected in this posting",
+   "score": 48,
+   "why": [
+    "analyst work in description",
+    "city: atlanta, ga preferred, remote;",
+    "Northeast",
+    "pay up to $80,000"
+   ],
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "greenhouse:8227553",
+   "company": "SeatGeek",
+   "group": "ticketing",
+   "source": "greenhouse",
+   "title": "Software Engineer - Internship",
+   "location": "New York, New York",
+   "url": "https://seatgeek.com/jobs/8227553?gh_jid=8227553",
+   "posted": "2026-10-28",
+   "description": "SeatGeek believes live events are powerful experiences that unite humans. With our technological savvy and fan-first attitude we\u2019re simplifying and modernizing the ticketing industry. By catering to both consumers and enterprises, we\u2019re powering a new, open entertainment ecosystem where fans have effortless access to experiences, and teams, venues, and shows have seamless access to their audiences. Because everyone should expect more from ticketing. Open roles for interns We are looking for the best and brightest college interns who graduate in the spring/summer of 2028 to help us make live entertainment even better! Experience is preferred, but not required \u2013 in fact, we look forward to supporting you by teaching you new technologies and mentoring you in software development craft as a member of our world-class engineering team. Backend (Python, Go) Frontend Web (Typescript + React) Mobile (Kotlin, Swift) Platform (AWS, Docker, Python, Go) This is a 12 week summer Internship Program with a hybrid work style (expected to be on-site 50% of the week) at our corporate office in NYC. What you'll do Design cloud-native software architecture Build performant, beautiful, inclusive user interfaces that delight our users and enhance our brand Scale our software to support a booming business Leverage cutting-edge AI tools to bring ideas to life faster than ever while upholding SeatGeek\u2019s technical and product standards; no token limits Build a many-sided marketplace Empower decision-making at a rapidly growing data-driven company&nbsp; Run experiments and evaluate new technologies that will determine the future of our business for years to come What you have You are currently enrolled college student studying Computer Science or a related degree Experience in building or testing software. We'll be interested in hearing about what you've built and how you built it Problem solving skills - adept at handling technical challenges. SeatGeek engineers create custom solutions to unique ticketing problems, including venue mapping, inventory tracking, and event matching Passion for software craftsmanship and products. You hold yourself and your code to a high standard Commitment to your teammates. You enjoy working with a diverse group of people with different experiences and take pride in mentoring and learning from others Our stack You do not need experience with all of these, but we thought you might be curious. What we care about is your experience, skills, and approach to problem-solving. Tools can be learned. Languages: Python, Go, C#+.NET Core, React+Typescript, Swift, Kotlin Datastores: Postgres, Redis, Elasticsearch Cloud: AWS Version control: Gitlab Internship perks $360 per quarter to spend on tickets to live events Monthly commuter card for transportation Subscription to Headspace Free lunch &amp; snacks is provided every day in the office Weekly planned events like comedy/broadway shows, sports games, museum visits and more Housing stipend **Please note you are expected to come into the SeatGeek New York City office at least 3 days a week** The compensation for this role is $55/hour USD (based on a 40 hour work week). SeatGeek is committed to providing equal employment opportunities to all employees and applicants for employment regardless of race, color, religion, creed, age, national origin or ancestry, ethnicity, sex, sexual orientation, gender identity or expression, disability, military or veteran status, or any other category protected by federal, state, or local law. As an equal opportunities employer, we recognize that diversity is a positive attribute and we welcome the differences and benefits that a diverse culture brings. Come join us! To review our candidate privacy notice,&nbsp; click here .",
+   "score": 48,
+   "why": [
+    "technical: software engineer",
+    "internship / fellowship",
+    "city: new york, new york",
+    "Northeast",
+    "pay $55/hr",
+    "engineering role (more technical than the goal)"
    ],
    "first_seen": "2026-11-25"
   }
