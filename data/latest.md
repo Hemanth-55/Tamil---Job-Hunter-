@@ -1,6 +1,6 @@
 # Job Hunter · 25 Nov 2026
 
-**27** open roles fit · **27** new today · 3,232 postings read from 41 employer boards
+**27** open roles fit · **27** new today · 3,235 postings read from 41 employer boards
 
 | Fit | Role | Company | Location | Posted |
 |:-:|---|---|---|---|
