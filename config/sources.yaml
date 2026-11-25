@@ -1,0 +1,72 @@
+# Employer job boards the scout reads directly.
+# Every board was checked on 2026-11-25: it exists and belongs to the named organization.
+# A posting found here comes straight from the employer's own hiring system, so it is real by construction.
+# Add a board: find the company's careers page, note the ATS (greenhouse / lever / ashby / smartrecruiters / workday)
+# and its slug, then run `python src/scout.py --check` to confirm it resolves.
+
+greenhouse:
+  # sports tech & data
+  - {slug: hudl, name: Hudl, group: sports tech}
+  - {slug: catapultsports, name: Catapult, group: sports tech}
+  - {slug: geniussports, name: Genius Sports, group: sports data}
+  - {slug: kinexon, name: KINEXON, group: sports tech}
+  - {slug: playonsports, name: PlayOn! Sports, group: sports media}
+  # betting, fantasy, markets
+  - {slug: fanduel, name: FanDuel, group: betting & fantasy}
+  - {slug: prizepicks, name: PrizePicks, group: betting & fantasy}
+  - {slug: underdog, name: Underdog, group: betting & fantasy}
+  - {slug: penninteractive, name: Penn Interactive (theScore), group: betting & fantasy}
+  - {slug: kalshi, name: Kalshi, group: betting & fantasy}
+  # leagues, teams, venues, ticketing
+  - {slug: majorleaguesoccer, name: Major League Soccer, group: league}
+  - {slug: monumentalsports, name: Monumental Sports & Entertainment, group: team}
+  - {slug: fsg, name: Fenway Sports Group, group: team}
+  - {slug: seatgeek, name: SeatGeek, group: ticketing}
+  # media
+  - {slug: fubotv, name: Fubo, group: sports media}
+  - {slug: barstoolsports, name: Barstool Sports, group: sports media}
+  - {slug: octagon, name: Octagon, group: agency}
+  # brands, fitness, wearables
+  - {slug: fanaticsinc, name: Fanatics, group: brand}
+  - {slug: onrunning, name: "On", group: brand}
+  - {slug: gymshark, name: Gymshark, group: brand}
+  - {slug: aloyoga, name: Alo, group: brand}
+  - {slug: liquiddeath, name: Liquid Death, group: brand}
+  - {slug: oura, name: Oura, group: wearables}
+  - {slug: peloton, name: Peloton, group: fitness tech}
+  - {slug: zwift, name: Zwift, group: fitness tech}
+
+lever:
+  - {slug: redsox, name: Boston Red Sox, group: team}
+  - {slug: theathletic, name: The Athletic, group: sports media}
+  - {slug: teamsnap, name: TeamSnap, group: sports tech}
+  - {slug: kitmanlabs, name: Kitman Labs, group: sports tech}
+
+ashby:
+  - {slug: whoop, name: WHOOP, group: wearables}
+  - {slug: strava, name: Strava, group: fitness tech}
+  - {slug: tonal, name: Tonal, group: fitness tech}
+  - {slug: teamworks, name: Teamworks, group: sports tech}
+  - {slug: gamechanger, name: GameChanger, group: sports tech}
+  - {slug: sleeper, name: Sleeper, group: betting & fantasy}
+
+smartrecruiters:
+  - {slug: sportradar, name: Sportradar, group: sports data}
+
+workday:
+  - {tenant: draftkings, wd: 1, site: DraftKings, name: DraftKings, group: betting & fantasy}
+  - {tenant: nike, wd: 1, site: nke, name: Nike, group: brand}
+  - {tenant: dickssportinggoods, wd: 1, site: DSG, name: "DICK'S Sporting Goods", group: brand}
+  - {tenant: disney, wd: 5, site: disneycareer, name: Disney (incl. ESPN), group: sports media}
+
+# Read by the agent in a browser or from email alerts (they block scripts or need Hemi's login):
+manual:
+  - {name: TeamWork Online, url: "https://www.teamworkonline.com/jobs-in-sports", why: "Official board for NFL, NBA, MLB, NHL, MLS and team front-office jobs"}
+  - {name: NBA Careers, url: "https://careers.nba.com", why: "League office + team jobs"}
+  - {name: NFL Careers, url: "https://www.nfl.com/careers", why: "League office, NFL Films, NFL Media"}
+  - {name: MLB Careers, url: "https://www.mlb.com/careers", why: "League office + MLB Advanced Media"}
+  - {name: Handshake, url: "https://app.joinhandshake.com", why: "Suffolk-verified employers, internships (Hemi's login)"}
+  - {name: LinkedIn Jobs, url: "https://www.linkedin.com/jobs", why: "Broad reach (Hemi's login or job-alert emails in Gmail)"}
+  - {name: New Balance, url: "https://jobs.newbalance.com", why: "Boston HQ"}
+  - {name: Under Armour, url: "https://careers.underarmour.com", why: "Brand analytics roles"}
+  - {name: adidas, url: "https://careers.adidas-group.com", why: "Consumer and performance analytics"}

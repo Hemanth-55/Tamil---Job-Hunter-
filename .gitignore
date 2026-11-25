@@ -1,0 +1,9 @@
+# Tailored résumés and the application tracker are private: they live in Hemi's "Job Hunts" folder.
+resume/tailored/*
+!resume/tailored/.gitkeep
+!resume/tailored/example_*.yaml
+Job Hunts/
+*.docx
+*.pdf
+__pycache__/
+.DS_Store

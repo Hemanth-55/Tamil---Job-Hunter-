@@ -1,0 +1,37 @@
+# What a good job looks like for Hemi. The scout scores every posting against this.
+# Edit freely: say "Tamil, add X to my job targets".
+
+candidate:
+  grad_date: 2027-05          # MS Business Analytics, Suffolk University
+  home_base: Boston, MA
+
+# Role families, strongest first. A title or description hit adds points.
+roles:
+  core:       [sports analytics, sports science, performance analytics, player analytics, basketball analytics,
+               baseball analytics, football analytics, hockey analytics, soccer analytics, research & development,
+               quantitative analyst, data scientist, data analyst, machine learning, computer vision, analytics, sports analyst, data science,
+               baseball operations, basketball operations, hockey operations, football operations, scouting,
+               quantitative, research scientist, hitting analyst, pitching analyst]
+  adjacent:   [business intelligence, bi analyst, insights, decision science, strategy & analytics, fan analytics,
+               consumer analytics, marketing analytics, pricing, trading analyst, product analyst, data engineer,
+               ai engineer, applied scientist, research analyst, business analyst, ai/ml, ml engineer, data products,
+               ux researcher, revenue analyst, operations analyst]
+
+levels:
+  want:  [intern, internship, co-op, fellow, fellowship, associate, analyst, junior, entry, new grad, graduate,
+          early career, rotational, apprentice, coordinator]
+  avoid: [senior, sr., sr , staff, principal, lead, manager, director, head of, vp, vice president, chief, architect, iii, iv]
+
+# Locations: Boston first, then remote US, then major sports hubs.
+locations:
+  prefer: [boston, massachusetts, " ma", remote, new york, ny, united states, usa, us-remote]
+  ok:     [new jersey, philadelphia, washington, chicago, atlanta, los angeles, san francisco, seattle, denver, austin, dallas, charlotte]
+
+# Hard filters: drop these titles outright.
+exclude_titles: [retail, store, sales associate, stock associate, warehouse, distribution associate, driver, cashier,
+                 seasonal, part-time, part time, nurse, physician, attorney, counsel, paralegal, recruiter, chef,
+                 security officer, technician, mechanic, forklift, bartender, box office, payroll, tax, hris, grc,
+                 compliance, cyber, clinical]
+
+min_score: 45        # 0–100; below this a posting is dropped
+max_age_days: 45     # ignore postings older than this when the board gives a date

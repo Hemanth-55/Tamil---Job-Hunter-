@@ -1,0 +1,132 @@
+# Hemi's master résumé: the ONLY source of facts for every tailored résumé.
+# Every number here is real and comes from his projects, repos or his own words.
+# Tailored résumés pick and reword from this bank; `python src/check_facts.py` blocks any number not found here.
+# Update this file when something new happens (new project, new role, new result), then push.
+
+contact:
+  name: Hemanth Kumar Gopi
+  # phone is kept out of this public repo; it is read from "Job Hunts/_private/contact.yaml" on Hemi's Mac
+  email: hemanthkumargopi55@gmail.com
+  links:
+    - {label: Portfolio, url: "https://hemanthkumargopi.vercel.app"}
+    - {label: LinkedIn, url: "https://www.linkedin.com/in/hemanthkumargopi"}
+    - {label: GitHub, url: "https://github.com/Hemanth-55"}
+
+skills:
+  core: [Python, SQL, Excel, Tableau, Gen AI, Google Cloud Platform, Predictive Modelling]
+  python_libs: [pandas, NumPy, scikit-learn, matplotlib]
+  also_shown: [JavaScript, HTML/CSS, OpenCV, Ultralytics YOLO11, OCR, Claude, Playwright, causal inference,
+               text analytics (TF-IDF), SAP S/4HANA, Power BI, Google Analytics]
+
+summary_bank:
+  - id: athlete-analyst
+    text: "Professional cricketer and MS Business Analytics candidate who uses data to improve performance on the field, with hands-on experience in machine learning, computer vision and sports data."
+  - id: ml
+    text: "Builds end-to-end machine learning projects in Python (pandas, NumPy, scikit-learn, matplotlib): honest baselines, cross-validated model selection and a held-out test used once."
+  - id: cv
+    text: "Built a computer vision pipeline (OpenCV, YOLO11 pose, OCR) that turns broadcast video into ball-by-ball and body-tracking data."
+  - id: tools
+    text: "Skilled in Python, SQL, Excel, Tableau, Gen AI, Google Cloud Platform and predictive modelling; ships work as GitHub repositories and a live portfolio."
+  - id: ai-builder
+    text: "Builds AI-assisted products and agentic workflows with Claude, with human review before anything ships."
+  - id: business
+    text: "Teaches SAP S/4HANA business processes as a Graduate Fellow and turns analysis into clear recommendations for non-technical audiences."
+  - id: mit
+    text: "Selected mentee in the MIT Sloan Sports Analytics Conference mentorship program."
+
+education:
+  - degree: Master of Science, Business Analytics
+    school: Suffolk University, Sawyer Business School
+    location: Boston, MA
+    dates: Expected 05/2027
+  - degree: Bachelor of Engineering, Computer Science and Engineering
+    school: Loyola-ICAM College of Engineering and Technology (Anna University)
+    location: Chennai, India
+    dates: 11/2021
+  - id: certs
+    line: "Certifications: Google Analytics, Market Research, Power BI Workshop"
+
+experience:
+  - id: ta
+    title: Graduate Fellow – Teaching Assistant
+    org: Suffolk University
+    location: Boston, MA
+    dates: 09/2026 – Present
+    bullets:
+      - "Guide undergraduate and graduate students through hands-on SAP S/4HANA exercises in Sales & Distribution and Materials Management."
+      - "Run ERP lab and help sessions for 3 professors and grade lab submissions."
+      - "Troubleshoot students' business-process errors and explain the fix in plain language."
+  - id: mit
+    title: Mentee, Sports Analytics Mentorship Program
+    org: MIT Sloan Sports Analytics Conference
+    location: ""
+    dates: 01/2026 – Present
+    bullets:
+      - "Selected for a six-month program pairing participants with experienced sports analytics professionals."
+  - id: cricket
+    title: Professional Cricketer (Opening Batter)
+    org: "TNCA & TNPL (Dindigul Dragons), India · Massachusetts State & Charlotte Premier Leagues, USA"
+    location: ""
+    dates: 06/2017 – Present
+    bullets:
+      - "Used video telemetry and spatial data (wagon wheels, heat maps) to cut missed-delivery rate from 20% to 7%."
+      - "Worked with team analysts on opponent performance KPIs and turned them into tactical insights for captains."
+      - "Led a diverse squad of 15+ players in high-intensity matches."
+  - id: cheers
+    title: Marketing Analyst Intern
+    org: Cheers Chocolates
+    location: Chennai, India
+    dates: 07/2022 – 05/2023
+    bullets:
+      - "Tracked engagement metrics across 3+ social platforms and optimized social media strategy, increasing audience interaction by 32% within 10 months."
+
+projects:
+  - id: soccer
+    name: Soccer Player Recruitment Model
+    tag: Python, scikit-learn
+    link: "https://github.com/Hemanth-55/Soccer-Player-Recruitment-Model"
+    bullets:
+      - "Forecast next-season goals + assists per 90 for 941 Big-5 league players from 39 features (FBref via Kaggle); chose a ridge + random forest blend by 5-fold cross-validation."
+      - "Reached R² 0.68 and Spearman 0.82 on a held-out test of 189 players, with 19% less error than last season's rate; forecast 1,484 players for 2026–27."
+  - id: cv
+    name: First Computer Vision Project
+    tag: Python, OpenCV, YOLO11, OCR
+    link: "https://github.com/Hemanth-55/First-Computer-Vision-Project"
+    bullets:
+      - "Built a computer vision pipeline (Python, OpenCV, YOLO11 pose, OCR) that rebuilt a 73-off-44 innings ball by ball from 3,976 broadcast frames and tracked 17 body points across 9 strokes."
+      - "Read the scoreboard with OCR to rebuild the innings timeline, detected 45 camera shots, and found stance varies 2.4 times less than body shape at contact (7.6% vs 18.2% of height)."
+  - id: market-value
+    name: Football Player Market Value Model
+    tag: Python, Gradient Boosting
+    link: "https://github.com/Hemanth-55/Predicting-Football-Player-Market-Value-Using-Performance-and-Career-Metrics"
+    bullets:
+      - "Predicted player market value across European leagues with Gradient Boosting, SMOTE and log-transformed features; ~80% better than linear baselines (R² 0.612)."
+      - "Cut valuation error by €1.7M per player and flagged 64 undervalued transfer targets."
+  - id: portfolio
+    name: Hemi Portfolio Web App
+    tag: JavaScript, HTML/CSS, Claude
+    link: "https://hemanthkumargopi.vercel.app"
+    bullets:
+      - "Built an interactive portfolio with Claude as AI coding assistant: a canvas engine with 2,600 particles, 10+ scroll-driven scenes and a dedicated phone layout."
+      - "Released through GitHub and Vercel with Playwright tests on 6 screen sizes; reviewed AI output and removed unverified claims."
+  - id: tamil
+    name: Tamil, Agentic AI Assistant
+    tag: Claude, Gmail, Google Calendar
+    bullets:
+      - "Built a personal AI assistant on Claude with 3 custom skills, connected to Gmail and Google Calendar for email triage, reply drafts and reminders."
+      - "Runs 2 scheduled daily briefs; a human approves every email before it is sent."
+  - id: rivalry
+    name: Rivalry Messaging Experiment
+    tag: Causal inference
+    bullets:
+      - "Showed rivalry framing raised average donations by $7.26, a significant effect (p = 0.025) among geographically connected fans."
+  - id: benjerry
+    name: Ben & Jerry's Brand-Language Analytics
+    tag: TF-IDF, Logistic Regression
+    bullets:
+      - "Used TF-IDF, logistic regression and Baron-Kenny mediation on 519 users: moral-mission framing drove negative referrals, sensory product language drove positive word of mouth."
+
+never_claim:
+  - "NBA Predictive Analytics Platform has no results yet: do not claim numbers for it."
+  - "Do not describe any project as done at BU."
+  - "Never write 'former' cricketer."

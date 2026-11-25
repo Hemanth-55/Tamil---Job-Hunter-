@@ -1,0 +1,34 @@
+target:
+  company: FanDuel
+  role: Campaign Analytics, Data Analyst
+  location: New York City
+  url: "https://www.fanduel.careers/open-positions?gh_jid=8055746"
+  verified: "Live on FanDuel's own Greenhouse board (gh_jid 8055746), read 2026-11-25."
+  gaps: "Asks for 1+ years in a similar role: Hemi has a 10-month marketing analyst internship plus project work."
+  why_fit: "Campaign measurement and customer behavior analysis for Sportsbook promotions; asks for SQL, Excel, Python and careful use of AI."
+summary:
+  - "Professional cricketer and MS Business Analytics candidate who uses data to improve performance, now focused on sports and fan analytics."
+  - "Measures what campaigns actually change: showed rivalry framing raised average donations by $7.26 (p = 0.025), and grew social audience interaction by 32% as a marketing analyst."
+  - "Skilled in SQL, Excel, Python (pandas, NumPy, scikit-learn, matplotlib), Tableau and predictive modelling, with clear visualizations and plain-language results."
+  - "Uses AI to work faster without blind trust: builds with Claude and reviews every output, removing unverified claims before anything ships."
+experience:
+  - id: cheers
+    bullets:
+      - "Tracked engagement metrics across 3+ social platforms and optimized social media strategy, increasing audience interaction by 32% within 10 months."
+  - id: ta
+    bullets:
+      - "Guide undergraduate and graduate students through hands-on SAP S/4HANA exercises in Sales & Distribution and Materials Management."
+      - "Run ERP lab and help sessions for 3 professors, grade lab submissions and explain process errors in plain language."
+  - id: cricket
+    bullets:
+      - "Used video telemetry and spatial data (wagon wheels, heat maps) to cut missed-delivery rate from 20% to 7%."
+      - "Worked with team analysts on opponent performance KPIs and turned them into tactical insights for captains."
+  - id: mit
+projects:
+  - id: rivalry
+  - id: soccer
+    bullets:
+      - "Forecast next-season goals + assists per 90 for 941 Big-5 league players from 39 features; chose a ridge + random forest blend by 5-fold cross-validation."
+      - "Reached R² 0.68 and Spearman 0.82 on a held-out test of 189 players, with 19% less error than last season's rate."
+  - id: benjerry
+  - id: portfolio

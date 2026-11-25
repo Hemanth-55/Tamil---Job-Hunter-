@@ -1,0 +1,38 @@
+name: Scout
+
+# Reads 40+ sports employers' own job boards every morning and commits the fits to data/.
+# Free: GitHub Actions only, no API keys, no language model.
+on:
+  schedule:
+    - cron: "41 11 * * *"     # 6:41 AM Boston (winter, UTC-5); 7:41 AM in summer
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["src/scout.py", "config/**", ".github/workflows/scout.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scout
+  cancel-in-progress: false
+
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python src/scout.py
+      - name: Commit if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && exit 0
+          git commit -m "Scout: $(date -u +%F) · $(python -c "import json;print(json.load(open('data/inbox.json'))['count'])") open roles fit"
+          git pull --rebase && git push
