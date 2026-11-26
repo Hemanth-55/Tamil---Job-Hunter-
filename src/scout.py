@@ -191,6 +191,8 @@ def score(j: dict, t: dict) -> tuple[int, list[str]]:
         return 0, ["too senior"]
     if non_us(loc):
         return 0, ["outside the US"]
+    if j.get("source") == "workday" and not us_signal(loc):   # Workday often gives a bare city
+        return 0, ["no clear US location"]
 
     s = 0
     adv, ana, tech = (has(title, t["roles"][k]) for k in ("advisory", "analytics", "technical"))
@@ -247,6 +249,21 @@ NON_US = ("uk", "united kingdom", "england", "scotland", "london", "edinburgh", 
           "slovenia", "ljubljana", "norway", "trondheim", "uruguay", "montevideo", "finland", "helsinki", "oulu",
           "qatar", "doha", "china", "shanghai", "japan", "tokyo", "hong kong", "italy", "poland", "portugal", "lisbon",
           "israel", "tel aviv", "bratislava", "budapest", "prague", "warsaw", "bucharest", "madrid", "barcelona", "milan", "rome", "berlin", "frankfurt", "chennai", "mumbai", "navi mumbai", "hyderabad", "gurugram", "gurgaon", "bengaluru", "bangalore", "pune", "kolkata", "noida", "delhi", "manila", "kuala lumpur", "buenos aires", "sao paulo", "são paulo", "bogota", "bogotá", "santiago", "lima", "johannesburg", "cairo", "riyadh", "seoul", "taipei", "bangkok", "jakarta", "ho chi minh", "cebu", "taguig", "south africa", "new zealand", "colombia", "argentina", "turkey", "uae", "dubai")
+
+
+US_STATES = ("alabama", "alaska", "arizona", "arkansas", "california", "colorado", "connecticut", "delaware", "florida",
+             "georgia", "hawaii", "idaho", "illinois", "indiana", "iowa", "kansas", "kentucky", "louisiana", "maine",
+             "maryland", "massachusetts", "michigan", "minnesota", "mississippi", "missouri", "montana", "nebraska",
+             "nevada", "new hampshire", "new jersey", "new mexico", "new york", "north carolina", "north dakota", "ohio",
+             "oklahoma", "oregon", "pennsylvania", "rhode island", "south carolina", "south dakota", "tennessee", "texas",
+             "utah", "vermont", "virginia", "washington", "west virginia", "wisconsin", "wyoming", "united states", "usa",
+             "remote", "customer support center", "beaverton", "pittsburgh", "coraopolis")
+
+
+def us_signal(loc: str) -> bool:
+    loc = (loc or "").lower()
+    return bool(has(loc, US_STATES) or re.search(r"(,|\b)\s*(al|ak|az|ar|ca|co|ct|de|fl|ga|hi|id|il|in|ia|ks|ky|la|me|md|ma|mi|mn|ms|mo|mt|ne|nv|nh|nj|nm|ny|nc|nd|oh|ok|or|pa|ri|sc|sd|tn|tx|ut|vt|va|wa|wv|wi|wy|dc)\b\s*(,|$)", loc)
+                or has(loc, ["boston", "chicago", "los angeles", "san francisco", "seattle", "denver", "atlanta", "dallas", "austin", "miami", "charlotte", "nashville", "houston", "phoenix"]))
 
 
 def non_us(loc: str) -> bool:
