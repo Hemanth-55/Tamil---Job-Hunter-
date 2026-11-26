@@ -23,6 +23,7 @@ greenhouse:
   - {slug: fsg, name: Fenway Sports Group, group: team}
   - {slug: seatgeek, name: SeatGeek, group: ticketing}
   # consulting & advisory (checked 2026-11-25)
+  - {slug: playsports, name: Playfly Sports, group: consulting}
   - {slug: prophet, name: Prophet, group: consulting}
   - {slug: activate, name: Activate Consulting, group: consulting}
   - {slug: sphereentertainment, name: Sphere Entertainment, group: sports & entertainment}
@@ -61,6 +62,7 @@ smartrecruiters:
   - {slug: RedBull, name: Red Bull (incl. Red Bull New York), group: team}
 
 workday:
+  - {tenant: caa, wd: 1, site: Careers, name: CAA, group: agency, queries: [intern, analyst, brand, consulting, strategy]}
   - {tenant: accenture, wd: 103, site: AccentureCareers, name: Accenture, group: consulting,
      queries: [analyst sports, advisory analyst, business analyst, strategy analyst, consulting analyst, analytics analyst, intern analyst]}
   - {tenant: draftkings, wd: 1, site: DraftKings, name: DraftKings, group: betting & fantasy}
@@ -70,6 +72,8 @@ workday:
 
 # Read by the agent in a browser or from email alerts (they block scripts or need Hemi's login):
 manual:
+  - {name: Global Sports Jobs, url: "https://www.globalsportsjobs.com/jobs?roleType=%5B%22internship%22%5D", why: "Sports-only board; mostly Europe, filter to US (found CAA, Red Bull NY roles)"}
+  - {name: The Sports Intern, url: "https://www.jobs.thesportsintern.com/jobs", why: "US sports internships (found Playfly consulting roles); trace each to the employer's own posting"}
   - {name: TeamWork Online, url: "https://www.teamworkonline.com/jobs-in-sports", why: "Official board for NFL, NBA, MLB, NHL, MLS and team front-office jobs"}
   - {name: NBA Careers, url: "https://careers.nba.com", why: "League office + team jobs"}
   - {name: NFL Careers, url: "https://www.nfl.com/careers", why: "League office, NFL Films, NFL Media"}

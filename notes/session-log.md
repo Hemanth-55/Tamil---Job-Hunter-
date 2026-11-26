@@ -1,5 +1,11 @@
 # Session log (newest first)
 
+## 2026-11-25 (night): New sources, board re-sorted to 19 roles
+- Done: from Hemi's two sites, added 7 verified roles (Playfly Sports Consulting / Consulting & Analytics / Research & Insights / Integrated Marketing Strategy / Global Partnerships; Red Bull NY Spring 2027 Corporate Partnerships; CAA Summer 2027 Brand Management). Board re-sorted for the advisor path (01–19) in ~/Desktop/Job Hunts.
+- Added to scout: Playfly (Greenhouse playsports), CAA (Workday); manual: Global Sports Jobs, The Sports Intern.
+- LinkedIn: not scraped (ToS/account risk). Use job-alert emails in Gmail and a read-only look at his feed in his own browser during sessions.
+- Next: 3 PM 26 Nov apply session (reminder set): Hemi picks numbers, `apply` skill, submit only after his yes.
+
 ## 2026-11-25: Job Hunts folder filled; approval-to-submit rule
 - Done: 12 verified roles packaged into ~/Desktop/Job Hunts (sorted 01–12 by fit, advisory résumés with phone, Job.md, tracker, 00 · Job Board.md). Fixed Workday location bug (Accenture roles abroad leaked in).
 - Decision: Job Hunter may submit applications, but only after Hemi explicitly approves the exact package via Tamil CEO (new `apply` skill).
