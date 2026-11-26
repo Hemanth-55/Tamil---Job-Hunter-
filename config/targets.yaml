@@ -52,7 +52,8 @@ exclude_titles: [retail, store, sales associate, stock associate, warehouse, dis
                  security officer, technician, mechanic, forklift, bartender, box office, payroll, tax, hris, grc,
                  compliance, cyber, clinical, musketeer, territory manager, account executive, sales representative,
                  inside sales, customer support, help desk, security, privacy, soc analyst, threat, fraud,
-                 implementation consultant, it support, network]
+                 implementation consultant, it support, network, cybersecurity, ticket sales, sales and service,
+                 sales & service, sales consultant, membership sales, premium sales]
 
 min_score: 45        # 0–100; below this a posting is dropped
 max_age_days: 45     # ignore postings older than this when the board gives a date
