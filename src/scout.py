@@ -128,8 +128,12 @@ def workday(b):
             if not path or path in seen:
                 continue
             seen.add(path)
+            loc = j.get("locationsText") or ""
+            if not loc or "location" in loc.lower():          # "2 Locations": fall back to the city in the job path
+                m = re.match(r"/job/([^/]+)/", path)
+                loc = (m.group(1).replace("-", " ") if m else loc)
             yield job(b["name"], b["group"], "workday", f"{b['tenant']}{path}", j.get("title"),
-                      j.get("locationsText"), f"{base}/{b['site']}{path}", relative_date(j.get("postedOn")), "")
+                      loc, f"{base}/{b['site']}{path}", relative_date(j.get("postedOn")), "")
 
 
 def relative_date(s: str | None) -> str | None:
@@ -242,7 +246,7 @@ NON_US = ("uk", "united kingdom", "england", "scotland", "london", "edinburgh", 
           "estonia", "tallinn", "singapore", "brazil", "mexico", "philippines", "muntinlupa", "greece", "athens",
           "slovenia", "ljubljana", "norway", "trondheim", "uruguay", "montevideo", "finland", "helsinki", "oulu",
           "qatar", "doha", "china", "shanghai", "japan", "tokyo", "hong kong", "italy", "poland", "portugal", "lisbon",
-          "israel", "tel aviv", "south africa", "new zealand", "colombia", "argentina", "turkey", "uae", "dubai")
+          "israel", "tel aviv", "bratislava", "budapest", "prague", "warsaw", "bucharest", "madrid", "barcelona", "milan", "rome", "berlin", "frankfurt", "chennai", "mumbai", "navi mumbai", "hyderabad", "gurugram", "gurgaon", "bengaluru", "bangalore", "pune", "kolkata", "noida", "delhi", "manila", "kuala lumpur", "buenos aires", "sao paulo", "são paulo", "bogota", "bogotá", "santiago", "lima", "johannesburg", "cairo", "riyadh", "seoul", "taipei", "bangkok", "jakarta", "ho chi minh", "cebu", "taguig", "south africa", "new zealand", "colombia", "argentina", "turkey", "uae", "dubai")
 
 
 def non_us(loc: str) -> bool:

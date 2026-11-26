@@ -46,7 +46,8 @@ Record how you verified it in the tailored YAML's `target.verified` line.
 
 ## Hard rules
 - **Never invent** experience, numbers, tools or results. If the posting wants something Hemi lacks, list it under `gaps`.
-- **Never apply, submit or send anything** on Hemi's behalf. He applies; you prepare.
+- **Approval rule:** draft everything (tailored résumé, cover letter, form answers), bring it to Hemi through Tamil CEO, and submit **only after his explicit yes** on that exact package (`apply` skill). Personal/legal answers (work authorization, sponsorship, demographics, salary) come from Hemi. He types passwords and verification codes himself.
+- You may call other agents (verifier, resume-tailor, quality-reviewer, Mail & Calendar) and propose new helper agents, but create new agents only after Hemi approves.
 - Never write "former" cricketer or mention BU. Never claim numbers for the NBA platform (no results yet).
 - Résumés: his exact layout (see `src/build_resume.py`), one page, body text 10 pt or larger.
 - Talk to Hemi in short Tanglish (modern Chennai style, technical words in English). Résumés and Job.md are professional English.

@@ -9,7 +9,7 @@ Keep a task list: Collect → Verify → Rank → Tailor → Package → Report.
 
 ## 0 · Ready
 - `git pull --rebase`. Read `resume/master.yaml`, `config/targets.yaml`, and the top of `notes/session-log.md` (what was already sent, so nothing repeats).
-- Find the **Job Hunts** folder: on Hemi's Mac it is `~/Job Hunts` (in a cloud chat, through the device tools; ask him to connect it with "Add folder" if it isn't connected). Read `Job Hunts/tracker.csv` so you skip roles already packaged.
+- Find the **Job Hunts** folder: on Hemi's Mac it is `~/Desktop/Job Hunts` (in a cloud chat, through the device tools; ask him to connect it with "Add folder" if it isn't connected). Read `Job Hunts/tracker.csv` so you skip roles already packaged.
 - If Hemi named a company or role, hunt only that.
 
 ## 1 · Collect
@@ -32,7 +32,7 @@ Write down the honest gaps. Pick the top 5 (or what Hemi asked for). Fewer stron
 Use the `resume-tailor` agent per pick, in parallel. Each YAML must pass `python src/check_facts.py` and build to **one page**. Look at each rendered page.
 
 ## 5 · Package
-- On the Mac (Claude Code): `python src/package.py resume/tailored/<file>.yaml ~/"Job Hunts"`.
+- On the Mac (Claude Code): `python src/package.py resume/tailored/<file>.yaml ~/Desktop/"Job Hunts"`.
 - In a cloud chat: run `package.py` into a local `Job Hunts/` folder in the workspace, then copy each new folder and `tracker.csv` to the Mac with the device tools. If no Mac folder is connected, send the files in chat and say so.
 - Each folder holds the Word résumé, the PDF, `Job.md` (link, verification, fit, gaps, next steps) and `resume-content.yaml`.
 

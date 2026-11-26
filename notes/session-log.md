@@ -1,5 +1,10 @@
 # Session log (newest first)
 
+## 2026-11-25: Job Hunts folder filled; approval-to-submit rule
+- Done: 12 verified roles packaged into ~/Desktop/Job Hunts (sorted 01–12 by fit, advisory résumés with phone, Job.md, tracker, 00 · Job Board.md). Fixed Workday location bug (Accenture roles abroad leaked in).
+- Decision: Job Hunter may submit applications, but only after Hemi explicitly approves the exact package via Tamil CEO (new `apply` skill).
+- Next: Hemi picks roles ("apply to 03"); tailor + cover letter + answers per role.
+
 ## 2026-11-25: Red Bull New York Academy Scout (from a LinkedIn post)
 - Done: traced Hemi's LinkedIn link to RBNY's Spring 2027 Academy Scout internship; verified live on Red Bull's SmartRecruiters (744000163139079, posted 2026-11-23); tailored + packaged résumé.
 - Found alongside: Spring 2027 Data Science and RBII Team Analysis internships (same board, Morristown NJ).

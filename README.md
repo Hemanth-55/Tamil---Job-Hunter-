@@ -53,7 +53,7 @@ pip install -r requirements.txt
 python src/scout.py                     # read every board, write data/
 python src/scout.py --check             # confirm each board still resolves
 python src/check_facts.py resume/tailored/<role>.yaml
-python src/package.py resume/tailored/<role>.yaml ~/"Job Hunts"
+python src/package.py resume/tailored/<role>.yaml ~/Desktop/"Job Hunts"
 ```
 
 Or in a Claude session on this repo, say **"Tamil, hunt"**.

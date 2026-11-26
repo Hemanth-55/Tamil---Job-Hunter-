@@ -41,7 +41,8 @@ def master() -> dict:
 
 def private_contact() -> dict:
     """Phone lives only on Hemi's Mac, never in the public repo."""
-    for p in [Path.home() / "Job Hunts" / "_private" / "contact.yaml",
+    for p in [Path.home() / "Desktop" / "Job Hunts" / "_private" / "contact.yaml",
+              Path.home() / "Job Hunts" / "_private" / "contact.yaml",
               Path.home() / "mnt" / "Job Hunts" / "_private" / "contact.yaml"]:
         if p.exists():
             return yaml.safe_load(p.read_text()) or {}
