@@ -1,5 +1,12 @@
 # Session log (newest first)
 
+## 2026-11-27 · Batch A applications submitted
+- Submitted 12 applications (FanDuel x5, Alo x2, Red Bull x2, Tonal, DICK'S x2). Skipped 3 CAA roles: postings exclude anyone needing sponsorship now or later.
+- New rules: cover letters are narrative (Hemi's story → linked subtly to each role, src/build_cover.py `body:`); preferred name always just "Hemi" (Workday forces a last name).
+- New: src/applied_list.py builds "Applied Jobs.md" in Job Hunts from tracker.csv; rerun after each submission.
+- Answers used: authorized Yes, future sponsorship Yes (H-1B), pay = mid of posted range or $70K (DICK'S), demographics Asian/Male/not veteran, disability "prefer not". Hemi ticks arbitration/legal boxes and attaches files himself.
+- Next (Fri 4 Dec, 10 PM ET, reminder set): Batch B/C not yet approved (Playfly, RBNY internships, PrizePicks); check eligibility, ask Hemi; optional fresh hunt.
+
 ## 2026-11-25 (night): New sources, board re-sorted to 19 roles
 - Done: from Hemi's two sites, added 7 verified roles (Playfly Sports Consulting / Consulting & Analytics / Research & Insights / Integrated Marketing Strategy / Global Partnerships; Red Bull NY Spring 2027 Corporate Partnerships; CAA Summer 2027 Brand Management). Board re-sorted for the advisor path (01–19) in ~/Desktop/Job Hunts.
 - Added to scout: Playfly (Greenhouse playsports), CAA (Workday); manual: Global Sports Jobs, The Sports Intern.
