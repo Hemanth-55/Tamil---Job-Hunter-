@@ -1,6 +1,8 @@
 """Tamil - Job Hunter · build cover letters
 
-One page, Arial, consultant voice: why this company -> the business problem -> proof -> close.
+One page, Arial. Default since 27 Nov 2026: a narrative letter (`body:` paragraphs) that tells Hemi's story,
+from the cricket ground in Chennai to analytics in Boston, and links it quietly to this exact role.
+Older letters use the template: why this company -> the business problem -> proof -> close.
 Facts only from resume/master.yaml (every number is checked). Phone comes from the private contact file.
 
   python src/build_cover.py resume/cover_letters.yaml OUT_DIR [--only 01,02] [--contact path/to/contact.yaml]
@@ -37,6 +39,8 @@ def para(doc, text="", after=8, align=None, size=BODY, bold=False):
 
 def letter_text(cfg, nn):
     L = cfg["letters"][nn]
+    if "body" in L:  # narrative letter (Hemi's rule, 27 Nov 2026): his story, linked to this role
+        return L, [t.strip() for t in L["body"]]
     pr = [cfg["proofs"][k] for k in L["proofs"]]
     body = [L["why"], " ".join([L["problem"], pr[0]]), " ".join(pr[1:]), cfg["availability"][L["avail"]] + " " + cfg["close"]]
     return L, body
@@ -50,7 +54,7 @@ def fact_check(texts, master_nums):
 
 def build(cfg, nn, out_dir, contact, master_nums):
     L, body = letter_text(cfg, nn)
-    bad, banned = fact_check([L["why"], *body], master_nums)
+    bad, banned = fact_check([L.get("why", ""), *body], master_nums)
     if bad or banned:
         raise SystemExit(f"{nn}: fact check failed: numbers not in master {bad} {banned}")
     doc = Document()

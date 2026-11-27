@@ -161,6 +161,11 @@ projects:
 
     advisory_bullets:
       - "Asked which brand language drives word of mouth: TF-IDF, logistic regression and Baron-Kenny mediation on 519 users showed sensory product language drove positive referrals while moral-mission framing drove negative ones, pointing messaging toward the product."
+story:
+  # Hemi's own words, for narrative cover letters. No new numbers here.
+  - "Grew up in Chennai; learned the game on the cricket grounds at IIT Madras (Chemplast) and SRMC."
+  - "Opening batter, still playing: TNPL for Dindigul Dragons in India; Massachusetts State Cricket League and Charlotte Premier League in the US."
+  - "Pivot: from engineering (computer science) and a marketing analyst internship in Chennai to an MS in Business Analytics in Boston, to build a career advising the sports industry."
 never_claim:
   - "NBA Predictive Analytics Platform has no results yet: do not claim numbers for it."
   - "Do not describe any project as done at BU."
