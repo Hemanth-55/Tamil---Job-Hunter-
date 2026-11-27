@@ -7,3 +7,4 @@ Job Hunts/
 *.pdf
 __pycache__/
 .DS_Store
+resume/cover_letters.yaml
