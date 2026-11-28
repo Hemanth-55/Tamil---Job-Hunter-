@@ -4,6 +4,12 @@
 # Add a board: find the company's careers page, note the ATS (greenhouse / lever / ashby / smartrecruiters / workday)
 # and its slug, then run `python src/scout.py --check` to confirm it resolves.
 
+# Sports-only aggregator with a public JSON feed (added 2026-11-27 at Hemi's request).
+# ~3,400 roles from MLB, NFL, NBA, NHL, MLS, NWSL, WNBA, MiLB teams, league offices and sportsbooks.
+# Each role links to the employer's own application form; robots.txt allows /api/jobs.
+sportscareers:
+  - {name: SportsCareers, group: aggregator, feed: "https://www.sports-careers.com/api/jobs", site: "https://www.sports-careers.com"}
+
 greenhouse:
   # sports tech & data
   - {slug: hudl, name: Hudl, group: sports tech}

@@ -1,5 +1,9 @@
 # Session log (newest first)
 
+## 2026-11-27: SportsCareers added to the scout
+- Done: new source `sportscareers` (sports-careers.com/api/jobs, allowed by its robots.txt; one request a run). ~3,400 team, league and sportsbook roles; each links to the employer's own application form. Scout now de-duplicates the same posting across boards. First run: 75 fits, 57 from SportsCareers (Orioles, Rockies, Dolphins, D.C. United, Fanatics, Kalshi…).
+- Next: Hemi wants to start applying tomorrow: tailor packages for the top roles, Hemi approves each one before anything is submitted.
+
 ## 2026-11-27 · Batch A applications submitted
 - Submitted 12 applications (FanDuel x5, Alo x2, Red Bull x2, Tonal, DICK'S x2). Skipped 3 CAA roles: postings exclude anyone needing sponsorship now or later.
 - New rules: cover letters are narrative (Hemi's story → linked subtly to each role, src/build_cover.py `body:`); preferred name always just "Hemi" (Workday forces a last name).

@@ -136,6 +136,22 @@ def workday(b):
                       loc, f"{base}/{b['site']}{path}", relative_date(j.get("postedOn")), "")
 
 
+def sportscareers(b):
+    """SportsCareers (sports-careers.com) aggregates ~3,000 team, league and sportsbook roles in one public feed.
+    Its robots.txt allows /api/jobs, and every job url points to the employer's own application system,
+    so a role found here still passes the 'employer's own site' rule. One request per run."""
+    js = fetch(b.get("feed", "https://www.sports-careers.com/api/jobs"))
+    for j in (js or {}).get("jobs", []):
+        e = j.get("enr") or {}
+        league = j.get("league") or ""
+        desc = " ".join(x for x in [j.get("description"), j.get("metadata"), e.get("dep"), e.get("lvl"),
+                                    e.get("emp"), e.get("wm"), e.get("wk"), "analytics" if e.get("an") else "",
+                                    f"{league} sports" if league else "sports"] if x)
+        yield job(j.get("org") or b["name"], f"{league} · via SportsCareers" if league else "via SportsCareers",
+                  "sportscareers", j.get("id"), j.get("title"), j.get("location"), j.get("url"),
+                  (j.get("posted") or "")[:10] or None, text(desc))
+
+
 def relative_date(s: str | None) -> str | None:
     """Workday says 'Posted Today' / 'Posted 3 Days Ago' / 'Posted 30+ Days Ago'."""
     if not s:
@@ -149,7 +165,7 @@ def relative_date(s: str | None) -> str | None:
     return (TODAY - dt.timedelta(days=int(m.group(1)))).isoformat() if m else None
 
 
-READERS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby,
+READERS = {"sportscareers": sportscareers, "greenhouse": greenhouse, "lever": lever, "ashby": ashby,
            "smartrecruiters": smartrecruiters, "workday": workday}
 
 
@@ -310,16 +326,21 @@ def main():
     DATA.mkdir(exist_ok=True)
     seen_path = DATA / "seen.json"
     seen = json.loads(seen_path.read_text()) if seen_path.exists() else {}
-    found, stats = [], []
+    found, stats, urls = [], [], set()
     for kind, b, reader in boards():
         n = kept = 0
         for j in reader(b):
             n += 1
+            key = (j.get("url") or "").split("?")[0].rstrip("/").lower()
+            if key and key in urls:                 # same posting already found on another board
+                continue
             s, why = score(j, t)
             if s >= t["min_score"] and fresh(j, t["max_age_days"]):
                 j.update(score=s, why=why, first_seen=seen.get(j["id"], TODAY.isoformat()))
                 j["description"] = j["description"][:4000]
                 found.append(j); kept += 1
+                if key:
+                    urls.add(key)
         stats.append((b["name"], n, kept))
         print(f"{b['name']:34} {n:4} open  {kept:3} fit", flush=True)
 

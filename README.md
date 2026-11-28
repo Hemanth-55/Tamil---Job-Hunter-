@@ -18,7 +18,7 @@ It is part of **Tamil**, my personal agent system built on Claude, and reports t
 
 | Stage | What happens | Where |
 |---|---|---|
-| **1 · Scout** | Reads 40 sports employers' job boards (Greenhouse, Lever, Ashby, SmartRecruiters, Workday) and scores every posting for role, level, location and skills | `src/scout.py`, daily on GitHub Actions |
+| **1 · Scout** | Reads the SportsCareers feed and 40 sports employers' job boards (Greenhouse, Lever, Ashby, SmartRecruiters, Workday) and scores every posting for role, level, location and skills | `src/scout.py`, daily on GitHub Actions |
 | **2 · Widen** | Adds team and league roles from TeamWork Online and league career sites, plus LinkedIn and Handshake leads | Claude session |
 | **3 · Verify** | Keeps a role only if it is live on the employer's own site, on the employer's domain, with no scam signals | `verifier` agent |
 | **4 · Rank** | Reads the full posting against my real experience and lists the honest gaps | `job-hunter` agent |
@@ -31,7 +31,7 @@ I review every résumé and apply myself. The agent never submits anything.
 
 | | |
 |---|---|
-| **Sources** | Teams and leagues (Boston Red Sox, Fenway Sports Group, MLS, Monumental), sports data and tech (Sportradar, Genius Sports, Hudl, Catapult, KINEXON, Teamworks), betting and fantasy (DraftKings, FanDuel, PrizePicks, Underdog), media (Disney/ESPN, The Athletic), brands and wearables (Nike, Fanatics, WHOOP, Strava, Oura) |
+| **Sources** | **SportsCareers** (sports-careers.com: ~3,400 team, league and sportsbook roles in one public feed, each linking to the employer's own application form), plus teams and leagues (Boston Red Sox, Fenway Sports Group, MLS, Monumental), sports data and tech (Sportradar, Genius Sports, Hudl, Catapult, KINEXON, Teamworks), betting and fantasy (DraftKings, FanDuel, PrizePicks, Underdog), media (Disney/ESPN, The Athletic), brands and wearables (Nike, Fanatics, WHOOP, Strava, Oura) |
 | **Role match** | Sports, data, ML and computer vision titles score highest; adjacent analytics roles score lower; retail, warehouse and part-time roles are removed |
 | **Level** | Internships, fellowships, analyst, associate and new-grad roles score up; senior, staff, lead and manager roles are removed |
 | **Location** | Boston first, then remote US, then US sports hubs; roles that are only outside the US are removed |

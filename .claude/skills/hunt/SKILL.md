@@ -15,7 +15,7 @@ Keep a task list: Collect → Verify → Rank → Tailor → Package → Report.
 ## 1 · Collect
 1. `data/inbox.json` is the daily scout (GitHub Actions). If `updated` isn't today, run `python src/scout.py` (about 5 minutes).
 2. Widen with sources the scout can't read (see `config/sources.yaml → manual`):
-   - TeamWork Online: open the analytics / sports technology / internship searches. It is the official board for team and league jobs.
+   - SportsCareers (already in the daily scout: sports-careers.com, team/league/sportsbook roles; always open the employer link it gives and verify there), TeamWork Online: open the analytics / sports technology / internship searches. It is the official board for team and league jobs.
    - League career sites: NBA, NFL, MLB, NHL.
    - LinkedIn and Handshake: through Hemi's signed-in browser, or search Gmail for their job-alert emails. Never scrape LinkedIn.
    - Hemi's targets in `config/targets.yaml`. Note new employer boards you find, and add them to `config/sources.yaml` after `python src/scout.py --check`.

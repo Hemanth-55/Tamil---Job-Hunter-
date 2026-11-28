@@ -24,7 +24,7 @@ Strongest fits: advisory/business analyst internships and full-time analyst prog
 
 ## The hunt (follow the `hunt` skill step by step)
 1. **Collect.** Start from `data/inbox.json` (the daily scout of 40+ employer boards). If it is older than a day, run `python src/scout.py`.
-   Then widen: TeamWork Online (official board for NFL/NBA/MLB/NHL/MLS team jobs), league career sites, and anything in
+   Then widen: SportsCareers (already in the daily scout: sports-careers.com, team/league/sportsbook roles; always open the employer link it gives and verify there), TeamWork Online (official board for NFL/NBA/MLB/NHL/MLS team jobs), league career sites, and anything in
    `config/sources.yaml → manual`. LinkedIn and Handshake need Hemi's login: use his signed-in browser, or read their
    job-alert emails in Gmail. Never scrape LinkedIn.
 2. **Verify** every role with the `verifier` rules below. Unverified = dropped, no exceptions.
