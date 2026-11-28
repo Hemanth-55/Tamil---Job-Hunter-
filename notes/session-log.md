@@ -1,5 +1,11 @@
 # Session log (newest first)
 
+## 2026-11-28 · Morning hunt (SportsCareers first batch)
+- Packaged 4 (not submitted): Orioles · Analyst, Business Strategy ($70–90K + bonus, starts early 2027 → ask about a mid-2027 start); Orioles · Analyst, Major League Strategy & Analytics ($60–80K, baseball-specific gap); D.C. United · Analyst, CRM & Strategy (pinned); Rockies · Business Strategy Analyst. Narrative cover letters for all 4. check_facts OK, 1 page each.
+- Verified: both Orioles roles via the Greenhouse API (live, no sponsorship restriction stated). D.C. United + Rockies: live in the SportsCareers feed, but TeamWork Online blocks scripts and Hemi's Mac was offline, so the full postings (and work-authorization wording) still need one read in his browser before applying.
+- Skipped: Vegas Golden Knights BSA Associate (part-time, on-site Las Vegas through June 2027). Saints/Pelicans Strategy & Analytics: Dayforce page needs a browser; next time.
+- Mac offline during the run: packages sent to Hemi in chat as a zip; copy into ~/Desktop/Job Hunts with tracker.csv when the Mac is back.
+
 ## 2026-11-27: SportsCareers added to the scout
 - Hemi pinned D.C. United · Analyst, CRM & Strategy (TeamWork Online) → new `config/watchlist.yaml`; the hunt prepares pinned roles first.
 - Done: new source `sportscareers` (sports-careers.com/api/jobs, allowed by its robots.txt; one request a run). ~3,400 team, league and sportsbook roles; each links to the employer's own application form. Scout now de-duplicates the same posting across boards. First run: 75 fits, 57 from SportsCareers (Orioles, Rockies, Dolphins, D.C. United, Fanatics, Kalshi…).
