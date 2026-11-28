@@ -14,6 +14,7 @@ Keep a task list: Collect → Verify → Rank → Tailor → Package → Report.
 
 ## 1 · Collect
 1. `data/inbox.json` is the daily scout (GitHub Actions). If `updated` isn't today, run `python src/scout.py` (about 5 minutes).
+1b. **Pinned roles first:** everything in `config/watchlist.yaml` is prepared before anything else, whatever its score, if it is still live and doesn't exclude visa sponsorship. TeamWork Online links need a real browser.
 2. Widen with sources the scout can't read (see `config/sources.yaml → manual`):
    - SportsCareers (already in the daily scout: sports-careers.com, team/league/sportsbook roles; always open the employer link it gives and verify there), TeamWork Online: open the analytics / sports technology / internship searches. It is the official board for team and league jobs.
    - League career sites: NBA, NFL, MLB, NHL.

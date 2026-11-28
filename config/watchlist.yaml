@@ -1,0 +1,10 @@
+# Roles Hemi pinned himself. The hunt prepares these FIRST, whatever their score, as long as they are still live
+# and don't exclude visa sponsorship. Remove a role once it's applied for or closed (it stays in tracker.csv).
+pinned:
+  - title: "Analyst, CRM & Strategy"
+    company: D.C. United
+    location: Washington, DC (on-site, full-time, entry level)
+    url: https://www.teamworkonline.com/soccer-jobs/dc-united/d-c--united/analyst-crm-strategy-2201006
+    found_via: SportsCareers feed + Hemi (pinned 2026-11-27)
+    posted: 2026-11-24
+    note: "TeamWork Online blocks scripts: open it in Hemi's browser to read the full posting and check work-authorization wording."

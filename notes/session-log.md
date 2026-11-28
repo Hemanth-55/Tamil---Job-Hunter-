@@ -1,6 +1,7 @@
 # Session log (newest first)
 
 ## 2026-11-27: SportsCareers added to the scout
+- Hemi pinned D.C. United · Analyst, CRM & Strategy (TeamWork Online) → new `config/watchlist.yaml`; the hunt prepares pinned roles first.
 - Done: new source `sportscareers` (sports-careers.com/api/jobs, allowed by its robots.txt; one request a run). ~3,400 team, league and sportsbook roles; each links to the employer's own application form. Scout now de-duplicates the same posting across boards. First run: 75 fits, 57 from SportsCareers (Orioles, Rockies, Dolphins, D.C. United, Fanatics, Kalshi…).
 - Next: Hemi wants to start applying tomorrow: tailor packages for the top roles, Hemi approves each one before anything is submitted.
 
